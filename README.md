@@ -7,18 +7,6 @@ This is the first homework of the NLP 2022 course at Sapienza University of Rome
 * **Roberto Navigli**
   * Webpage: http://www.diag.uniroma1.it/~navigli/
 
-#### Teaching Assistants
-
-* **Andrea Bacciu**
-* **Andrei Stefan Bejgu**
-* **Valerio Neri**
-* **Riccardo Orlando**
-* **Alessandro Scirè**
-* **Simone Tedeschi**
-
-#### Course Info
-
-* http://naviglinlp.blogspot.com/
 
 ## Requirements
 
@@ -65,7 +53,7 @@ Your model will be exposed through a REST server. In order to call it, we need a
 (the evaluation script) but it needs some dependecies to run. We will be using conda to create the environment for this client.
 
 ```bash
-conda create -n nlp2022-hw1 python=3.9
+conda create -n nlp2022-hw1 python=3.7
 conda activate nlp2022-hw1
 pip install -r requirements.txt
 ```

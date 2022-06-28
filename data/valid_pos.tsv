@@ -1,0 +1,14281 @@
+#	id	0
+on	ADP
+the	DET
+day	NOUN
+of	ADP
+the	DET
+referendum	NOUN
+michael	PROPN
+ashcroft	PROPN
+polling	PROPN
+team	NOUN
+questioned	VERB
+11	NUM
+people	NOUN
+who	PRON
+had	AUX
+completed	VERB
+voting	NOUN
+.	PUNCT
+
+#	id	1
+rpms	NOUN
+are	AUX
+often	ADV
+collected	VERB
+centrally	ADV
+in	ADP
+one	NUM
+or	CCONJ
+more	ADJ
+software	NOUN
+repository	NOUN
+on	ADP
+the	DET
+internet	NOUN
+.	PUNCT
+
+#	id	2
+in	ADP
+1	NUM
+he	PRON
+played	VERB
+for	ADP
+two	NUM
+teams	NOUN
+,	PUNCT
+the	DET
+orlando	PROPN
+predators	NOUN
+and	CCONJ
+the	DET
+dallas	PROPN
+texans	PROPN
+.	PUNCT
+
+#	id	3
+the	DET
+original	ADJ
+game	NOUN
+was	AUX
+released	VERB
+for	ADP
+ms-dos	NOUN
+first	ADV
+,	PUNCT
+then	ADV
+commodore	NOUN
+amiga	PROPN
+,	PUNCT
+amiga	PROPN
+cd1	PROPN
+,	PUNCT
+apple	NOUN
+macintosh	NOUN
+,	PUNCT
+sega	NOUN
+saturn	NOUN
+and	CCONJ
+playstation	NOUN
+.	PUNCT
+
+#	id	4
+it	PRON
+was	AUX
+the	DET
+seventh	ADJ
+edition	NOUN
+conducted	VERB
+by	ADP
+the	DET
+united	PROPN
+states	PROPN
+golf	PROPN
+association	PROPN
+(	PUNCT
+usga	PROPN
+)	PUNCT
+.	PUNCT
+
+#	id	5
+tom	PROPN
+fogerty	PROPN
+-	PUNCT
+rhythm	NOUN
+guitar	NOUN
+,	PUNCT
+backing	VERB
+vocals	NOUN
+(	PUNCT
+1	NUM
+-	SYM
+1	NUM
+;	PUNCT
+died	VERB
+1	NUM
+)	PUNCT
+
+#	id	6
+isabel	PROPN
+mclaughlin	PROPN
+(	PUNCT
+1	NUM
+-	SYM
+1	NUM
+)	PUNCT
+-	PUNCT
+artist	NOUN
+,	PUNCT
+patron	NOUN
+and	CCONJ
+philanthropist	NOUN
+;	PUNCT
+member	NOUN
+of	ADP
+the	DET
+canadian	ADJ
+group	NOUN
+of	ADP
+painters	NOUN
+
+#	id	7
+he	PRON
+has	AUX
+fought	VERB
+in	ADP
+many	ADJ
+well	ADV
+known	VERB
+mixed	ADJ
+martial	ADJ
+arts	NOUN
+organizations	NOUN
+as	ADP
+shooto	NOUN
+,	PUNCT
+deep	ADJ
+and	CCONJ
+bellator	NOUN
+mma	PROPN
+.	PUNCT
+
+#	id	8
+on	ADP
+pickup	NOUN
+truck	NOUN
+it	PRON
+is	AUX
+sometimes	ADV
+called	VERB
+a	DET
+dually	ADV
+.	PUNCT
+
+#	id	9
+she	PRON
+was	AUX
+research	NOUN
+fellow	NOUN
+at	ADP
+somerville	PROPN
+college	NOUN
+from	ADP
+1	NUM
+until	ADP
+1	NUM
+.	PUNCT
+
+#	id	10
+christina	PROPN
+aguilera	PROPN
+,	PUNCT
+pink	NOUN
+,	PUNCT
+lil	ADJ
+kim	PROPN
+and	CCONJ
+mya	NOUN
+-	PUNCT
+lady	NOUN
+marmalade	NOUN
+
+#	id	11
+it	PRON
+was	AUX
+listed	VERB
+on	ADP
+the	DET
+national	ADJ
+register	NOUN
+of	ADP
+historic	ADJ
+places	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	12
+often	ADV
+contracted	VERB
+as	ADP
+tu	PROPN
+,	PUNCT
+the	DET
+organization	NOUN
+began	VERB
+in	ADP
+1	NUM
+in	ADP
+michigan	PROPN
+.	PUNCT
+
+#	id	13
+she	PRON
+studied	VERB
+chemistry	NOUN
+at	ADP
+the	DET
+vietnam	PROPN
+national	PROPN
+university	PROPN
+,	PUNCT
+which	PRON
+she	PRON
+graduated	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	14
+coldspring	NOUN
+shares	VERB
+its	PRON
+western	ADJ
+border	NOUN
+with	ADP
+the	DET
+towns	NOUN
+of	ADP
+south	PROPN
+valley	PROPN
+and	CCONJ
+randolph	PROPN
+.	PUNCT
+
+#	id	15
+the	DET
+film	NOUN
+garnered	VERB
+a	DET
+1	NUM
+%	NOUN
+approval	NOUN
+rating	NOUN
+from	ADP
+1	NUM
+critics	NOUN
+-	PUNCT
+a	DET
+mixed	ADJ
+to	ADP
+negative	ADJ
+rating	NOUN
+of	ADP
+11	NUM
+out	ADP
+of	ADP
+1	NUM
+-	PUNCT
+on	ADP
+the	DET
+review	PROPN
+aggregate	NOUN
+website	NOUN
+rotten	ADJ
+tomatoes	NOUN
+.	PUNCT
+
+#	id	16
+the	DET
+1	NUM
+expansion	NOUN
+team	NOUN
+,	PUNCT
+los	PROPN
+angeles	PROPN
+fc	PROPN
+,	PUNCT
+had	VERB
+selection	NOUN
+1	NUM
+.	PUNCT
+
+#	id	17
+in	ADP
+1	NUM
+he	PRON
+planted	VERB
+rubber	NOUN
+seeds	NOUN
+and	CCONJ
+grew	VERB
+seven	NUM
+trees	NOUN
+at	ADP
+the	DET
+gardens	NOUN
+at	ADP
+kuala	NOUN
+kangsar	NOUN
+.	PUNCT
+
+#	id	18
+some	DET
+populations	NOUN
+are	AUX
+still	ADV
+considerably	ADV
+worse	ADJ
+off	ADP
+today	NOUN
+than	SCONJ
+they	PRON
+were	AUX
+in	ADP
+1	NUM
+(	PUNCT
+eg	SCONJ
+moldova	PROPN
+,	PUNCT
+serbia	PROPN
+)	PUNCT
+.	PUNCT
+
+#	id	19
+it	PRON
+flows	VERB
+into	ADP
+the	DET
+usa	PROPN
+near	ADP
+friedberg	PROPN
+.	PUNCT
+
+#	id	20
+the	DET
+refreshing	ADJ
+sight	NOUN
+and	CCONJ
+sound	NOUN
+of	ADP
+the	DET
+splashing	NOUN
+fountains	NOUN
+and	CCONJ
+cascades	NOUN
+and	CCONJ
+the	DET
+luxuriant	ADJ
+gardens	NOUN
+must	AUX
+have	AUX
+provided	VERB
+a	DET
+welcome	ADJ
+relief	NOUN
+from	ADP
+the	DET
+heat	NOUN
+of	ADP
+the	DET
+tunisia	PROPN
+summer	NOUN
+.	PUNCT
+
+#	id	21
+it	PRON
+was	AUX
+acquired	VERB
+by	ADP
+hewlett-packard	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	22
+achema	NOUN
+,	PUNCT
+the	DET
+largest	ADJ
+fertilizer	NOUN
+factory	NOUN
+in	ADP
+the	DET
+baltic	PROPN
+states	PROPN
+,	PUNCT
+is	AUX
+located	VERB
+nearby	ADV
+.	PUNCT
+
+#	id	23
+ruehl	PROPN
+is	AUX
+known	VERB
+for	ADP
+her	PRON
+leading	VERB
+performance	NOUN
+in	ADP
+the	DET
+play	NOUN
+lost	VERB
+in	ADP
+yonkers	NOUN
+and	CCONJ
+supporting	VERB
+performance	NOUN
+in	ADP
+the	DET
+film	NOUN
+the	DET
+fisher	NOUN
+king	NOUN
+.	PUNCT
+
+#	id	24
+cestepe	NOUN
+is	AUX
+a	DET
+town	NOUN
+in	ADP
+the	DET
+central	ADJ
+district	NOUN
+of	ADP
+aydn	PROPN
+province	NOUN
+,	PUNCT
+turkey	PROPN
+.	PUNCT
+
+#	id	25
+an	DET
+image	NOUN
+is	AUX
+called	VERB
+a	DET
+true	ADJ
+color	NOUN
+image	NOUN
+when	SCONJ
+it	PRON
+offers	VERB
+a	DET
+natural	ADJ
+color	NOUN
+rendition	NOUN
+,	PUNCT
+or	CCONJ
+when	SCONJ
+it	PRON
+comes	VERB
+close	ADV
+to	ADP
+it	PRON
+.	PUNCT
+
+#	id	26
+however	ADV
+,	PUNCT
+large	ADJ
+,	PUNCT
+heavy	ADJ
+components	NOUN
+like	ADP
+generator	NOUN
+,	PUNCT
+gearbox	NOUN
+,	PUNCT
+blades	NOUN
+,	PUNCT
+and	CCONJ
+so	ADV
+on	ADV
+are	AUX
+rarely	ADV
+replaced	VERB
+,	PUNCT
+and	CCONJ
+a	DET
+mobile	ADJ
+crane	NOUN
+is	AUX
+needed	VERB
+in	ADP
+those	DET
+cases	NOUN
+.	PUNCT
+
+#	id	27
+science	NOUN
+and	CCONJ
+the	DET
+human	ADJ
+temperament	NOUN
+allen	PROPN
+&	CCONJ
+unwin	PROPN
+,	PUNCT
+translated	VERB
+and	CCONJ
+introduced	VERB
+by	ADP
+james	PROPN
+vincent	PROPN
+murphy	PROPN
+,	PUNCT
+with	ADP
+a	DET
+foreword	NOUN
+by	ADP
+ernest	PROPN
+rutherford	PROPN
+
+#	id	28
+the	DET
+oldest	ADJ
+of	ADP
+three	NUM
+siblings	NOUN
+,	PUNCT
+she	PRON
+grew	VERB
+up	ADP
+in	ADP
+the	DET
+nearby	ADJ
+delta	NOUN
+town	NOUN
+of	ADP
+hinthada	PROPN
+(	PUNCT
+hinthada	PROPN
+)	PUNCT
+,	PUNCT
+before	ADP
+moving	VERB
+to	ADP
+yangon	PROPN
+(	PUNCT
+yangon	PROPN
+)	PUNCT
+as	ADP
+a	DET
+teenager	NOUN
+.	PUNCT
+
+#	id	29
+he	PRON
+showed	VERB
+the	DET
+script	NOUN
+to	ADP
+his	PRON
+literary	ADJ
+agent	NOUN
+who	PRON
+gave	VERB
+it	PRON
+to	ADP
+mike	PROPN
+medavoy	PROPN
+who	PRON
+attached	VERB
+director	PROPN
+karel	PROPN
+reisz	PROPN
+.	PUNCT
+
+#	id	30
+we	PRON
+only	ADV
+want	VERB
+four	NUM
+or	CCONJ
+five	NUM
+sarong	NOUN
+,	PUNCT
+we	PRON
+do	AUX
+nt	PART
+need	VERB
+trousers	NOUN
+.	PUNCT
+
+#	id	31
+in	ADP
+1	NUM
+,	PUNCT
+aged	ADJ
+1	NUM
+,	PUNCT
+stech	PROPN
+signed	VERB
+for	ADP
+premier	PROPN
+league	PROPN
+club	NOUN
+west	PROPN
+ham	PROPN
+united	PROPN
+fc	PROPN
+for	ADP
+an	DET
+undisclosed	ADJ
+fee	NOUN
+.	PUNCT
+
+#	id	32
+the	DET
+g	PROPN
+day	NOUN
+:	PUNCT
+viktor	PROPN
+orban	NOUN
+cuts	VERB
+ties	NOUN
+with	ADP
+lajos	ADJ
+simicska	NOUN
+,	PUNCT
+former	ADJ
+economic	ADJ
+ally	NOUN
+.	PUNCT
+
+#	id	33
+phaedra	PROPN
+(	PUNCT
+monodrama	NOUN
+for	ADP
+mezzo	NOUN
+soprano	NOUN
+and	CCONJ
+orchestra	NOUN
+)	PUNCT
+by	ADP
+george	PROPN
+rochberg	PROPN
+,	PUNCT
+1	NUM
+-	SYM
+1	NUM
+
+#	id	34
+floppy	ADJ
+disk	NOUN
+drives	NOUN
+are	AUX
+rarely	ADV
+fitted	VERB
+to	ADP
+modern	ADJ
+computers	NOUN
+and	CCONJ
+are	AUX
+obsolete	ADJ
+for	ADP
+normal	ADJ
+purposes	NOUN
+,	PUNCT
+although	SCONJ
+internal	ADJ
+and	CCONJ
+external	ADJ
+drives	NOUN
+can	AUX
+be	AUX
+fitted	VERB
+if	SCONJ
+required	VERB
+.	PUNCT
+
+#	id	35
+while	SCONJ
+they	PRON
+raised	VERB
+three	NUM
+children	NOUN
+,	PUNCT
+she	PRON
+taught	VERB
+part	NOUN
+time	NOUN
+for	ADP
+the	DET
+workers	PROPN
+educational	PROPN
+association	PROPN
+and	CCONJ
+began	VERB
+a	DET
+writing	NOUN
+career	NOUN
+that	PRON
+lasted	VERB
+into	ADP
+the	DET
+1s	NOUN
+.	PUNCT
+
+#	id	36
+present	VERB
+south	NOUN
+and	CCONJ
+west	NOUN
+of	ADP
+a	DET
+line	NOUN
+drawn	VERB
+from	ADP
+syracuse	PROPN
+to	ADP
+cefalu	PROPN
+.	PUNCT
+
+#	id	37
+versions	NOUN
+have	AUX
+been	AUX
+created	VERB
+for	ADP
+the	DET
+playstation	NOUN
+portable	ADJ
+,	PUNCT
+game	NOUN
+boy	NOUN
+advance	NOUN
+,	PUNCT
+and	CCONJ
+nintendo	NOUN
+ds	NOUN
+platforms	NOUN
+.	PUNCT
+
+#	id	38
+eicher	PROPN
+,	PUNCT
+john	PROPN
+h	PROPN
+.	PROPN
+,	PUNCT
+and	CCONJ
+david	PROPN
+j	PROPN
+eicher	PROPN
+,	PUNCT
+civil	ADJ
+war	NOUN
+high	ADJ
+commands	NOUN
+.	PUNCT
+
+#	id	39
+they	PRON
+were	AUX
+first	ADV
+synthesized	VERB
+by	ADP
+alexander	PROPN
+shulgin	NOUN
+and	CCONJ
+written	VERB
+up	ADP
+in	ADP
+his	PRON
+book	NOUN
+pihkal	NOUN
+.	PUNCT
+
+#	id	40
+other	ADJ
+stations	NOUN
+within	ADP
+the	DET
+limits	NOUN
+of	ADP
+the	DET
+municipality	NOUN
+are	AUX
+s-hertogenbosch	PROPN
+oost	PROPN
+railway	NOUN
+station	NOUN
+and	CCONJ
+rosmalen	ADJ
+railway	NOUN
+station	NOUN
+.	PUNCT
+
+#	id	41
+because	SCONJ
+they	PRON
+go	VERB
+canvassing	VERB
+,	PUNCT
+they	PRON
+are	AUX
+able	ADJ
+to	PART
+reach	VERB
+beyond	ADP
+established	VERB
+organizations	NOUN
+and	CCONJ
+the	DET
+churched	ADJ
+to	PART
+bring	VERB
+together	ADV
+a	DET
+wide	ADJ
+range	NOUN
+of	ADP
+less	ADV
+privileged	ADJ
+people	NOUN
+.	PUNCT
+
+#	id	42
+salamucha	PROPN
+was	AUX
+sent	VERB
+to	ADP
+sachsenhausen	NOUN
+concentration	NOUN
+camp	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	43
+charlie	PROPN
+brooker	PROPN
+stated	VERB
+in	ADP
+an	DET
+interview	NOUN
+that	SCONJ
+this	DET
+episode	NOUN
+influenced	VERB
+fifteen	NUM
+million	NUM
+merits	NOUN
+,	PUNCT
+an	DET
+episode	NOUN
+of	ADP
+his	PRON
+anthology	NOUN
+series	NOUN
+,	PUNCT
+black	ADJ
+mirror	NOUN
+.	PUNCT
+
+#	id	44
+ldi	PROPN
+is	AUX
+a	DET
+full	ADJ
+service	NOUN
+pharmacy	NOUN
+benefit	NOUN
+manager	NOUN
+based	VERB
+in	ADP
+st	PROPN
+louis	PROPN
+.	PUNCT
+
+#	id	45
+she	PRON
+is	AUX
+notorious	ADJ
+for	ADP
+fashioning	VERB
+her	PRON
+beard	NOUN
+to	PART
+imitate	VERB
+that	PRON
+of	ADP
+napoleon	PROPN
+iii	PROPN
+.	PUNCT
+
+#	id	46
+she	PRON
+was	AUX
+one	NUM
+of	ADP
+the	DET
+most	ADV
+popular	ADJ
+singers	NOUN
+in	ADP
+poland	PROPN
+in	ADP
+the	DET
+1s	NOUN
+.	PUNCT
+
+#	id	47
+us	PRON
+and	CCONJ
+them	PRON
+(	PUNCT
+godflesh	PROPN
+cover	NOUN
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	48
+the	DET
+series	NOUN
+attracted	VERB
+guests	NOUN
+such	ADJ
+as	ADP
+bill	PROPN
+cosby	PROPN
+,	PUNCT
+debbie	PROPN
+harry	PROPN
+,	PUNCT
+billy	PROPN
+dee	PROPN
+williams	PROPN
+,	PUNCT
+cheap	ADJ
+trick	NOUN
+,	PUNCT
+patti	PROPN
+smith	PROPN
+and	CCONJ
+brooke	PROPN
+shields	NOUN
+.	PUNCT
+
+#	id	49
+1	X
+-	PUNCT
+al-hilal	NOUN
+fc	PROPN
+(	PUNCT
+appeal	NOUN
+won	VERB
+by	ADP
+al	PROPN
+merreikh	PROPN
+fc	PROPN
+,	PUNCT
+but	CCONJ
+later	ADV
+overturned	VERB
+by	ADP
+south	PROPN
+sudan	PROPN
+football	PROPN
+association	PROPN
+)	PUNCT
+
+#	id	50
+their	PRON
+music	NOUN
+was	AUX
+compared	VERB
+to	ADP
+dead	ADJ
+can	AUX
+dance	VERB
+and	CCONJ
+modest	ADJ
+petrovich	ADJ
+mussorgsky	NOUN
+,	PUNCT
+especially	ADV
+his	PRON
+composition	NOUN
+the	DET
+nursery	NOUN
+.	PUNCT
+
+#	id	51
+dont	AUX
+speak	VERB
+by	ADP
+no	DET
+doubt	NOUN
+-	PUNCT
+(	PUNCT
+top	ADJ
+1	NUM
+)	PUNCT
+
+#	id	52
+the	DET
+school	NOUN
+s	PART
+corridor	NOUN
+is	AUX
+modeled	VERB
+after	ADP
+the	DET
+corridor	NOUN
+of	ADP
+an	DET
+abbey	NOUN
+in	ADP
+the	DET
+region	NOUN
+.	PUNCT
+
+#	id	53
+north	NOUN
+started	VERB
+the	DET
+webcomic	ADJ
+dinosaur	NOUN
+comics	NOUN
+in	ADP
+1	NUM
+,	PUNCT
+during	ADP
+the	DET
+last	ADJ
+year	NOUN
+of	ADP
+his	PRON
+undergraduate	NOUN
+degree	NOUN
+.	PUNCT
+
+#	id	54
+he	PRON
+also	ADV
+modelled	VERB
+a	DET
+complete	ADJ
+course	NOUN
+of	ADP
+fortification	NOUN
+(	PUNCT
+1	NUM
+models	NOUN
+)	PUNCT
+,	PUNCT
+which	PRON
+he	PRON
+offered	VERB
+to	ADP
+the	DET
+committee	NOUN
+of	ADP
+public	ADJ
+safety	NOUN
+.	PUNCT
+
+#	id	55
+it	PRON
+is	AUX
+considered	VERB
+the	DET
+most	ADV
+notable	ADJ
+ancient	ADJ
+structure	NOUN
+on	ADP
+tel	PROPN
+rumeida	NOUN
+.	PUNCT
+
+#	id	56
+pindjur	NOUN
+is	AUX
+similar	ADJ
+to	ADP
+ajvar	PROPN
+but	CCONJ
+is	AUX
+generally	ADV
+made	VERB
+with	ADP
+eggplants	NOUN
+.	PUNCT
+
+#	id	57
+infant	NOUN
+formula	NOUN
+,	PUNCT
+a	DET
+food	NOUN
+for	ADP
+infants	NOUN
+
+#	id	58
+mikael	PROPN
+pernfors	NOUN
+(	PUNCT
+fourth	ADJ
+round	NOUN
+,	PUNCT
+lost	VERB
+to	ADP
+boris	PROPN
+becker	PROPN
+)	PUNCT
+
+#	id	59
+she	PRON
+also	ADV
+worked	VERB
+on	ADP
+excavating	VERB
+artifacts	NOUN
+related	VERB
+to	ADP
+the	DET
+gortyn	NOUN
+code	NOUN
+and	CCONJ
+is	AUX
+most	ADV
+noted	VERB
+for	ADP
+her	PRON
+publications	NOUN
+regarding	VERB
+that	DET
+inscription	NOUN
+.	PUNCT
+
+#	id	60
+he	PRON
+was	AUX
+created	VERB
+by	ADP
+robert	PROPN
+bernstein	PROPN
+and	CCONJ
+kurt	PROPN
+schaffenberger	PROPN
+.	PUNCT
+
+#	id	61
+he	PRON
+has	AUX
+adapted	VERB
+a	DET
+number	NOUN
+of	ADP
+poet	NOUN
+nick	PROPN
+flynn	PROPN
+pieces	NOUN
+into	ADP
+comics	NOUN
+,	PUNCT
+which	PRON
+have	AUX
+appeared	VERB
+in	ADP
+various	ADJ
+literary	ADJ
+journals	NOUN
+and	CCONJ
+websites	NOUN
+.	PUNCT
+
+#	id	62
+exclaim	VERB
+,	PUNCT
+reviewing	VERB
+the	DET
+reissue	NOUN
+,	PUNCT
+called	VERB
+it	PRON
+a	DET
+dopey	ADJ
+and	CCONJ
+young	ADJ
+record	NOUN
+that	PRON
+basically	ADV
+defies	VERB
+serious	ADJ
+criticism	NOUN
+.	PUNCT
+
+#	id	63
+dosco	NOUN
+was	AUX
+purchased	VERB
+in	ADP
+1	NUM
+by	ADP
+avro	PROPN
+canada	PROPN
+and	CCONJ
+made	VERB
+a	DET
+subsidiary	NOUN
+.	PUNCT
+
+#	id	64
+pratt	PROPN
+founded	VERB
+the	DET
+pratt	PROPN
+institute	PROPN
+in	ADP
+1	NUM
+,	PUNCT
+and	CCONJ
+its	PRON
+campus	NOUN
+remains	VERB
+a	DET
+focus	NOUN
+of	ADP
+the	DET
+neighborhood	NOUN
+.	PUNCT
+
+#	id	65
+she	PRON
+had	VERB
+four	NUM
+masts	NOUN
+and	CCONJ
+was	AUX
+rigged	VERB
+as	ADP
+a	DET
+barque	NOUN
+,	PUNCT
+with	ADP
+royal	ADJ
+over	ADP
+double	ADJ
+topsail	NOUN
+and	CCONJ
+topgallant	NOUN
+sail	NOUN
+.	PUNCT
+
+#	id	66
+the	DET
+group	NOUN
+has	AUX
+also	ADV
+made	VERB
+1	NUM
+music	NOUN
+video	NOUN
+of	ADP
+their	PRON
+songs	NOUN
+.	PUNCT
+
+#	id	67
+the	DET
+latter	ADJ
+was	AUX
+released	VERB
+by	ADP
+vanguard	NOUN
+records	NOUN
+.	PUNCT
+
+#	id	68
+ric	PROPN
+ocasek	PROPN
+-	PUNCT
+lead	NOUN
+and	CCONJ
+backing	VERB
+vocals	NOUN
+,	PUNCT
+rhythm	NOUN
+guitar	NOUN
+,	PUNCT
+keyboards	NOUN
+
+#	id	69
+fuel	NOUN
+cell	NOUN
+vehicle	NOUN
+(	PUNCT
+fcvs	NOUN
+or	CCONJ
+fcevs	NOUN
+)	PUNCT
+also	ADV
+allow	VERB
+running	VERB
+on	ADP
+(	PUNCT
+some	DET
+)	PUNCT
+non	ADJ
+fossil	NOUN
+fuels	NOUN
+(	PUNCT
+ie	SCONJ
+,	PUNCT
+hydrogen	NOUN
+,	PUNCT
+ethanol	NOUN
+,	PUNCT
+methanol	NOUN
+,	PUNCT
+.	PUNCT
+.	PUNCT
+.	PUNCT
+)	PUNCT
+.	PUNCT
+
+#	id	70
+chicago	PROPN
+s	PROPN
+loyola	PROPN
+university	PROPN
+chicago	PROPN
+sets	VERB
+an	DET
+example	NOUN
+for	ADP
+public	ADJ
+transit	NOUN
+as	ADV
+well	ADV
+with	ADP
+its	PRON
+variety	NOUN
+of	ADP
+transportation	NOUN
+options	NOUN
+.	PUNCT
+
+#	id	71
+the	DET
+building	NOUN
+was	AUX
+listed	VERB
+on	ADP
+the	DET
+national	ADJ
+register	NOUN
+of	ADP
+historic	ADJ
+places	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	72
+the	DET
+last	ADJ
+version	NOUN
+to	PART
+include	VERB
+i1p	NOUN
+
+#	id	73
+in	ADP
+1	NUM
+it	PRON
+was	AUX
+also	ADV
+covered	VERB
+by	ADP
+therion	NOUN
+on	ADP
+their	PRON
+album	NOUN
+les	X
+fleurs	NOUN
+du	X
+mal	X
+.	PUNCT
+
+#	id	74
+on	ADP
+rotten	ADJ
+tomatoes	NOUN
+,	PUNCT
+the	DET
+film	NOUN
+has	VERB
+an	DET
+approval	NOUN
+rating	NOUN
+of	ADP
+1	NUM
+%	NOUN
+based	VERB
+on	ADP
+1	NUM
+reviews	NOUN
+with	ADP
+an	DET
+average	ADJ
+rating	NOUN
+of	ADP
+11	NUM
+/	SYM
+1	NUM
+.	PUNCT
+
+#	id	75
+after	ADP
+studying	VERB
+law	NOUN
+at	ADP
+university	PROPN
+of	ADP
+paris	PROPN
+in	ADP
+paris	PROPN
+from	ADP
+1	NUM
+to	ADP
+1	NUM
+,	PUNCT
+he	PRON
+earned	VERB
+a	DET
+ph	NOUN
+.	PUNCT
+d	X
+.	PUNCT
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	76
+peter	PROPN
+b	PROPN
+kyne	PROPN
+spanish	ADJ
+-	PUNCT
+american	ADJ
+war	NOUN
+veteran	NOUN
+(	PUNCT
+philippines	PROPN
+)	PUNCT
+;	PUNCT
+prolific	ADJ
+western	ADJ
+author	NOUN
+.	PUNCT
+
+#	id	77
+sultan	PROPN
+is	AUX
+a	DET
+village	NOUN
+in	ADP
+the	DET
+bolu	PROPN
+,	PUNCT
+bolu	PROPN
+province	PROPN
+,	PUNCT
+turkey	PROPN
+.	PUNCT
+
+#	id	78
+cafritz	NOUN
+was	AUX
+the	DET
+first	ADJ
+collector	NOUN
+for	ADP
+many	ADJ
+visual	ADJ
+artists	NOUN
+and	CCONJ
+has	AUX
+sponsored	VERB
+many	ADJ
+projects	NOUN
+including	VERB
+spike	PROPN
+lee	PROPN
+malcolm	PROPN
+x	PUNCT
+.	PUNCT
+
+#	id	79
+hospitalfield	PROPN
+house	PROPN
+,	PUNCT
+a	DET
+baronial	ADJ
+mansion	NOUN
+to	ADP
+the	DET
+west	NOUN
+of	ADP
+the	DET
+town	NOUN
+,	PUNCT
+houses	VERB
+an	DET
+educational	ADJ
+charity	NOUN
+promoting	VERB
+contemporary	ADJ
+arts	NOUN
+.	PUNCT
+
+#	id	80
+1	NUM
+-	PUNCT
+sam	PROPN
+allardyce	PROPN
+leaves	VERB
+the	DET
+manager	NOUN
+s	PART
+position	NOUN
+at	ADP
+newcastle	PROPN
+united	PROPN
+fc	PROPN
+by	ADP
+mutual	ADJ
+agreement	NOUN
+.	PUNCT
+
+#	id	81
+november	PROPN
+1	NUM
+-	PUNCT
+qantas	NOUN
+begins	VERB
+its	PRON
+first	ADJ
+scheduled	VERB
+flights	NOUN
+,	PUNCT
+between	ADP
+charleville	NOUN
+and	CCONJ
+cloncurry	PROPN
+.	PUNCT
+
+#	id	82
+his	PRON
+father	NOUN
+was	AUX
+an	DET
+international	ADJ
+in	ADP
+both	DET
+rugby	NOUN
+union	NOUN
+and	CCONJ
+rugby	NOUN
+league	NOUN
+,	PUNCT
+having	AUX
+played	VERB
+for	ADP
+and	CCONJ
+great	PROPN
+britain	PROPN
+national	PROPN
+rugby	PROPN
+league	NOUN
+team	NOUN
+.	PUNCT
+
+#	id	83
+adebayo	PROPN
+o	PROPN
+ogunlesi	NOUN
+-	PUNCT
+chairman	NOUN
+and	CCONJ
+managing	NOUN
+partner	NOUN
+at	ADP
+global	ADJ
+infrastructure	NOUN
+partners	NOUN
+
+#	id	84
+krauthamer	NOUN
+has	AUX
+resided	VERB
+in	ADP
+washington	PROPN
+dc	PROPN
+and	CCONJ
+silver	NOUN
+spring	NOUN
+since	SCONJ
+1	NUM
+.	PUNCT
+
+#	id	85
+in	ADP
+1	NUM
+the	DET
+main	ADJ
+shareholder	NOUN
+handelsbanken	NOUN
+sold	VERB
+its	PRON
+shares	NOUN
+to	ADP
+volvo	PROPN
+who	PRON
+turned	VERB
+the	DET
+company	NOUN
+into	ADP
+a	DET
+subsidiary	NOUN
+.	PUNCT
+
+#	id	86
+anna	PROPN
+torv	PROPN
+fringe	PROPN
+(	PUNCT
+fox	PROPN
+broadcasting	NOUN
+company	NOUN
+)	PUNCT
+as	ADP
+olivia	PROPN
+dunham	PROPN
+
+#	id	87
+the	DET
+satellite	NOUN
+rights	NOUN
+of	ADP
+the	DET
+film	NOUN
+were	AUX
+sold	VERB
+to	ADP
+sun	PROPN
+tv	PROPN
+.	PUNCT
+
+#	id	88
+it	PRON
+has	AUX
+been	AUX
+released	VERB
+for	ADP
+the	DET
+playstation	NOUN
+1	NUM
+,	PUNCT
+xbox	PROPN
+1	NUM
+and	CCONJ
+microsoft	PROPN
+windows	NOUN
+.	PUNCT
+
+#	id	89
+the	DET
+five	NUM
+seater	ADJ
+front	ADJ
+wheel	NOUN
+driven	VERB
+prototype	NOUN
+is	AUX
+based	VERB
+on	ADP
+the	DET
+opel	PROPN
+zafira	PROPN
+compact	PROPN
+mpv	PROPN
+.	PUNCT
+
+#	id	90
+slavetin	PROPN
+lies	VERB
+approximately	ADV
+east	ADV
+of	ADP
+louny	NOUN
+,	PUNCT
+south	NOUN
+of	ADP
+usti	PROPN
+nad	PROPN
+labem	PROPN
+,	PUNCT
+and	CCONJ
+north	NOUN
+west	NOUN
+of	ADP
+prague	PROPN
+.	PUNCT
+
+#	id	91
+viewer	NOUN
+support	NOUN
+collapsed	VERB
+,	PUNCT
+and	CCONJ
+dish	NOUN
+network	NOUN
+dropped	VERB
+it	PRON
+.	PUNCT
+
+#	id	92
+neon	PROPN
+has	AUX
+since	SCONJ
+been	AUX
+reprogrammed	VERB
+and	CCONJ
+significantly	ADV
+expanded	VERB
+and	CCONJ
+is	AUX
+used	VERB
+in	ADP
+xbox	PROPN
+1	NUM
+media	NOUN
+visualisation	NOUN
+.	PUNCT
+
+#	id	93
+the	DET
+nearest	ADJ
+railway	NOUN
+station	NOUN
+is	AUX
+kanhangad	PROPN
+on	ADP
+mangalore	PROPN
+palakkad	PROPN
+line	NOUN
+.	PUNCT
+
+#	id	94
+fox	PROPN
+1	NUM
+may	AUX
+refer	VERB
+to	ADP
+one	NUM
+of	ADP
+the	DET
+following	VERB
+stations	NOUN
+affiliated	VERB
+with	ADP
+the	DET
+fox	PROPN
+broadcasting	NOUN
+company	NOUN
+:	PUNCT
+
+#	id	95
+he	PRON
+finished	VERB
+his	PRON
+active	ADJ
+career	NOUN
+at	ADP
+vejgaard	NOUN
+boldspilklub	NOUN
+.	PUNCT
+
+#	id	96
+originally	ADV
+a	DET
+bobbin	NOUN
+mill	NOUN
+,	PUNCT
+later	ADV
+converted	VERB
+into	ADP
+a	DET
+house	NOUN
+,	PUNCT
+the	DET
+oldest	ADJ
+part	NOUN
+is	AUX
+the	DET
+furnace	NOUN
+,	PUNCT
+the	DET
+rest	NOUN
+of	ADP
+the	DET
+building	NOUN
+dating	VERB
+from	ADP
+about	ADV
+1	NUM
+.	PUNCT
+
+#	id	97
+alfred	PROPN
+lawson	PROPN
+-	PUNCT
+credited	VERB
+as	ADP
+inventor	NOUN
+of	ADP
+the	DET
+airliner	NOUN
+
+#	id	98
+it	PRON
+was	AUX
+followed	VERB
+by	ADP
+the	DET
+secrets	NOUN
+of	ADP
+atlantis	PROPN
+the	DET
+sacred	ADJ
+legacy	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	99
+this	DET
+district	NOUN
+includes	VERB
+the	DET
+henry	PROPN
+b	PROPN
+clarke	PROPN
+house	PROPN
+,	PUNCT
+which	PRON
+although	SCONJ
+twice	ADV
+relocated	VERB
+is	AUX
+purported	VERB
+to	PART
+be	AUX
+the	DET
+city	NOUN
+s	PART
+oldest	ADJ
+standing	NOUN
+house	NOUN
+.	PUNCT
+
+#	id	100
+ponari	PROPN
+(	PUNCT
+)	PUNCT
+is	AUX
+a	DET
+village	NOUN
+in	ADP
+the	DET
+municipality	NOUN
+of	ADP
+montenegro	PROPN
+of	ADP
+podgorica	PROPN
+municipality	NOUN
+,	PUNCT
+montenegro	PROPN
+.	PUNCT
+
+#	id	101
+the	DET
+game	NOUN
+was	AUX
+stated	VERB
+to	PART
+be	AUX
+in	ADP
+development	NOUN
+by	ADP
+good-feel	NOUN
+with	ADP
+game	NOUN
+designer	NOUN
+takashi	PROPN
+tezuka	PROPN
+supervising	VERB
+the	DET
+project	NOUN
+.	PUNCT
+
+#	id	102
+voiced	VERB
+by	ADP
+the	DET
+late	ADJ
+louis	PROPN
+prima	NOUN
+,	PUNCT
+the	DET
+scatman	NOUN
+crothers	NOUN
+,	PUNCT
+jason	PROPN
+marsden	PROPN
+,	PUNCT
+cree	PROPN
+summer	PROPN
+,	PUNCT
+christopher	PROPN
+walken	PROPN
+in	ADP
+the	DET
+1	NUM
+remake	NOUN
+and	CCONJ
+jim	PROPN
+cummings	PROPN
+.	PUNCT
+
+#	id	103
+the	DET
+capital	NOUN
+of	ADP
+the	DET
+archipelago	NOUN
+,	PUNCT
+puerto	PROPN
+baquerizo	PROPN
+moreno	PROPN
+,	PUNCT
+lies	VERB
+at	ADP
+the	DET
+south	ADJ
+western	ADJ
+tip	NOUN
+of	ADP
+the	DET
+island	NOUN
+.	PUNCT
+
+#	id	104
+statoil	PROPN
+acquired	VERB
+the	DET
+operatorship	NOUN
+from	ADP
+chevron	NOUN
+corporation	NOUN
+in	ADP
+1	NUM
+and	CCONJ
+now	ADV
+has	VERB
+a	DET
+11	NUM
+%	NOUN
+stake	NOUN
+.	PUNCT
+
+#	id	105
+another	DET
+threat	NOUN
+common	ADJ
+across	ADP
+its	PRON
+range	NOUN
+is	AUX
+recreational	ADJ
+vehicle	NOUN
+.	PUNCT
+
+#	id	106
+it	PRON
+was	AUX
+used	VERB
+as	ADP
+the	DET
+second	ADJ
+ending	VERB
+theme	NOUN
+song	NOUN
+for	ADP
+the	DET
+anime	NOUN
+series	NOUN
+qualidea	NOUN
+code	NOUN
+.	PUNCT
+
+#	id	107
+it	PRON
+lies	VERB
+approximately	ADV
+north	NOUN
+west	NOUN
+of	ADP
+wabrzezno	NOUN
+and	CCONJ
+north	NOUN
+east	PROPN
+of	ADP
+torun	PROPN
+.	PUNCT
+
+#	id	108
+later	ADV
+he	PRON
+moved	VERB
+to	ADP
+lahore	PROPN
+.	PUNCT
+
+#	id	109
+kostevych	NOUN
+was	AUX
+born	VERB
+in	ADP
+khabarovsk	NOUN
+,	PUNCT
+russian	ADJ
+soviet	PROPN
+federative	ADJ
+socialist	PROPN
+republic	PROPN
+,	PUNCT
+soviet	PROPN
+union	PROPN
+.	PUNCT
+
+#	id	110
+he	PRON
+subsequently	ADV
+acted	VERB
+as	ADP
+a	DET
+poker	NOUN
+consultant	NOUN
+to	ADP
+several	ADJ
+other	ADJ
+online	ADJ
+casino	NOUN
+and	CCONJ
+cardrooms	NOUN
+.	PUNCT
+
+#	id	111
+the	DET
+pew	NOUN
+,	PUNCT
+lectern	NOUN
+,	PUNCT
+pulpit	NOUN
+,	PUNCT
+and	CCONJ
+holy	ADJ
+water	NOUN
+font	NOUN
+are	AUX
+also	ADV
+made	VERB
+entirely	ADV
+of	ADP
+stone	NOUN
+.	PUNCT
+
+#	id	112
+jana	PROPN
+cepelova	PROPN
+/	PUNCT
+chantal	PROPN
+skamlova	PROPN
+defeated	VERB
+timea	PROPN
+babos	PROPN
+/	SYM
+gabriela	PROPN
+dabrowski	PROPN
+,	PUNCT
+1	NUM
+-	SYM
+1	NUM
+,	PUNCT
+1	NUM
+-	SYM
+1	NUM
+
+#	id	113
+he	PRON
+was	AUX
+featured	VERB
+in	ADP
+michael	PROPN
+jacksons	PROPN
+this	PRON
+is	AUX
+it	PRON
+documentary	ADJ
+motion	NOUN
+picture	NOUN
+film	NOUN
+alongside	ADP
+many	ADJ
+other	ADJ
+concert	NOUN
+film	NOUN
+,	PUNCT
+shows	VERB
+,	PUNCT
+and	CCONJ
+documentaries	NOUN
+.	PUNCT
+
+#	id	114
+he	PRON
+was	AUX
+first	ADJ
+base	NOUN
+coach	NOUN
+to	ADP
+the	DET
+new	PROPN
+york	PROPN
+yankees	PROPN
+from	ADP
+1	NUM
+to	ADP
+1	NUM
+and	CCONJ
+bench	NOUN
+coach	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	115
+he	PRON
+previously	ADV
+played	VERB
+football	NOUN
+at	ADP
+arizona	PROPN
+state	PROPN
+university	PROPN
+.	PUNCT
+
+#	id	116
+she	PRON
+was	AUX
+the	DET
+great	ADJ
+great	ADJ
+granddaughter	NOUN
+of	ADP
+timothy	PROPN
+eaton	PROPN
+,	PUNCT
+founder	NOUN
+of	ADP
+eatons	NOUN
+department	NOUN
+store	NOUN
+.	PUNCT
+
+#	id	117
+typically	ADV
+during	ADP
+the	DET
+1th	ADJ
+century	NOUN
+,	PUNCT
+the	DET
+mush	NOUN
+was	AUX
+packed	VERB
+into	ADP
+a	DET
+crock	NOUN
+and	CCONJ
+sold	VERB
+as	ADP
+potted	VERB
+laver	PROPN
+.	PUNCT
+
+#	id	118
+it	PRON
+was	AUX
+described	VERB
+by	ADP
+william	PROPN
+schaus	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	119
+she	PRON
+acquired	VERB
+a	DET
+devoted	ADJ
+following	NOUN
+,	PUNCT
+which	PRON
+included	VERB
+ernest	PROPN
+hemingway	PROPN
+,	PUNCT
+tennessee	PROPN
+williams	PROPN
+,	PUNCT
+jean-paul	PROPN
+sartre	PROPN
+,	PUNCT
+simone	PROPN
+de	PROPN
+beauvoir	PROPN
+and	CCONJ
+marlon	PROPN
+brando	PROPN
+.	PUNCT
+
+#	id	120
+adaptation	NOUN
+of	ADP
+the	DET
+visual	ADJ
+novel	NOUN
+developed	VERB
+by	ADP
+key	NOUN
+.	PUNCT
+
+#	id	121
+food	NOUN
+additive	NOUN
+(	PUNCT
+general	ADJ
+standard	NOUN
+including	VERB
+authorized	ADJ
+uses	NOUN
+,	PUNCT
+specifications	NOUN
+for	ADP
+food	NOUN
+grade	NOUN
+chemicals	NOUN
+)	PUNCT
+
+#	id	122
+also	ADV
+that	DET
+year	NOUN
+,	PUNCT
+he	PRON
+co	AUX
+starred	VERB
+in	ADP
+the	DET
+action	NOUN
+thriller	NOUN
+cellular	NOUN
+,	PUNCT
+with	ADP
+jason	PROPN
+statham	PROPN
+,	PUNCT
+kim	PROPN
+basinger	PROPN
+and	CCONJ
+william	PROPN
+h	PROPN
+macy	PROPN
+.	PUNCT
+
+#	id	123
+a	DET
+compact	ADJ
+disc	NOUN
+with	ADP
+1	NUM
+million	NUM
+lines	NOUN
+of	ADP
+open	ADJ
+source	NOUN
+code	NOUN
+,	PUNCT
+accompanying	VERB
+the	DET
+book	NOUN
+,	PUNCT
+provides	VERB
+the	DET
+context	NOUN
+for	ADP
+all	DET
+the	DET
+presented	VERB
+examples	NOUN
+.	PUNCT
+
+#	id	124
+galea	PROPN
+was	AUX
+born	VERB
+in	ADP
+toronto	PROPN
+and	CCONJ
+grew	VERB
+up	ADP
+in	ADP
+etobicoke	PROPN
+.	PUNCT
+
+#	id	125
+pisece	ADV
+(	PUNCT
+,	PUNCT
+)	PUNCT
+is	AUX
+a	DET
+village	NOUN
+in	ADP
+the	DET
+hills	NOUN
+west	PROPN
+of	ADP
+bizeljsko	PROPN
+in	ADP
+the	DET
+municipality	NOUN
+of	ADP
+brezice	NOUN
+in	ADP
+eastern	ADJ
+slovenia	PROPN
+.	PUNCT
+
+#	id	126
+vanguard	PROPN
+productions	PROPN
+-	PUNCT
+development	NOUN
+of	ADP
+film	NOUN
+and	CCONJ
+video	NOUN
+media	NOUN
+for	ADP
+pbs	PROPN
+,	PUNCT
+non	ADJ
+profit	NOUN
+and	CCONJ
+governmental	ADJ
+organizations	NOUN
+
+#	id	127
+pasta	NOUN
+e	NOUN
+faxioi	NOUN
+aa	INTJ
+veneta	NOUN
+:	PUNCT
+a	DET
+soup	NOUN
+made	VERB
+by	ADP
+pasta	NOUN
+,	PUNCT
+bean	NOUN
+and	CCONJ
+bacon	NOUN
+.	PUNCT
+
+#	id	128
+a	DET
+small	ADJ
+turnover	NOUN
+collar	NOUN
+returned	VERB
+to	ADP
+fashion	NOUN
+,	PUNCT
+worn	VERB
+with	ADP
+the	DET
+stock	NOUN
+.	PUNCT
+
+#	id	129
+it	PRON
+was	AUX
+built	VERB
+under	ADP
+the	DET
+supervision	NOUN
+of	ADP
+frederick	PROPN
+w	PROPN
+lander	PROPN
+by	ADP
+federal	ADJ
+contractors	NOUN
+in	ADP
+1	NUM
+-	PUNCT
+one	NUM
+of	ADP
+the	DET
+first	ADJ
+federally	ADV
+sponsored	VERB
+roads	NOUN
+in	ADP
+the	DET
+west	NOUN
+.	PUNCT
+
+#	id	130
+its	PRON
+exhibitions	NOUN
+focus	VERB
+on	ADP
+contemporary	ADJ
+art	NOUN
+.	PUNCT
+
+#	id	131
+the	DET
+market	NOUN
+housing	NOUN
+units	NOUN
+constructed	VERB
+in	ADP
+the	DET
+building	NOUN
+feature	NOUN
+both	DET
+modern	ADJ
+look	NOUN
+finishes	NOUN
+and	CCONJ
+vintage	ADJ
+analog	NOUN
+thermostat	NOUN
+.	PUNCT
+
+#	id	132
+in	ADP
+1	NUM
+,	PUNCT
+the	DET
+cemetery	NOUN
+added	VERB
+a	DET
+columbarium	NOUN
+specially	ADV
+dedicated	ADJ
+to	ADP
+chicago	PROPN
+cubs	NOUN
+fans	NOUN
+.	PUNCT
+
+#	id	133
+however	ADV
+,	PUNCT
+local	ADJ
+officials	NOUN
+felt	VERB
+the	DET
+bridge	NOUN
+was	AUX
+unsafe	ADJ
+,	PUNCT
+especially	ADV
+for	ADP
+vehicles	NOUN
+such	ADJ
+as	ADP
+school	NOUN
+bus	NOUN
+.	PUNCT
+
+#	id	134
+chantel	NOUN
+(	PUNCT
+janella	ADJ
+salvador	NOUN
+)	PUNCT
+is	AUX
+a	DET
+spoiled	ADJ
+brat	NOUN
+cursed	VERB
+to	PART
+be	AUX
+a	DET
+mermaid	NOUN
+after	SCONJ
+she	PRON
+disturbed	VERB
+corals	NOUN
+under	ADP
+the	DET
+sea	NOUN
+.	PUNCT
+
+#	id	135
+it	PRON
+was	AUX
+listed	VERB
+on	ADP
+the	DET
+national	ADJ
+register	NOUN
+of	ADP
+historic	ADJ
+places	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	136
+this	DET
+page	NOUN
+lists	NOUN
+and	CCONJ
+links	NOUN
+to	ADP
+information	NOUN
+on	ADP
+the	DET
+various	ADJ
+versions	NOUN
+of	ADP
+microsoft	PROPN
+windows	PROPN
+,	PUNCT
+a	DET
+major	ADJ
+computer	NOUN
+operating	VERB
+system	NOUN
+developed	VERB
+by	ADP
+microsoft	PROPN
+.	PUNCT
+
+#	id	137
+later	ADV
+on	ADV
+,	PUNCT
+johan	PROPN
+cruyff	PROPN
+tried	VERB
+the	DET
+same	ADJ
+with	ADP
+his	PRON
+afc	PROPN
+ajax	PROPN
+team	PROPN
+mate	PROPN
+jesper	PROPN
+olsen	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	138
+full	ADJ
+lyrics	NOUN
+of	ADP
+this	DET
+song	NOUN
+at	ADP
+musixmatch	NOUN
+
+#	id	139
+use	NOUN
+of	ADP
+this	DET
+term	NOUN
+can	AUX
+be	AUX
+traced	VERB
+back	ADV
+to	ADP
+hermann	PROPN
+von	PROPN
+helmholtz	PROPN
+and	CCONJ
+ewald	PROPN
+hering	PROPN
+.	PUNCT
+
+#	id	140
+it	PRON
+was	AUX
+also	ADV
+released	VERB
+in	ADP
+the	DET
+dualdisc	ADJ
+format	NOUN
+.	PUNCT
+
+#	id	141
+the	DET
+remaining	VERB
+tower	NOUN
+(	PUNCT
+some	DET
+sources	NOUN
+say	VERB
+two	NUM
+survived	ADJ
+)	PUNCT
+was	AUX
+pulled	VERB
+down	ADP
+in	ADP
+the	DET
+1th	ADJ
+century	NOUN
+to	PART
+make	VERB
+way	NOUN
+for	ADP
+warehouses	NOUN
+of	ADP
+the	DET
+carron	NOUN
+company	NOUN
+.	PUNCT
+
+#	id	142
+final	ADJ
+day	NOUN
+drama	NOUN
+in	ADP
+the	DET
+premier	ADJ
+league	NOUN
+:	PUNCT
+
+#	id	143
+his	PRON
+1	NUM
+feature	NOUN
+,	PUNCT
+penthouse	NOUN
+north	ADV
+,	PUNCT
+stars	VERB
+michael	PROPN
+keaton	PROPN
+and	CCONJ
+michelle	PROPN
+monaghan	PROPN
+.	PUNCT
+
+#	id	144
+it	PRON
+would	AUX
+acquire	VERB
+some	DET
+business	NOUN
+and	CCONJ
+assets	NOUN
+from	ADP
+the	DET
+joint	ADJ
+venture	PROPN
+dongfeng	PROPN
+motor	PROPN
+company	NOUN
+limited	VERB
+.	PUNCT
+
+#	id	145
+it	PRON
+was	AUX
+given	VERB
+to	ADP
+the	DET
+best	ADJ
+producer	NOUN
+,	PUNCT
+best	ADJ
+director	NOUN
+and	CCONJ
+best	ADJ
+writer	NOUN
+to	PART
+join	VERB
+forces	NOUN
+and	CCONJ
+shoot	VERB
+a	DET
+feature	NOUN
+film	NOUN
+in	ADP
+hollywood	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	146
+savigne-leveque	PROPN
+mi	PROPN
+
+#	id	147
+in	ADP
+1	NUM
+,	PUNCT
+paul	PROPN
+ehrlich	PROPN
+renamed	VERB
+the	DET
+heat	NOUN
+sensitive	ADJ
+component	NOUN
+complement	NOUN
+.	PUNCT
+
+#	id	148
+an	DET
+input	NOUN
+of	ADP
+technical	ADJ
+know	VERB
+how	SCONJ
+was	AUX
+provided	VERB
+through	ADP
+a	DET
+partnership	NOUN
+with	ADP
+ibm	PROPN
+.	PUNCT
+
+#	id	149
+jonathan	PROPN
+taylor	PROPN
+thomas	PROPN
+(	PUNCT
+born	VERB
+1	NUM
+)	PUNCT
+,	PUNCT
+actor	NOUN
+and	CCONJ
+former	ADJ
+teen	NOUN
+idol	NOUN
+.	PUNCT
+
+#	id	150
+he	PRON
+is	AUX
+a	DET
+member	NOUN
+of	ADP
+the	DET
+council	NOUN
+on	ADP
+foreign	ADJ
+relations	NOUN
+.	PUNCT
+
+#	id	151
+david	PROPN
+guerrier	PROPN
+,	PUNCT
+classical	ADJ
+trumpeter	NOUN
+(	PUNCT
+born	VERB
+1	NUM
+)	PUNCT
+
+#	id	152
+the	DET
+boyfriend	NOUN
+promises	VERB
+never	ADV
+to	PART
+leave	VERB
+his	PRON
+girlfriend	NOUN
+but	CCONJ
+they	PRON
+later	ADV
+argue	VERB
+when	SCONJ
+the	DET
+boyfriend	NOUN
+enlists	VERB
+in	ADP
+the	DET
+united	PROPN
+states	PROPN
+marine	PROPN
+corps	PROPN
+.	PUNCT
+
+#	id	153
+his	PRON
+shoes	NOUN
+may	AUX
+have	AUX
+been	AUX
+from	ADP
+a	DET
+shoe	NOUN
+store	NOUN
+in	ADP
+medford	PROPN
+.	PUNCT
+
+#	id	154
+a	DET
+central	ADJ
+processing	NOUN
+unit	NOUN
+(	PUNCT
+cpu	NOUN
+)	PUNCT
+,	PUNCT
+the	DET
+processor	NOUN
+of	ADP
+phones	NOUN
+.	PUNCT
+
+#	id	155
+on	ADP
+rotten	ADJ
+tomatoes	NOUN
+the	DET
+film	NOUN
+has	VERB
+an	DET
+approval	NOUN
+rating	NOUN
+of	ADP
+1	NUM
+%	NOUN
+based	VERB
+on	ADP
+reviews	NOUN
+from	ADP
+1	NUM
+critics	NOUN
+.	PUNCT
+
+#	id	156
+the	DET
+machine	NOUN
+is	AUX
+preserved	VERB
+at	ADP
+the	DET
+musee	PROPN
+des	PROPN
+arts	NOUN
+et	PROPN
+metiers	PROPN
+in	ADP
+paris	PROPN
+.	PUNCT
+
+#	id	157
+1	NUM
+leszno	ADJ
+1rd	ADJ
+place	NOUN
+(	PUNCT
+1	NUM
++	SYM
+1	NUM
+pts	NOUN
+)	PUNCT
+
+#	id	158
+rpg	PROPN
+s	PART
+recent	ADJ
+versions	NOUN
+are	AUX
+available	ADJ
+only	ADV
+on	ADP
+ibm	PROPN
+i	PROPN
+or	CCONJ
+os	ADJ
+/	SYM
+1	NUM
+based	VERB
+systems	NOUN
+.	PUNCT
+
+#	id	159
+the	DET
+ceremony	NOUN
+was	AUX
+held	VERB
+in	ADP
+darwin	PROPN
+.	PUNCT
+
+#	id	160
+bosch	PROPN
+is	AUX
+a	DET
+hamlet	NOUN
+in	ADP
+the	DET
+netherlands	PROPN
+province	NOUN
+of	ADP
+north	PROPN
+brabant	PROPN
+.	PUNCT
+
+#	id	161
+rue	X
+mcclanahan	PROPN
+-	PUNCT
+theater	NOUN
+,	PUNCT
+television	NOUN
+,	PUNCT
+and	CCONJ
+movie	NOUN
+actress	NOUN
+,	PUNCT
+born	VERB
+in	ADP
+oklahoma	PROPN
+
+#	id	162
+perry	PROPN
+s	PROPN
+last	ADJ
+known	VERB
+role	NOUN
+was	AUX
+in	ADP
+the	DET
+television	NOUN
+series	NOUN
+baskets	NOUN
+.	PUNCT
+
+#	id	163
+adams	PROPN
+got	VERB
+his	PRON
+start	NOUN
+in	ADP
+film	NOUN
+business	NOUN
+as	ADP
+director	PROPN
+john	PROPN
+boorman	PROPN
+personal	ADJ
+assistant	NOUN
+on	ADP
+the	DET
+film	NOUN
+deliverance	NOUN
+.	PUNCT
+
+#	id	164
+he	PRON
+was	AUX
+selected	VERB
+as	ADP
+the	DET
+1th	ADJ
+president	NOUN
+of	ADP
+the	DET
+university	PROPN
+of	ADP
+scranton	PROPN
+,	PUNCT
+which	PRON
+he	PRON
+led	VERB
+from	ADP
+1	NUM
+until	ADP
+1	NUM
+.	PUNCT
+
+#	id	165
+he	PRON
+noted	VERB
+also	ADV
+excessive	ADJ
+product	NOUN
+placement	NOUN
+,	PUNCT
+poor	ADJ
+editing	NOUN
+,	PUNCT
+and	CCONJ
+bad	ADJ
+acting	NOUN
+.	PUNCT
+
+#	id	166
+coogan	PROPN
+has	VERB
+an	DET
+uncredited	ADJ
+cameo	NOUN
+in	ADP
+hot	ADJ
+fuzz	NOUN
+,	PUNCT
+scripted	VERB
+by	ADP
+shaun	PROPN
+of	ADP
+the	DET
+dead	PROPN
+writers	NOUN
+simon	PROPN
+pegg	PROPN
+and	CCONJ
+edgar	PROPN
+wright	PROPN
+.	PUNCT
+
+#	id	167
+a	DET
+north	NOUN
+-	PUNCT
+south	NOUN
+mall	NOUN
+at	ADP
+the	DET
+eastern	ADJ
+end	NOUN
+of	ADP
+the	DET
+centre	NOUN
+leading	VERB
+to	ADP
+kmart	PROPN
+australia	PROPN
+
+#	id	168
+in	ADP
+1	NUM
+,	PUNCT
+1	NUM
+diesel	NOUN
+multiple	ADJ
+units	NOUN
+were	AUX
+replaced	VERB
+by	ADP
+modern	ADJ
+bombardier	NOUN
+talent	NOUN
+railcars	NOUN
+of	ADP
+class	NOUN
+1	NUM
+.	PUNCT
+
+#	id	169
+grenfell	PROPN
+was	AUX
+educated	VERB
+at	ADP
+harrow	PROPN
+school	PROPN
+and	CCONJ
+balliol	PROPN
+college	NOUN
+.	PUNCT
+
+#	id	170
+jon	PROPN
+pareles	NOUN
+wrote	VERB
+that	SCONJ
+the	DET
+album	NOUN
+opens	VERB
+into	ADP
+haunted	ADJ
+,	PUNCT
+rewarding	ADJ
+depths	NOUN
+in	ADP
+a	DET
+positive	ADJ
+review	NOUN
+for	ADP
+the	DET
+new	PROPN
+york	PROPN
+times	NOUN
+.	PUNCT
+
+#	id	171
+as	SCONJ
+the	DET
+united	PROPN
+kingdom	PROPN
+was	AUX
+first	ADJ
+to	PART
+campaign	VERB
+it	PRON
+has	VERB
+more	ADJ
+politicians	NOUN
+who	PRON
+have	AUX
+signed	VERB
+the	DET
+pledge	NOUN
+.	PUNCT
+
+#	id	172
+club	NOUN
+med	PROPN
+opened	VERB
+a	DET
+holiday	NOUN
+resort	NOUN
+on	ADP
+the	DET
+island	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	173
+the	DET
+united	PROPN
+states	PROPN
+census	PROPN
+bureau	PROPN
+initially	ADV
+defined	VERB
+the	PRON
+for	ADP
+the	PRON
+
+#	id	174
+santana	PROPN
+pitched	VERB
+in	ADP
+major	ADJ
+league	NOUN
+baseball	NOUN
+(	PUNCT
+mlb	PROPN
+)	PUNCT
+for	ADP
+the	DET
+minnesota	PROPN
+twins	NOUN
+from	ADP
+1	NUM
+to	ADP
+1	NUM
+and	CCONJ
+for	ADP
+the	DET
+new	PROPN
+york	PROPN
+mets	PROPN
+from	ADP
+1	NUM
+to	ADP
+1	NUM
+.	PUNCT
+
+#	id	175
+she	PRON
+joined	VERB
+virgin	ADJ
+radio	NOUN
+uk	PROPN
+as	ADP
+a	DET
+newsreader	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	176
+halcyon	ADJ
+by	ADP
+ellie	PROPN
+goulding	PROPN
+debuted	VERB
+in	ADP
+1	NUM
+and	CCONJ
+re	SCONJ
+entered	VERB
+the	DET
+top	ADJ
+1	NUM
+in	ADP
+1	NUM
+,	PUNCT
+but	CCONJ
+its	PRON
+peak	NOUN
+position	NOUN
+was	AUX
+not	PART
+until	ADP
+1	NUM
+.	PUNCT
+
+#	id	177
+he	PRON
+struggled	VERB
+to	PART
+attract	VERB
+high	ADJ
+class	NOUN
+mares	NOUN
+and	CCONJ
+was	AUX
+exported	VERB
+to	ADP
+iran	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	178
+they	PRON
+enter	VERB
+the	DET
+presidential	ADJ
+palace	NOUN
+during	ADP
+a	DET
+festival	NOUN
+posing	VERB
+as	ADP
+entertainers	NOUN
+.	PUNCT
+
+#	id	179
+the	DET
+dodge	NOUN
+super	ADJ
+bee	PROPN
+was	AUX
+a	DET
+limited	ADJ
+production	NOUN
+muscle	NOUN
+car	NOUN
+from	ADP
+1	NUM
+-	SYM
+1	NUM
+.	PUNCT
+
+#	id	180
+the	DET
+burial	NOUN
+chamber	NOUN
+is	AUX
+decorated	VERB
+with	ADP
+scenes	NOUN
+from	ADP
+the	DET
+book	NOUN
+of	ADP
+the	DET
+dead	ADJ
+and	CCONJ
+pyramid	NOUN
+texts	NOUN
+.	PUNCT
+
+#	id	181
+in	ADP
+1	NUM
+,	PUNCT
+the	DET
+carrier	NOUN
+became	VERB
+the	DET
+worldwide	ADJ
+in	ADP
+passing	VERB
+the	DET
+iata	PROPN
+operational	PROPN
+safety	NOUN
+audit	NOUN
+.	PUNCT
+
+#	id	182
+they	PRON
+defeated	VERB
+thai	PROPN
+honda	PROPN
+fc	PROPN
+in	ADP
+final	ADJ
+match	NOUN
+and	CCONJ
+crowned	VERB
+a	DET
+title	NOUN
+.	PUNCT
+
+#	id	183
+the	DET
+hand	NOUN
+carved	VERB
+cellulose	NOUN
+acetate	NOUN
+frames	NOUN
+are	AUX
+hand	NOUN
+polished	ADJ
+in	ADP
+three	NUM
+different	ADJ
+steps	NOUN
+with	ADP
+flex	ADJ
+hinges	NOUN
+.	PUNCT
+
+#	id	184
+the	DET
+1th	ADJ
+wave	NOUN
+-	PUNCT
+science	NOUN
+fiction	NOUN
+film	NOUN
+where	SCONJ
+also	ADV
+the	DET
+people	NOUN
+are	AUX
+manipulated	VERB
+with	ADP
+implants	NOUN
+to	PART
+kill	VERB
+other	ADJ
+people	NOUN
+
+#	id	185
+he	PRON
+studied	VERB
+english	PROPN
+literature	NOUN
+at	ADP
+stanford	PROPN
+university	PROPN
+,	PUNCT
+where	SCONJ
+he	PRON
+earned	VERB
+his	PRON
+degree	NOUN
+.	PUNCT
+
+#	id	186
+relay	NOUN
+shuttle	NOUN
+services	NOUN
+using	VERB
+three	NUM
+car	NOUN
+1	NUM
+series	NOUN
+electric	ADJ
+trains	NOUN
+operate	VERB
+to	ADP
+and	CCONJ
+from	ADP
+the	DET
+centrally	ADV
+located	VERB
+hakodate	NOUN
+station	NOUN
+(	PUNCT
+approximately	ADV
+1	NUM
+km	NOUN
+away	ADV
+)	PUNCT
+.	PUNCT
+
+#	id	187
+iii	PROPN
+:	PUNCT
+for	ADP
+soprano	NOUN
+,	PUNCT
+tenor	NOUN
+,	PUNCT
+baritone	NOUN
+,	PUNCT
+ten	NUM
+instruments	NOUN
+and	CCONJ
+live	ADJ
+electronics	NOUN
+on	ADP
+texts	NOUN
+by	ADP
+miguel	PROPN
+de	X
+cervantes	PROPN
+
+#	id	188
+together	ADV
+with	ADP
+the	DET
+nearby	ADJ
+village	NOUN
+revetal	NOUN
+it	PRON
+has	VERB
+a	DET
+population	NOUN
+(	PUNCT
+statistics	NOUN
+norway	PROPN
+1	NUM
+)	PUNCT
+of	ADP
+11	NUM
+.	PUNCT
+
+#	id	189
+when	SCONJ
+air	PROPN
+alsace	PROPN
+existed	VERB
+,	PUNCT
+its	PRON
+head	NOUN
+office	NOUN
+was	AUX
+on	ADP
+the	DET
+grounds	NOUN
+of	ADP
+colmar	PROPN
+airport	PROPN
+.	PUNCT
+
+#	id	190
+he	PRON
+has	AUX
+played	VERB
+in	ADP
+major	ADJ
+league	NOUN
+baseball	NOUN
+(	PUNCT
+mlb	PROPN
+)	PUNCT
+for	ADP
+the	DET
+chicago	PROPN
+cubs	NOUN
+.	PUNCT
+
+#	id	191
+the	DET
+district	NOUN
+was	AUX
+named	VERB
+after	ADP
+the	DET
+town	NOUN
+of	ADP
+attanagalla	NOUN
+in	ADP
+present	ADJ
+day	NOUN
+gampaha	NOUN
+district	NOUN
+,	PUNCT
+western	ADJ
+province	NOUN
+.	PUNCT
+
+#	id	192
+he	PRON
+survives	VERB
+the	DET
+run	NOUN
+of	ADP
+campaigns	NOUN
+but	CCONJ
+dies	VERB
+from	ADP
+a	DET
+tumour	NOUN
+on	ADP
+his	PRON
+back	NOUN
+when	SCONJ
+returning	VERB
+to	ADP
+the	DET
+imperial	ADJ
+capital	PROPN
+kaifeng	PROPN
+.	PUNCT
+
+#	id	193
+akburc	NOUN
+is	AUX
+a	DET
+village	NOUN
+in	ADP
+the	DET
+gercus	NOUN
+,	PUNCT
+batman	PROPN
+province	PROPN
+,	PUNCT
+turkey	PROPN
+.	PUNCT
+
+#	id	194
+they	PRON
+were	AUX
+paid	VERB
+in	ADP
+credit	NOUN
+that	PRON
+could	AUX
+be	AUX
+used	VERB
+only	ADV
+at	ADP
+the	DET
+company	NOUN
+store	NOUN
+,	PUNCT
+binding	VERB
+them	PRON
+to	ADP
+the	DET
+company	NOUN
+.	PUNCT
+
+#	id	195
+there	PRON
+are	VERB
+no	DET
+known	VERB
+scheduled	VERB
+airlines	NOUN
+serving	VERB
+this	DET
+airport	NOUN
+at	ADP
+this	DET
+time	NOUN
+,	PUNCT
+but	CCONJ
+the	DET
+united	PROPN
+nations	PROPN
+humanitarian	ADJ
+air	NOUN
+service	NOUN
+served	VERB
+the	DET
+field	NOUN
+from	ADP
+rumbek	ADJ
+airport	NOUN
+.	PUNCT
+
+#	id	196
+andre	PROPN
+,	PUNCT
+in	ADP
+the	DET
+1	NUM
+film	NOUN
+a	DET
+wedding	NOUN
+
+#	id	197
+zimmer	PROPN
+also	ADV
+worked	VERB
+on	ADP
+the	DET
+score	NOUN
+for	ADP
+denis	PROPN
+villeneuve	PROPN
+blade	PROPN
+runner	NOUN
+1	NUM
+.	PUNCT
+
+#	id	198
+they	PRON
+were	AUX
+drawn	VERB
+to	ADP
+the	DET
+region	NOUN
+by	ADP
+the	DET
+abundance	NOUN
+of	ADP
+salmon	NOUN
+.	PUNCT
+
+#	id	199
+in	ADP
+1	NUM
+after	ADP
+the	DET
+merger	NOUN
+with	ADP
+schering	PROPN
+ag	PROPN
+employees	NOUN
+began	VERB
+the	DET
+development	NOUN
+of	ADP
+drugs	NOUN
+.	PUNCT
+
+#	id	200
+linda	PROPN
+di	PROPN
+chamounix	PROPN
+(	PUNCT
+vienna	PROPN
+,	PUNCT
+1	NUM
+)	PUNCT
+,	PUNCT
+with	ADP
+a	DET
+libretto	NOUN
+by	ADP
+gaetano	PROPN
+rossi	PROPN
+(	PUNCT
+1	NUM
+1	NUM
+)	PUNCT
+
+#	id	201
+after	ADP
+a	DET
+hiatus	NOUN
+of	ADP
+almost	ADV
+ten	NUM
+years	NOUN
+,	PUNCT
+she	PRON
+was	AUX
+again	ADV
+a	DET
+part	NOUN
+time	NOUN
+lecturer	NOUN
+,	PUNCT
+back	ADV
+uptown	ADJ
+at	ADP
+columbia	PROPN
+university	PROPN
+during	ADP
+the	DET
+summers	NOUN
+of	ADP
+1	NUM
+and	CCONJ
+1	NUM
+.	PUNCT
+
+#	id	202
+millett	PROPN
+grew	VERB
+up	ADP
+in	ADP
+portland	PROPN
+and	CCONJ
+attended	VERB
+area	NOUN
+public	ADJ
+schools	NOUN
+.	PUNCT
+
+#	id	203
+stars	NOUN
+included	VERB
+edie	PROPN
+adams	PROPN
+,	PUNCT
+roscoe	PROPN
+lee	PROPN
+browne	PROPN
+,	PUNCT
+and	CCONJ
+sally	PROPN
+kellerman	PROPN
+.	PUNCT
+
+#	id	204
+interactivity	NOUN
+on	ADP
+laserdisc	PROPN
+had	AUX
+proven	VERB
+desirable	ADJ
+to	ADP
+consumers	NOUN
+,	PUNCT
+especially	ADV
+collectors	NOUN
+.	PUNCT
+
+#	id	205
+he	PRON
+was	AUX
+educated	VERB
+at	ADP
+westminster	PROPN
+school	NOUN
+from	ADP
+1	NUM
+to	ADP
+1	NUM
+,	PUNCT
+when	SCONJ
+he	PRON
+entered	VERB
+balliol	NOUN
+college	NOUN
+.	PUNCT
+
+#	id	206
+son	PROPN
+sen	PROPN
+(	PUNCT
+born	VERB
+in	ADP
+1	NUM
+)	PUNCT
+studied	VERB
+education	NOUN
+and	CCONJ
+literature	NOUN
+while	SCONJ
+hu	PROPN
+nim	PROPN
+(	PUNCT
+born	VERB
+in	ADP
+1	NUM
+)	PUNCT
+studied	VERB
+law	NOUN
+.	PUNCT
+
+#	id	207
+in	ADP
+1	NUM
+it	PRON
+was	AUX
+voted	VERB
+number	NOUN
+1	NUM
+in	ADP
+colin	PROPN
+larkin	PROPN
+all	DET
+time	NOUN
+top	NOUN
+1	NUM
+albums	NOUN
+.	PUNCT
+
+#	id	208
+could	AUX
+it	PRON
+be	AUX
+magic	ADJ
+(	PUNCT
+anderson	PROPN
+,	PUNCT
+manilow	PROPN
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	209
+1th	PROPN
+street	PROPN
+-	PUNCT
+hudson	PROPN
+yards	NOUN
+station	NOUN
+on	ADP
+the	DET
+irt	PROPN
+flushing	VERB
+line	NOUN
+,	PUNCT
+is	AUX
+being	AUX
+automated	VERB
+.	PUNCT
+]	PUNCT
+]	PUNCT
+
+#	id	210
+the	DET
+original	ADJ
+artwork	NOUN
+of	ADP
+each	PRON
+of	ADP
+these	DET
+posters	NOUN
+was	AUX
+auctioned	VERB
+on	ADP
+ebay	PROPN
+with	ADP
+funds	NOUN
+raised	VERB
+(	PUNCT
+$	SYM
+11	NUM
+)	PUNCT
+going	VERB
+to	ADP
+the	DET
+marine	ADJ
+conservation	NOUN
+society	NOUN
+.	PUNCT
+
+#	id	211
+thomas	PROPN
+earnshaw	PROPN
+,	PUNCT
+inventor	NOUN
+of	ADP
+the	DET
+standard	ADJ
+chronometer	NOUN
+escapement	NOUN
+
+#	id	212
+every	DET
+player	NOUN
+to	PART
+appear	VERB
+in	ADP
+kerry	PROPN
+packer	PROPN
+world	PROPN
+series	PROPN
+cricket	PROPN
+is	AUX
+listed	VERB
+below	ADV
+along	ADV
+with	ADP
+their	PRON
+appearance	NOUN
+records	NOUN
+.	PUNCT
+
+#	id	213
+one	NUM
+nme	NOUN
+critic	NOUN
+later	ADV
+recalled	VERB
+a	DET
+ludicrous	ADJ
+hullabaloo	NOUN
+that	PRON
+was	AUX
+a	DET
+departure	NOUN
+from	ADP
+planet	NOUN
+reality	NOUN
+.	PUNCT
+
+#	id	214
+de	X
+:	PUNCT
+bus	NOUN
+with	ADP
+number	NOUN
+of	ADP
+passenger	NOUN
+seats	NOUN
+more	ADJ
+than	ADP
+1	NUM
+,	PUNCT
+coupled	VERB
+to	ADP
+trailer	NOUN
+with	ADP
+permissible	ADJ
+maximum	ADJ
+weight	NOUN
+over	ADP
+1kg	NOUN
+,	PUNCT
+and	CCONJ
+also	ADV
+all	DET
+types	NOUN
+of	ADP
+articulated	VERB
+bus	NOUN
+
+#	id	215
+it	PRON
+was	AUX
+recorded	VERB
+primarily	ADV
+on	ADP
+guitarist	NOUN
+david	PROPN
+gilmour	PROPN
+converted	VERB
+houseboat	PROPN
+,	PUNCT
+astoria	PROPN
+.	PUNCT
+
+#	id	216
+similar	ADJ
+,	PUNCT
+mosquito	ADJ
+repellent	NOUN
+soaps	NOUN
+are	AUX
+in	ADP
+development	NOUN
+in	ADP
+johns	PROPN
+hopkins	PROPN
+,	PUNCT
+created	VERB
+to	PART
+be	AUX
+used	VERB
+instead	ADV
+of	ADP
+long	ADV
+lasting	VERB
+,	PUNCT
+volatile	ADJ
+insecticides	NOUN
+that	PRON
+could	AUX
+harm	VERB
+[	PUNCT
+the	DET
+]	PUNCT
+skin	NOUN
+.	PUNCT
+
+#	id	217
+the	DET
+division	NOUN
+is	AUX
+located	VERB
+in	ADP
+central	ADJ
+hobart	PROPN
+on	ADP
+the	DET
+western	ADJ
+shore	NOUN
+of	ADP
+the	DET
+river	NOUN
+derwent	NOUN
+.	PUNCT
+
+#	id	218
+1	NUM
+thousand	NUM
+tons	NOUN
+of	ADP
+carrot	NOUN
+;	PUNCT
+
+#	id	219
+m-pesa	NOUN
+,	PUNCT
+a	DET
+money	NOUN
+transfer	NOUN
+service	NOUN
+based	VERB
+on	ADP
+mobile	ADJ
+telephony	NOUN
+,	PUNCT
+allows	VERB
+users	NOUN
+with	ADP
+limited	ADJ
+access	NOUN
+to	ADP
+banks	NOUN
+to	PART
+transfer	VERB
+money	NOUN
+without	ADP
+ever	ADV
+having	VERB
+to	PART
+exchange	VERB
+physical	ADJ
+currency	NOUN
+.	PUNCT
+
+#	id	220
+molde	PROPN
+narrowly	ADV
+continued	VERB
+their	PRON
+unbeaten	NOUN
+run	NOUN
+in	ADP
+their	PRON
+first	ADJ
+league	NOUN
+game	NOUN
+back	ADV
+after	ADP
+the	DET
+break	NOUN
+with	ADP
+a	DET
+1	NUM
+-	SYM
+1	NUM
+away	ADV
+draw	VERB
+against	ADP
+valerenga	NOUN
+fotball	NOUN
+.	PUNCT
+
+#	id	221
+for	ADP
+a	DET
+more	ADV
+substantial	ADJ
+meal	NOUN
+,	PUNCT
+nasi	PROPN
+lemak	PROPN
+may	AUX
+be	AUX
+served	VERB
+with	ADP
+fried	VERB
+chicken	NOUN
+,	PUNCT
+curries	NOUN
+,	PUNCT
+or	CCONJ
+a	DET
+spicy	ADJ
+meat	NOUN
+stew	NOUN
+called	VERB
+rendang	NOUN
+.	PUNCT
+
+#	id	222
+he	PRON
+had	VERB
+a	DET
+love	NOUN
+for	ADP
+manga	NOUN
+and	CCONJ
+initially	ADV
+hoped	VERB
+to	PART
+become	VERB
+a	DET
+professional	ADJ
+manga	NOUN
+artist	NOUN
+before	ADP
+considering	VERB
+a	DET
+career	NOUN
+in	ADP
+video	NOUN
+games	NOUN
+.	PUNCT
+
+#	id	223
+taylor	PROPN
+&	CCONJ
+francis	PROPN
+,	PUNCT
+1	NUM
+.	PUNCT
+;	PUNCT
+pp	INTJ
+.	PUNCT
+1	NUM
+-	SYM
+1	NUM
+
+#	id	224
+a	DET
+will	NOUN
+or	CCONJ
+codicil	NOUN
+can	AUX
+not	PART
+be	AUX
+revoked	VERB
+by	ADP
+any	DET
+presumption	NOUN
+of	ADP
+the	DET
+intention	NOUN
+of	ADP
+the	DET
+testator	NOUN
+or	CCONJ
+on	ADP
+the	DET
+grounds	NOUN
+of	ADP
+any	DET
+alteration	NOUN
+in	ADP
+his	PRON
+circumstances	NOUN
+(	PUNCT
+s	VERB
+.	PUNCT
+1	NUM
+)	PUNCT
+.	PUNCT
+
+#	id	225
+the	DET
+school	NOUN
+is	AUX
+affiliated	VERB
+with	ADP
+the	DET
+west	PROPN
+bengal	PROPN
+board	PROPN
+of	ADP
+secondary	ADJ
+education	NOUN
+.	PUNCT
+
+#	id	226
+american	PROPN
+gothic	PROPN
+rock	PROPN
+began	VERB
+with	ADP
+1	NUM
+grave	NOUN
+and	CCONJ
+christian	ADJ
+death	NOUN
+.	PUNCT
+
+#	id	227
+npr	PROPN
+reports	VERB
+that	SCONJ
+pig	NOUN
+and	CCONJ
+cattle	NOUN
+slaughterhouse	NOUN
+workers	NOUN
+are	AUX
+nearly	ADV
+seven	NUM
+times	NOUN
+more	ADV
+likely	ADJ
+to	PART
+suffer	VERB
+repetitive	ADJ
+strain	NOUN
+injuries	NOUN
+than	ADP
+average	ADJ
+.	PUNCT
+
+#	id	228
+isabel	PROPN
+coixet	NOUN
+nobody	PRON
+wants	VERB
+the	DET
+night	NOUN
+was	AUX
+announced	VERB
+as	ADP
+the	DET
+opening	NOUN
+film	NOUN
+.	PUNCT
+
+#	id	229
+the	DET
+communist	PROPN
+party	PROPN
+of	ADP
+great	PROPN
+britain	PROPN
+also	ADV
+gained	VERB
+influence	NOUN
+,	PUNCT
+as	SCONJ
+some	PRON
+of	ADP
+the	DET
+immigrants	NOUN
+had	AUX
+formerly	ADV
+been	AUX
+members	NOUN
+of	ADP
+the	DET
+communist	PROPN
+party	PROPN
+of	ADP
+india	PROPN
+.	PUNCT
+
+#	id	230
+grimaldi	PROPN
+an	DET
+athlete	NOUN
+of	ADP
+the	DET
+gruppo	NOUN
+sportivo	PROPN
+fiamme	PROPN
+oro	PROPN
+.	PUNCT
+
+#	id	231
+by	ADP
+dumping	VERB
+the	DET
+1	NUM
+1	NUM
+prefix	NOUN
+in	ADP
+edmundston	PROPN
+,	PUNCT
+the	DET
+geographically	ADV
+furthest	ADJ
+point	NOUN
+still	ADV
+in	ADP
+new	PROPN
+brunswick	PROPN
+,	PUNCT
+the	DET
+administrator	NOUN
+adopts	VERB
+this	DET
+approach	NOUN
+.	PUNCT
+
+#	id	232
+the	DET
+world	PROPN
+health	PROPN
+organization	PROPN
+international	ADJ
+statistical	ADJ
+classification	NOUN
+of	ADP
+diseases	NOUN
+and	CCONJ
+related	ADJ
+health	NOUN
+problems	NOUN
+(	PUNCT
+icd	NOUN
+)	PUNCT
+has	AUX
+made	VERB
+similar	ADJ
+moves	NOUN
+in	ADP
+recent	ADJ
+years	NOUN
+.	PUNCT
+
+#	id	233
+she	PRON
+was	AUX
+born	VERB
+in	ADP
+lancaster	PROPN
+.	PUNCT
+
+#	id	234
+his	PRON
+father	NOUN
+was	AUX
+an	DET
+official	NOUN
+at	ADP
+the	DET
+bank	PROPN
+of	ADP
+england	PROPN
+and	CCONJ
+grandson	NOUN
+of	ADP
+the	DET
+painter	NOUN
+martin	PROPN
+archer	NOUN
+shee	PROPN
+.	PUNCT
+
+#	id	235
+the	DET
+program	NOUN
+is	AUX
+supported	VERB
+by	ADP
+mastercard	PROPN
+.	PUNCT
+
+#	id	236
+ina	PROPN
+also	ADV
+appears	VERB
+in	ADP
+the	DET
+crossover	NOUN
+game	NOUN
+warriors	NOUN
+orochi	PROPN
+.	PUNCT
+
+#	id	237
+in	ADP
+the	DET
+course	NOUN
+of	ADP
+over	ADP
+fifty	NUM
+years	NOUN
+,	PUNCT
+he	PRON
+has	AUX
+collaborated	VERB
+with	ADP
+directors	NOUN
+such	ADJ
+as	ADP
+bernardo	PROPN
+bertolucci	PROPN
+,	PUNCT
+francis	PROPN
+ford	PROPN
+coppola	PROPN
+,	PUNCT
+warren	PROPN
+beatty	PROPN
+,	PUNCT
+and	CCONJ
+woody	PROPN
+allen	PROPN
+.	PUNCT
+
+#	id	238
+capone-n-noreaga	INTJ
+(	PUNCT
+c	PROPN
+n	CCONJ
+n	PROPN
+)	PUNCT
+,	PUNCT
+a	DET
+hip	NOUN
+hop	NOUN
+duo	NOUN
+
+#	id	239
+the	DET
+building	NOUN
+was	AUX
+added	VERB
+to	ADP
+the	DET
+national	ADJ
+register	NOUN
+of	ADP
+historic	ADJ
+places	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	240
+in	ADP
+1	NUM
+,	PUNCT
+he	PRON
+and	CCONJ
+hunter	NOUN
+lovins	NOUN
+founded	VERB
+rocky	PROPN
+mountain	PROPN
+institute	PROPN
+,	PUNCT
+based	VERB
+in	ADP
+snowmass	NOUN
+.	PUNCT
+
+#	id	241
+shocking	ADJ
+blue	NOUN
+at	ADP
+home	NOUN
+including	VERB
+venus	PROPN
+
+#	id	242
+an	DET
+eighteenth	ADJ
+century	NOUN
+manor	PROPN
+house	PROPN
+and	CCONJ
+farm	NOUN
+.	PUNCT
+
+#	id	243
+across	ADP
+honduras	PROPN
+,	PUNCT
+1	NUM
+people	NOUN
+were	AUX
+killed	VERB
+and	CCONJ
+11	NUM
+people	NOUN
+were	AUX
+without	ADP
+food	NOUN
+or	CCONJ
+water	NOUN
+in	ADP
+just	ADV
+1	NUM
+communities	NOUN
+.	PUNCT
+
+#	id	244
+the	DET
+station	NOUN
+is	AUX
+one	NUM
+of	ADP
+the	DET
+most	ADV
+modern	ADJ
+,	PUNCT
+largest	ADJ
+and	CCONJ
+important	ADJ
+stations	NOUN
+of	ADP
+bangladesh	NOUN
+railway	NOUN
+along	ADP
+with	ADP
+kamalapur	PROPN
+railway	NOUN
+station	NOUN
+and	CCONJ
+chattogram	NOUN
+railway	NOUN
+station	NOUN
+.	PUNCT
+
+#	id	245
+historically	ADV
+,	PUNCT
+the	DET
+dish	NOUN
+has	AUX
+also	ADV
+been	AUX
+prepared	VERB
+using	VERB
+other	ADJ
+meats	NOUN
+,	PUNCT
+such	ADJ
+as	ADP
+rump	NOUN
+steak	NOUN
+and	CCONJ
+lamb	NOUN
+s	PROPN
+kidney	NOUN
+.	PUNCT
+
+#	id	246
+colipa	NOUN
+hypertrophy	NOUN
+
+#	id	247
+file	NOUN
+:	PUNCT
+insamju	NOUN
+(	PUNCT
+ginseng	NOUN
+liquor	NOUN
+)	PUNCT
+jpg	PROPN
+|	NOUN
+insamju	NOUN
+(	PUNCT
+ginseng	NOUN
+liquor	NOUN
+)	PUNCT
+
+#	id	248
+it	PRON
+was	AUX
+released	VERB
+on	ADP
+rca	PROPN
+records	NOUN
+in	ADP
+1	NUM
+and	CCONJ
+proved	VERB
+to	PART
+be	AUX
+the	DET
+group	NOUN
+s	X
+only	ADJ
+album	NOUN
+before	ADP
+disbanding	VERB
+the	DET
+following	ADJ
+year	NOUN
+.	PUNCT
+
+#	id	249
+cubed	VERB
+lamb	NOUN
+with	ADP
+tomato	NOUN
+,	PUNCT
+onion	NOUN
+and	CCONJ
+parsley	NOUN
+wrapped	VERB
+in	ADP
+phyllo	NOUN
+
+#	id	250
+there	PRON
+were	VERB
+a	DET
+few	ADJ
+dissenting	VERB
+voices	NOUN
+including	VERB
+the	DET
+poet	NOUN
+and	CCONJ
+critic	NOUN
+ricciotto	NOUN
+canudo	NOUN
+,	PUNCT
+who	PRON
+felt	VERB
+that	SCONJ
+the	DET
+film	NOUN
+s	PART
+pictorial	ADJ
+effects	NOUN
+were	AUX
+insufficiently	ADV
+grounded	VERB
+in	ADP
+the	DET
+subject	NOUN
+.	PUNCT
+
+#	id	251
+the	DET
+goodyear	PROPN
+tire	NOUN
+and	CCONJ
+rubber	NOUN
+company	NOUN
+operates	VERB
+a	DET
+large	ADJ
+plant	NOUN
+in	ADP
+gadsden	PROPN
+that	PRON
+employs	VERB
+about	ADV
+11	NUM
+people	NOUN
+.	PUNCT
+
+#	id	252
+the	DET
+popular	ADJ
+mind	NOUN
+was	AUX
+taken	VERB
+with	ADP
+betty	PROPN
+friedan	PROPN
+the	DET
+feminine	ADJ
+mystique	NOUN
+.	PUNCT
+
+#	id	253
+the	DET
+tail	ADJ
+light	ADJ
+appearance	NOUN
+on	ADP
+both	CCONJ
+the	DET
+sedan	NOUN
+and	CCONJ
+wagon	NOUN
+was	AUX
+influenced	VERB
+by	ADP
+the	DET
+taillights	NOUN
+on	ADP
+the	DET
+subaru	PROPN
+alcyone	PROPN
+svx	PROPN
+.	PUNCT
+
+#	id	254
+in	ADP
+1	NUM
+,	PUNCT
+a	DET
+police	NOUN
+officer	NOUN
+in	ADP
+port	PROPN
+jervis	PROPN
+,	PUNCT
+tried	VERB
+to	PART
+stop	VERB
+the	DET
+lynching	NOUN
+of	ADP
+a	DET
+black	ADJ
+man	NOUN
+who	PRON
+had	AUX
+been	AUX
+wrongfully	ADV
+accused	VERB
+of	ADP
+assaulting	VERB
+a	DET
+white	ADJ
+woman	NOUN
+.	PUNCT
+
+#	id	255
+cassinga	NOUN
+represents	VERB
+one	NUM
+of	ADP
+the	DET
+largest	ADJ
+iron	NOUN
+ore	NOUN
+reserves	NOUN
+in	ADP
+angola	PROPN
+and	CCONJ
+in	ADP
+the	DET
+world	NOUN
+having	VERB
+estimated	VERB
+reserves	NOUN
+of	ADP
+1	NUM
+billion	NUM
+tonnes	NOUN
+of	ADP
+ore	NOUN
+grading	NOUN
+1	NUM
+%	NOUN
+iron	NOUN
+metal	NOUN
+.	PUNCT
+
+#	id	256
+he	PRON
+worked	VERB
+in	ADP
+the	DET
+vending	NOUN
+machine	NOUN
+business	NOUN
+and	CCONJ
+later	ADV
+as	ADP
+an	DET
+investment	NOUN
+banker	NOUN
+.	PUNCT
+
+#	id	257
+blair	PROPN
+writes	VERB
+that	SCONJ
+a	DET
+frequent	ADJ
+dish	NOUN
+was	AUX
+fresh	ADJ
+slaughtered	VERB
+,	PUNCT
+quick	ADJ
+frozen	ADJ
+horse	NOUN
+meat	NOUN
+.	PUNCT
+
+#	id	258
+the	DET
+general	ADJ
+contour	NOUN
+lines	NOUN
+and	CCONJ
+shape	NOUN
+of	ADP
+the	DET
+concept	NOUN
+did	AUX
+end	VERB
+up	ADP
+making	VERB
+it	PRON
+on	ADP
+the	DET
+next	ADJ
+porsche	PROPN
+panamera	PROPN
+.	PUNCT
+
+#	id	259
+gyeongbokgung	PROPN
+-	PUNCT
+constructed	VERB
+in	ADP
+1	NUM
+,	PUNCT
+first	ADV
+reconstructed	VERB
+in	ADP
+1	NUM
+,	PUNCT
+under	ADP
+reconstruction	NOUN
+1	NUM
+to	PART
+present	VERB
+
+#	id	260
+she	PRON
+is	AUX
+currently	ADV
+a	DET
+presenter	NOUN
+on	ADP
+radio	NOUN
+x	X
+.	PUNCT
+
+#	id	261
+it	PRON
+was	AUX
+developed	VERB
+by	ADP
+mitchell	PROPN
+corporation	PROPN
+and	CCONJ
+published	VERB
+by	ADP
+nintendo	NOUN
+.	PUNCT
+
+#	id	262
+it	PRON
+looked	VERB
+just	ADV
+like	ADP
+the	DET
+skin	NOUN
+that	PRON
+forms	VERB
+itself	PRON
+over	ADP
+hot	ADJ
+milk	NOUN
+as	SCONJ
+it	PRON
+cools	VERB
+.	PUNCT
+
+#	id	263
+this	PRON
+in	ADP
+turn	NOUN
+expanded	VERB
+the	DET
+palette	NOUN
+and	CCONJ
+quality	NOUN
+of	ADP
+network	NOUN
+drama	NOUN
+and	CCONJ
+,	PUNCT
+most	ADV
+recently	ADV
+,	PUNCT
+persuaded	VERB
+amc	PROPN
+executives	NOUN
+to	PART
+begin	VERB
+original	ADJ
+programming	NOUN
+.	PUNCT
+
+#	id	264
+this	DET
+dish	NOUN
+,	PUNCT
+which	PRON
+is	AUX
+quite	ADV
+similar	ADJ
+to	ADP
+a	DET
+pot-au-feu	NOUN
+,	PUNCT
+was	AUX
+once	ADV
+considered	VERB
+a	DET
+dish	NOUN
+for	ADP
+the	DET
+poor	ADJ
+and	CCONJ
+peasantry	NOUN
+.	PUNCT
+
+#	id	265
+it	PRON
+was	AUX
+described	VERB
+by	ADP
+stephan	PROPN
+von	PROPN
+breuning	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	266
+carnegie	PROPN
+wrote	VERB
+the	DET
+gospel	NOUN
+of	ADP
+wealth	NOUN
+,	PUNCT
+an	DET
+article	NOUN
+in	ADP
+which	PRON
+he	PRON
+stated	VERB
+his	PRON
+belief	NOUN
+that	SCONJ
+the	DET
+rich	ADJ
+should	AUX
+use	VERB
+their	PRON
+wealth	NOUN
+to	PART
+help	VERB
+enrich	VERB
+society	NOUN
+.	PUNCT
+
+#	id	267
+the	DET
+main	ADJ
+patrol	NOUN
+vehicle	NOUN
+utilized	VERB
+by	ADP
+this	DET
+department	NOUN
+is	AUX
+the	DET
+chevrolet	PROPN
+chevrolet	PROPN
+tahoe	PROPN
+,	PUNCT
+and	CCONJ
+the	DET
+chevrolet	PROPN
+chevrolet	PROPN
+impala	PROPN
+.	PUNCT
+
+#	id	268
+girl	NOUN
+boss	NOUN
+guerilla	NOUN
+(	PUNCT
+_	DET
+sukeban	ADJ
+guerilla	NOUN
+)	PUNCT
+(	PUNCT
+1	NUM
+/	SYM
+1	NUM
+/	SYM
+1	NUM
+)	PUNCT
+
+#	id	269
+the	DET
+1	NUM
+show	NOUN
+featured	VERB
+guests	NOUN
+dwayne	VERB
+mcduffie	PROPN
+,	PUNCT
+kyle	PROPN
+baker	PROPN
+,	PUNCT
+and	CCONJ
+taimak	NOUN
+.	PUNCT
+
+#	id	270
+some	DET
+sources	NOUN
+indicate	VERB
+his	PRON
+place	NOUN
+of	ADP
+birth	NOUN
+as	ADP
+kuwait	PROPN
+.	PUNCT
+
+#	id	271
+kirkwood	PROPN
+had	VERB
+a	DET
+short	ADJ
+caretaker	NOUN
+manager	NOUN
+role	NOUN
+with	ADP
+st	PROPN
+johnstone	PROPN
+fc	PROPN
+in	ADP
+1	NUM
+,	PUNCT
+after	SCONJ
+sandy	PROPN
+clark	PROPN
+was	AUX
+sacked	VERB
+.	PUNCT
+
+#	id	272
+an	DET
+entree	ADJ
+dish	NOUN
+made	VERB
+out	ADP
+of	ADP
+a	DET
+fried	VERB
+pocket	NOUN
+of	ADP
+dough	NOUN
+which	PRON
+forms	VERB
+the	DET
+pastry	NOUN
+that	PRON
+surrounds	VERB
+a	DET
+rich	ADJ
+filling	NOUN
+.	PUNCT
+
+#	id	273
+sellou	NOUN
+(	PUNCT
+sllu	NOUN
+)	PUNCT
+,	PUNCT
+also	ADV
+called	VERB
+slilou	NOUN
+or	CCONJ
+sfouf	NOUN
+,	PUNCT
+is	AUX
+a	DET
+dessert	NOUN
+consumed	VERB
+in	ADP
+morocco	PROPN
+.	PUNCT
+
+#	id	274
+lalo	PROPN
+)	PUNCT
+is	AUX
+a	DET
+studio	NOUN
+album	NOUN
+by	ADP
+lalo	PROPN
+rodriguez	PROPN
+released	VERB
+by	ADP
+global	ADJ
+records	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	275
+the	DET
+closure	NOUN
+of	ADP
+the	DET
+site	NOUN
+led	VERB
+to	ADP
+the	DET
+creation	NOUN
+of	ADP
+a	DET
+number	NOUN
+of	ADP
+internet	NOUN
+meme	NOUN
+.	PUNCT
+
+#	id	276
+this	DET
+standard	NOUN
+was	AUX
+create	ADJ
+by	ADP
+the	DET
+association	NOUN
+for	ADP
+information	NOUN
+and	CCONJ
+image	NOUN
+management	NOUN
+and	CCONJ
+astm	NOUN
+international	PROPN
+.	PUNCT
+
+#	id	277
+armenia	PROPN
+has	VERB
+an	DET
+embassy	NOUN
+in	ADP
+mexico	PROPN
+city	NOUN
+.	PUNCT
+
+#	id	278
+along	ADP
+the	DET
+sides	NOUN
+are	AUX
+chapels	NOUN
+and	CCONJ
+confessional	ADJ
+.	PUNCT
+
+#	id	279
+it	PRON
+was	AUX
+co	VERB
+developed	VERB
+with	ADP
+daimler	PROPN
+ag	PROPN
+third	ADJ
+generation	NOUN
+smart	ADJ
+fortwo	NOUN
+and	CCONJ
+second	ADJ
+generation	NOUN
+smart	ADJ
+forfour	NOUN
+.	PUNCT
+
+#	id	280
+her	PRON
+interest	NOUN
+in	ADP
+politics	NOUN
+was	AUX
+sparked	VERB
+by	ADP
+julius	PROPN
+nyerere	PROPN
+and	CCONJ
+his	PRON
+philosophies	NOUN
+on	ADP
+education	NOUN
+and	CCONJ
+democracy	NOUN
+.	PUNCT
+
+#	id	281
+he	PRON
+joined	VERB
+general	PROPN
+motors	NOUN
+in	ADP
+1	NUM
+as	ADP
+a	DET
+trainee	NOUN
+.	PUNCT
+
+#	id	282
+saint	PROPN
+bueil	PROPN
+is	AUX
+a	DET
+commune	NOUN
+of	ADP
+france	PROPN
+in	ADP
+the	DET
+isere	ADJ
+department	NOUN
+of	ADP
+france	PROPN
+in	ADP
+southeastern	ADJ
+france	PROPN
+.	PUNCT
+
+#	id	283
+1	X
+(	PUNCT
+march	PROPN
+1	NUM
+)	PUNCT
+.	PUNCT
+
+#	id	284
+he	PRON
+also	ADV
+hosted	VERB
+1	NUM
+hours	NOUN
+a	DET
+week	NOUN
+for	ADP
+sirius	PROPN
+satellite	PROPN
+radio	NOUN
+musical	ADJ
+theatre	NOUN
+channel	NOUN
+.	PUNCT
+
+#	id	285
+helena	PROPN
+sukova	PROPN
+and	CCONJ
+cyril	PROPN
+suk	PROPN
+won	VERB
+the	DET
+title	NOUN
+,	PUNCT
+defeating	VERB
+caroline	PROPN
+vis	PROPN
+and	CCONJ
+paul	PROPN
+haarhuis	PROPN
+in	ADP
+the	DET
+final	ADJ
+.	PUNCT
+
+#	id	286
+in	ADP
+1	NUM
+he	PRON
+designed	VERB
+the	DET
+first	ADJ
+diesel	NOUN
+locomotive	NOUN
+(	PUNCT
+cm	PROPN
+1	NUM
+)	PUNCT
+and	CCONJ
+it	PRON
+served	VERB
+until	ADP
+1	NUM
+.	PUNCT
+
+#	id	287
+through	ADP
+her	PRON
+mother	NOUN
+,	PUNCT
+she	PRON
+is	AUX
+the	DET
+niece	NOUN
+to	ADP
+singers	NOUN
+ziana	PROPN
+zain	PROPN
+and	CCONJ
+anuar	PROPN
+zain	PROPN
+.	PUNCT
+
+#	id	288
+according	VERB
+to	ADP
+the	DET
+united	PROPN
+states	PROPN
+census	PROPN
+bureau	NOUN
+,	PUNCT
+the	DET
+township	NOUN
+has	VERB
+a	DET
+total	ADJ
+area	NOUN
+of	ADP
+,	PUNCT
+of	ADP
+which	PRON
+is	AUX
+land	NOUN
+and	CCONJ
+,	PUNCT
+or	CCONJ
+11	NUM
+%	NOUN
+,	PUNCT
+is	AUX
+water	NOUN
+.	PUNCT
+
+#	id	289
+the	DET
+purpose	NOUN
+of	ADP
+the	DET
+company	NOUN
+was	AUX
+to	PART
+harvest	VERB
+timber	NOUN
+to	PART
+run	VERB
+anaconda	NOUN
+smelter	NOUN
+.	PUNCT
+
+#	id	290
+andre	PROPN
+marie	PROPN
+constant	PROPN
+dumeril	PROPN
+,	PUNCT
+gabriel	PROPN
+bibron	PROPN
+,	PUNCT
+&	CCONJ
+auguste	PROPN
+dumeril	PROPN
+]	PUNCT
+.	PUNCT
+1	X
+.	PUNCT
+
+#	id	291
+they	PRON
+are	AUX
+now	ADV
+in	ADP
+the	DET
+kunsthistorisches	NOUN
+museum	NOUN
+,	PUNCT
+vienna	PROPN
+,	PUNCT
+and	CCONJ
+elsewhere	ADV
+.	PUNCT
+
+#	id	292
+seven	NUM
+other	ADJ
+sailors	NOUN
+likely	ADV
+drowned	VERB
+offshore	ADJ
+guinea-bissau	NOUN
+after	SCONJ
+their	PRON
+fishing	NOUN
+boat	NOUN
+collapsed	VERB
+.	PUNCT
+
+#	id	293
+from	ADP
+1	NUM
+to	ADP
+1	NUM
+,	PUNCT
+he	PRON
+was	AUX
+the	DET
+head	PROPN
+football	NOUN
+coach	NOUN
+at	ADP
+gannon	PROPN
+university	PROPN
+in	ADP
+erie	PROPN
+,	PUNCT
+where	SCONJ
+he	PRON
+compiled	VERB
+a	DET
+1	NUM
+-	SYM
+1	NUM
+.	PUNCT
+
+#	id	294
+it	PRON
+lies	VERB
+approximately	ADV
+north	NOUN
+west	NOUN
+of	ADP
+eczyce	NOUN
+pomeranian	PROPN
+voivodeship	NOUN
+,	PUNCT
+west	NOUN
+of	ADP
+wejherowo	NOUN
+,	PUNCT
+and	CCONJ
+north	NOUN
+west	NOUN
+of	ADP
+the	DET
+regional	ADJ
+capital	NOUN
+gdansk	PROPN
+.	PUNCT
+
+#	id	295
+the	DET
+episode	NOUN
+was	AUX
+written	VERB
+by	ADP
+chris	PROPN
+carter	PROPN
+and	CCONJ
+directed	VERB
+by	ADP
+kim	PROPN
+manners	NOUN
+.	PUNCT
+
+#	id	296
+as	ADV
+well	ADV
+as	ADP
+his	PRON
+imaginative	ADJ
+clothing	NOUN
+collections	NOUN
+,	PUNCT
+the	DET
+designer	NOUN
+creates	VERB
+home	NOUN
+furnishings	NOUN
+and	CCONJ
+has	AUX
+designed	VERB
+a	DET
+watch	NOUN
+inspired	VERB
+by	ADP
+the	DET
+childhood	NOUN
+favourite	NOUN
+,	PUNCT
+lego	NOUN
+.	PUNCT
+
+#	id	297
+scuba	NOUN
+diving	NOUN
+experts	NOUN
+including	VERB
+richard	PROPN
+widmark	PROPN
+operate	VERB
+as	ADP
+military	ADJ
+commandos	NOUN
+.	PUNCT
+
+#	id	298
+stallone	NOUN
+ended	VERB
+their	PRON
+relationship	NOUN
+via	ADP
+fedex	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	299
+moodie	PROPN
+became	VERB
+the	DET
+first	ADJ
+professor	NOUN
+of	ADP
+politics	NOUN
+and	CCONJ
+head	NOUN
+of	ADP
+department	NOUN
+at	ADP
+the	DET
+newly	ADV
+founded	VERB
+university	PROPN
+of	ADP
+york	PROPN
+in	ADP
+1	NUM
+,	PUNCT
+where	SCONJ
+he	PRON
+remained	VERB
+until	ADP
+his	PRON
+retirement	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	300
+he	PRON
+spent	VERB
+his	PRON
+early	ADJ
+years	NOUN
+in	ADP
+the	DET
+nearby	ADJ
+suburb	NOUN
+of	ADP
+williamstown	PROPN
+.	PUNCT
+
+#	id	301
+malakai	PROPN
+,	PUNCT
+the	DET
+former	ADJ
+spelling	NOUN
+of	ADP
+the	DET
+band	NOUN
+malachai	VERB
+
+#	id	302
+james	PROPN
+honeyman-scott	PROPN
+-	PUNCT
+lead	NOUN
+guitar	NOUN
+,	PUNCT
+keyboards	NOUN
+,	PUNCT
+backing	VERB
+vocals	NOUN
+
+#	id	303
+he	PRON
+also	ADV
+has	VERB
+custom	NOUN
+amps	NOUN
+with	ADP
+kustom	NOUN
+amplification	NOUN
+featuring	VERB
+his	PRON
+own	ADJ
+design	NOUN
+printed	VERB
+on	ADP
+the	DET
+front	NOUN
+resembling	VERB
+a	DET
+skull	NOUN
+engulfed	VERB
+in	ADP
+flames	NOUN
+.	PUNCT
+
+#	id	304
+she	PRON
+is	AUX
+signed	VERB
+with	ADP
+epic	ADJ
+records	NOUN
+.	PUNCT
+
+#	id	305
+widely	ADV
+distributed	VERB
+in	ADP
+the	DET
+wet	ADJ
+climatic	ADJ
+zones	NOUN
+from	ADP
+1	NUM
+1m	NUM
+,	PUNCT
+and	CCONJ
+known	VERB
+localities	NOUN
+include	VERB
+kandy	PROPN
+,	PUNCT
+nawalapitiya	NOUN
+,	PUNCT
+deniyaya	NOUN
+,	PUNCT
+and	CCONJ
+peradeniya	NOUN
+.	PUNCT
+
+#	id	306
+they	PRON
+readily	ADV
+attend	VERB
+hemipterans	NOUN
+and	CCONJ
+are	AUX
+found	VERB
+in	ADP
+citrus	ADJ
+groves	NOUN
+,	PUNCT
+but	CCONJ
+their	PRON
+role	NOUN
+in	ADP
+disrupting	VERB
+biological	ADJ
+control	NOUN
+has	AUX
+not	PART
+been	AUX
+determined	VERB
+.	PUNCT
+
+#	id	307
+,	PUNCT
+a	DET
+character	NOUN
+in	ADP
+the	DET
+manga	PROPN
+series	PROPN
+kimagure	PROPN
+orange	PROPN
+road	PROPN
+
+#	id	308
+overman	PROPN
+king	PROPN
+gainer	NOUN
+(	PUNCT
+1	NUM
+1	NUM
+)	PUNCT
+mecha	NOUN
+designer	NOUN
+
+#	id	309
+eliminated	VERB
+by	ADP
+real	ADJ
+madrid	PROPN
+baloncesto	NOUN
+,	PUNCT
+1	NUM
+1	NUM
+(	PUNCT
+l	X
+)	PUNCT
+in	ADP
+madrid	PROPN
+and	CCONJ
+1	NUM
+1	NUM
+(	PUNCT
+l	X
+)	PUNCT
+in	ADP
+zadar	NOUN
+
+#	id	310
+sify	PROPN
+stated	VERB
+that	SCONJ
+mathai	PROPN
+kuzhappakkaranalla	PROPN
+?	PUNCT
+is	AUX
+an	DET
+amateurish	ADJ
+movie	NOUN
+that	PRON
+tests	VERB
+your	PRON
+patience	NOUN
+.	PUNCT
+
+#	id	311
+wadjda	NOUN
+tells	VERB
+the	DET
+story	NOUN
+of	ADP
+a	DET
+1	NUM
+year	NOUN
+old	ADJ
+girl	NOUN
+growing	VERB
+up	ADP
+in	ADP
+the	DET
+suburbs	NOUN
+of	ADP
+riyadh	PROPN
+,	PUNCT
+who	PRON
+dreams	VERB
+of	ADP
+owning	VERB
+and	CCONJ
+riding	VERB
+a	DET
+green	ADJ
+bicycle	NOUN
+.	PUNCT
+
+#	id	312
+when	SCONJ
+he	PRON
+refused	VERB
+to	PART
+pay	VERB
+the	DET
+fine	NOUN
+,	PUNCT
+his	PRON
+car	NOUN
+(	PUNCT
+volkswagen	PROPN
+golf	NOUN
+)	PUNCT
+was	AUX
+confiscated	VERB
+by	ADP
+the	DET
+government	NOUN
+.	PUNCT
+
+#	id	313
+this	DET
+production	NOUN
+was	AUX
+revived	VERB
+two	NUM
+years	NOUN
+later	ADV
+for	ADP
+performances	NOUN
+at	ADP
+english	ADJ
+national	ADJ
+opera	NOUN
+.	PUNCT
+
+#	id	314
+conservatives	NOUN
+in	ADP
+blue	ADJ
+,	PUNCT
+labour	NOUN
+party	NOUN
+in	ADP
+red	NOUN
+]	PUNCT
+]	PUNCT
+
+#	id	315
+ripec	NOUN
+lies	VERB
+approximately	ADV
+south	ADV
+of	ADP
+tabor	PROPN
+,	PUNCT
+north	PROPN
+east	NOUN
+of	ADP
+ceske	ADJ
+budejovice	NOUN
+,	PUNCT
+and	CCONJ
+south	NOUN
+of	ADP
+prague	PROPN
+.	PUNCT
+
+#	id	316
+the	DET
+book	NOUN
+was	AUX
+adapted	VERB
+into	ADP
+a	DET
+cbs	PROPN
+television	PROPN
+miniseries	NOUN
+,	PUNCT
+ill	ADV
+take	VERB
+manhattan	PROPN
+,	PUNCT
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	317
+when	SCONJ
+george	PROPN
+w	PROPN
+bush	PROPN
+1	NUM
+budget	NOUN
+proposal	NOUN
+threatened	VERB
+to	PART
+cut	VERB
+education	NOUN
+grants	NOUN
+,	PUNCT
+she	PRON
+responded	VERB
+:	PUNCT
+
+#	id	318
+bodies	NOUN
+were	AUX
+later	ADV
+recovered	VERB
+from	ADP
+the	DET
+shyok	PROPN
+river	NOUN
+.	PUNCT
+
+#	id	319
+meea	PROPN
+(	PUNCT
+)	PUNCT
+is	AUX
+a	DET
+village	NOUN
+in	ADP
+the	DET
+municipality	NOUN
+of	ADP
+bosnia	PROPN
+and	CCONJ
+herzegovina	PROPN
+of	ADP
+visegrad	PROPN
+,	PUNCT
+bosnia	PROPN
+and	CCONJ
+herzegovina	PROPN
+.	PUNCT
+
+#	id	320
+remixes	NOUN
+of	ADP
+six	NUM
+songs	NOUN
+from	ADP
+the	DET
+album	NOUN
+were	AUX
+later	ADV
+included	VERB
+on	ADP
+the	DET
+1ers	PROPN
+compilation	NOUN
+album	NOUN
+,	PUNCT
+released	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	321
+the	DET
+hostages	NOUN
+from	ADP
+this	DET
+group	NOUN
+who	PRON
+were	AUX
+still	ADV
+alive	ADJ
+were	AUX
+then	ADV
+ordered	VERB
+to	PART
+lie	VERB
+down	ADP
+and	CCONJ
+shot	VERB
+with	ADP
+an	DET
+automatic	ADJ
+rifle	NOUN
+by	ADP
+another	DET
+gunman	NOUN
+;	PUNCT
+all	PRON
+but	SCONJ
+one	NUM
+of	ADP
+them	PRON
+were	AUX
+killed	VERB
+.	PUNCT
+
+#	id	322
+she	PRON
+was	AUX
+heavily	ADV
+damaged	VERB
+by	ADP
+air	NOUN
+attack	NOUN
+and	CCONJ
+beached	VERB
+in	ADP
+1	NUM
+near	ADP
+terneuzen	NOUN
+.	PUNCT
+
+#	id	323
+almost	ADV
+every	PRON
+department	NOUN
+from	ADP
+the	DET
+government	NOUN
+of	ADP
+india	PROPN
+attends	VERB
+it	PRON
+.	PUNCT
+
+#	id	324
+babe	NOUN
+laufenberg	NOUN
+,	PUNCT
+professional	ADJ
+football	NOUN
+player	NOUN
+,	PUNCT
+sports	NOUN
+announcer	NOUN
+
+#	id	325
+the	DET
+term	NOUN
+fastback	NOUN
+may	AUX
+sometimes	ADV
+also	ADV
+be	AUX
+used	VERB
+by	ADP
+manufacturers	NOUN
+to	PART
+market	VERB
+liftback	NOUN
+cars	NOUN
+.	PUNCT
+
+#	id	326
+lindstrom	PROPN
+remained	VERB
+on	ADP
+recurring	VERB
+status	NOUN
+with	ADP
+the	DET
+show	NOUN
+appearing	VERB
+sporadically	ADV
+until	ADP
+1	NUM
+,	PUNCT
+while	SCONJ
+being	AUX
+a	DET
+main	ADJ
+cast	NOUN
+member	NOUN
+on	ADP
+spin	VERB
+off	ADP
+port	NOUN
+charles	PROPN
+.	PUNCT
+
+#	id	327
+he	PRON
+also	ADV
+became	VERB
+an	DET
+assistant	NOUN
+,	PUNCT
+of	ADP
+the	DET
+royal	ADJ
+african	ADJ
+company	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	328
+it	PRON
+closed	VERB
+briefly	ADV
+during	ADP
+dorothy	PROPN
+mccullough	PROPN
+lee	PROPN
+mayorship	NOUN
+,	PUNCT
+but	CCONJ
+reopened	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	329
+gary	PROPN
+kemp	PROPN
+-	PUNCT
+lead	NOUN
+guitar	NOUN
+,	PUNCT
+keyboards	NOUN
+,	PUNCT
+synthesizers	NOUN
+,	PUNCT
+piano	NOUN
+,	PUNCT
+backing	VERB
+vocals	NOUN
+(	PUNCT
+1	NUM
+-	SYM
+1	NUM
+,	PUNCT
+1	NUM
+-	SYM
+1	NUM
+)	PUNCT
+
+#	id	330
+j	PROPN
+r	NOUN
+r	PROPN
+tolkien	PROPN
+fantasy	NOUN
+novel	NOUN
+the	DET
+lord	PROPN
+of	ADP
+the	DET
+rings	NOUN
+was	AUX
+published	VERB
+in	ADP
+three	NUM
+volumes	NOUN
+in	ADP
+1	NUM
+-	SYM
+1	NUM
+,	PUNCT
+and	CCONJ
+has	AUX
+sold	VERB
+over	ADP
+1	NUM
+million	NUM
+copies	NOUN
+.	PUNCT
+
+#	id	331
+it	PRON
+was	AUX
+described	VERB
+by	ADP
+emile	PROPN
+louis	PROPN
+ragonot	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	332
+the	DET
+most	ADV
+important	ADJ
+crop	NOUN
+is	AUX
+the	DET
+yam	NOUN
+.	PUNCT
+
+#	id	333
+sid	PROPN
+collins	PROPN
+,	PUNCT
+who	PRON
+had	AUX
+served	VERB
+as	ADP
+a	DET
+turn	NOUN
+reporter	NOUN
+for	ADP
+two	NUM
+years	NOUN
+,	PUNCT
+was	AUX
+tentatively	ADV
+named	VERB
+his	PRON
+replacement	NOUN
+.	PUNCT
+
+#	id	334
+she	PRON
+graduated	VERB
+in	ADP
+korean	ADJ
+literature	NOUN
+from	ADP
+konkuk	PROPN
+university	NOUN
+,	PUNCT
+and	CCONJ
+completed	VERB
+a	DET
+master	NOUN
+s	PART
+degree	NOUN
+in	ADP
+the	DET
+same	ADJ
+school	NOUN
+.	PUNCT
+
+#	id	335
+in	ADP
+1	NUM
+,	PUNCT
+he	PRON
+appeared	VERB
+on	ADP
+saturday	PROPN
+night	NOUN
+live	ADV
+with	ADP
+michael	PROPN
+palin	PROPN
+.	PUNCT
+
+#	id	336
+abraham	PROPN
+lincoln	PROPN
+disliked	VERB
+the	DET
+ornate	ADJ
+railroad	NOUN
+car	NOUN
+supplied	VERB
+for	ADP
+his	PRON
+service	NOUN
+as	ADP
+president	NOUN
+:	PUNCT
+he	PRON
+rode	VERB
+in	ADP
+it	PRON
+only	ADV
+in	ADP
+his	PRON
+coffin	NOUN
+.	PUNCT
+
+#	id	337
+portrayed	VERB
+by	ADP
+song	NOUN
+kang-ho	PROPN
+in	ADP
+the	DET
+1	NUM
+film	NOUN
+the	DET
+kings	NOUN
+letters	NOUN
+
+#	id	338
+the	DET
+cortland	PROPN
+apple	PROPN
+is	AUX
+named	VERB
+for	ADP
+the	DET
+county	NOUN
+.	PUNCT
+
+#	id	339
+lane	NOUN
+is	AUX
+chairman	NOUN
+of	ADP
+henry	PROPN
+l	PROPN
+stimson	PROPN
+center	PROPN
+.	PUNCT
+
+#	id	340
+where	SCONJ
+you	PRON
+are	AUX
+-	PUNCT
+jessica	PROPN
+simpson	PROPN
+and	CCONJ
+nick	PROPN
+lachey	PROPN
+,	PUNCT
+1	NUM
+
+#	id	341
+rogues	NOUN
+river	VERB
+:	PUNCT
+a	DET
+section	NOUN
+of	ADP
+the	DET
+hooghly	NOUN
+river	NOUN
+
+#	id	342
+:	PUNCT
+cenk	PROPN
+akyol	PROPN
+(	PUNCT
+draft	VERB
+rights	NOUN
+from	ADP
+atlanta	PROPN
+)	PUNCT
+
+#	id	343
+bakkies	NOUN
+(	PUNCT
+pickup	NOUN
+truck	NOUN
+)	PUNCT
+will	AUX
+be	AUX
+taxed	VERB
+because	SCONJ
+they	PRON
+are	AUX
+often	ADV
+used	VERB
+as	ADP
+passenger	NOUN
+vehicles	NOUN
+:	PUNCT
+this	PRON
+has	AUX
+caused	VERB
+an	DET
+uproar	NOUN
+for	ADP
+fear	NOUN
+of	ADP
+affecting	VERB
+industry	NOUN
+.	PUNCT
+
+#	id	344
+one	NUM
+of	ADP
+three	NUM
+surface	NOUN
+lakes	NOUN
+on	ADP
+signy	PROPN
+island	NOUN
+.	PUNCT
+
+#	id	345
+they	PRON
+have	AUX
+signed	VERB
+with	ADP
+croatia	PROPN
+label	PROPN
+croatia	PROPN
+records	NOUN
+.	PUNCT
+
+#	id	346
+according	VERB
+to	ADP
+the	DET
+united	PROPN
+states	PROPN
+census	PROPN
+bureau	NOUN
+,	PUNCT
+the	DET
+village	NOUN
+has	VERB
+a	DET
+total	ADJ
+area	NOUN
+of	ADP
+,	PUNCT
+all	DET
+land	NOUN
+.	PUNCT
+
+#	id	347
+he	PRON
+was	AUX
+signed	VERB
+by	ADP
+the	DET
+tampa	PROPN
+bay	PROPN
+buccaneers	PROPN
+in	ADP
+1	NUM
+but	CCONJ
+did	AUX
+not	PART
+make	VERB
+the	DET
+roster	NOUN
+.	PUNCT
+
+#	id	348
+it	PRON
+shows	VERB
+gregory	PROPN
+i	PRON
+holding	VERB
+a	DET
+sheet	NOUN
+of	ADP
+plainsong	NOUN
+.	PUNCT
+
+#	id	349
+in	ADP
+1	NUM
+starred	VERB
+in	ADP
+telenovela	PROPN
+el	PROPN
+alma	PROPN
+no	DET
+tiene	NOUN
+color	NOUN
+.	PUNCT
+
+#	id	350
+midway	PROPN
+is	AUX
+west	PROPN
+northwest	NOUN
+of	ADP
+church	NOUN
+hill	PROPN
+.	PUNCT
+
+#	id	351
+1	X
+.	PUNCT
+
+#	id	352
+menno	PROPN
+oosting	PROPN
+/	SYM
+libor	PROPN
+pimek	PROPN
+(	PUNCT
+champions	NOUN
+)	PUNCT
+
+#	id	353
+july	PROPN
+1	NUM
+-	PUNCT
+mos	PROPN
+burger	NOUN
+was	AUX
+founded	VERB
+.	PUNCT
+
+#	id	354
+the	DET
+stadium	NOUN
+has	VERB
+a	DET
+synthetic	ADJ
+fieldturf	ADJ
+surface	NOUN
+,	PUNCT
+installed	VERB
+in	ADP
+1	NUM
+and	CCONJ
+renewed	VERB
+in	ADP
+1	NUM
+,	PUNCT
+and	CCONJ
+a	DET
+daktronics	NOUN
+scoreboard	NOUN
+,	PUNCT
+installed	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	355
+according	VERB
+to	ADP
+the	DET
+united	PROPN
+states	PROPN
+census	PROPN
+bureau	NOUN
+,	PUNCT
+the	DET
+city	NOUN
+has	VERB
+a	DET
+total	ADJ
+area	NOUN
+of	ADP
+,	PUNCT
+all	PRON
+of	ADP
+it	PRON
+land	NOUN
+.	PUNCT
+
+#	id	356
+a	DET
+report	NOUN
+from	ADP
+state	NOUN
+run	NOUN
+al	PROPN
+iraqiya	PROPN
+stated	VERB
+that	SCONJ
+local	ADJ
+officials	NOUN
+said	VERB
+that	SCONJ
+two	NUM
+mortar	NOUN
+rounds	NOUN
+were	AUX
+fired	VERB
+at	ADP
+the	DET
+two	NUM
+minarets	NOUN
+.	PUNCT
+
+#	id	357
+numerous	ADJ
+attempts	NOUN
+were	AUX
+made	VERB
+to	PART
+revive	VERB
+it	PRON
+during	ADP
+the	DET
+1s	NOUN
+and	CCONJ
+1s	NOUN
+,	PUNCT
+most	ADV
+notably	ADV
+as	ADP
+a	DET
+major	ADJ
+league	NOUN
+soccer	NOUN
+(	PUNCT
+mls	PROPN
+)	PUNCT
+club	NOUN
+.	PUNCT
+
+#	id	358
+among	ADP
+the	DET
+designers	NOUN
+of	ADP
+the	DET
+initial	ADJ
+modern	ADJ
+buildings	NOUN
+of	ADP
+the	DET
+airport	NOUN
+was	AUX
+the	DET
+famous	ADJ
+architect	NOUN
+william	PROPN
+pereira	PROPN
+.	PUNCT
+
+#	id	359
+it	PRON
+was	AUX
+later	ADV
+published	VERB
+by	ADP
+the	DET
+local	ADJ
+gazprom	PROPN
+department	PROPN
+.	PUNCT
+
+#	id	360
+the	DET
+train	NOUN
+services	NOUN
+are	AUX
+operated	VERB
+by	ADP
+westfalenbahn	NOUN
+.	PUNCT
+
+#	id	361
+bela	PROPN
+zilina	PROPN
+district	NOUN
+,	PUNCT
+a	DET
+village	NOUN
+and	CCONJ
+municipality	NOUN
+
+#	id	362
+the	DET
+historical	ADJ
+genus	NOUN
+of	ADP
+cruciferous	ADJ
+vegetable	NOUN
+,	PUNCT
+meaning	VERB
+cross	NOUN
+bearing	NOUN
+in	ADP
+reference	NOUN
+to	ADP
+the	DET
+four	NUM
+petaled	ADJ
+flowers	NOUN
+,	PUNCT
+may	AUX
+be	AUX
+the	DET
+only	ADJ
+unifying	ADJ
+feature	NOUN
+beyond	ADP
+taste	NOUN
+.	PUNCT
+
+#	id	363
+there	PRON
+are	VERB
+also	ADV
+warehouses	NOUN
+,	PUNCT
+car	NOUN
+dealerships	NOUN
+,	PUNCT
+and	CCONJ
+a	DET
+civic	ADJ
+amenity	NOUN
+site	NOUN
+.	PUNCT
+
+#	id	364
+in	ADP
+1	NUM
+the	DET
+settlement	NOUN
+was	AUX
+annexed	VERB
+by	ADP
+the	DET
+kingdom	NOUN
+of	ADP
+prussia	PROPN
+.	PUNCT
+
+#	id	365
+the	DET
+station	NOUN
+is	AUX
+currently	ADV
+owned	VERB
+by	ADP
+cumulus	NOUN
+media	NOUN
+.	PUNCT
+
+#	id	366
+in	ADP
+some	DET
+students	NOUN
+this	PRON
+manifests	VERB
+as	ADP
+an	DET
+outright	ADJ
+fear	NOUN
+of	ADP
+library	NOUN
+and	CCONJ
+the	DET
+librarians	NOUN
+who	PRON
+work	VERB
+there	ADV
+.	PUNCT
+
+#	id	367
+more	ADV
+recent	ADJ
+units	NOUN
+can	AUX
+store	VERB
+fresh	ADJ
+milk	NOUN
+in	ADP
+a	DET
+separate	ADJ
+internal	ADJ
+container	NOUN
+,	PUNCT
+instead	ADV
+of	ADP
+relying	VERB
+on	ADP
+milk	NOUN
+powder	NOUN
+.	PUNCT
+
+#	id	368
+josephine	PROPN
+s	PART
+daughter	NOUN
+,	PUNCT
+hortense	PROPN
+de	PROPN
+beauharnais	PROPN
+would	AUX
+call	VERB
+it	PRON
+a	DET
+delicious	ADJ
+spot	NOUN
+.	PUNCT
+
+#	id	369
+he	PRON
+was	AUX
+a	DET
+first	ADJ
+lieutenant	NOUN
+in	ADP
+the	DET
+california	PROPN
+national	PROPN
+guard	NOUN
+during	ADP
+1	NUM
+-	SYM
+1	NUM
+.	PUNCT
+
+#	id	370
+in	ADP
+addition	NOUN
+to	ADP
+its	PRON
+main	ADJ
+activities	NOUN
+,	PUNCT
+the	DET
+great	ADJ
+hall	NOUN
+serves	VERB
+as	ADP
+a	DET
+covered	VERB
+market	NOUN
+for	ADP
+food	NOUN
+and	CCONJ
+flea	NOUN
+market	NOUN
+.	PUNCT
+
+#	id	371
+kilgallon	PROPN
+began	VERB
+his	PRON
+career	NOUN
+at	ADP
+leeds	PROPN
+united	PROPN
+fc	PROPN
+,	PUNCT
+where	SCONJ
+he	PRON
+came	VERB
+through	ADP
+the	DET
+youth	NOUN
+set	VERB
+up	ADP
+before	ADP
+becoming	VERB
+a	DET
+fixture	NOUN
+in	ADP
+their	PRON
+first	ADJ
+team	NOUN
+.	PUNCT
+
+#	id	372
+1	NUM
+cucciolo	NOUN
+,	PUNCT
+directed	VERB
+by	ADP
+neri	PROPN
+parenti	PROPN
+
+#	id	373
+he	PRON
+is	AUX
+a	DET
+member	NOUN
+of	ADP
+the	DET
+republican	PROPN
+party	PROPN
+.	PUNCT
+
+#	id	374
+alain	PROPN
+prost	PROPN
+was	AUX
+predictably	ADV
+second	ADJ
+on	ADP
+the	DET
+grid	NOUN
+,	PUNCT
+though	SCONJ
+he	PRON
+was	AUX
+some	DET
+1	NUM
+/	SYM
+1ths	NOUN
+slower	ADJ
+than	ADP
+his	PRON
+teammate	NOUN
+.	PUNCT
+
+#	id	375
+it	PRON
+was	AUX
+around	ADV
+this	DET
+time	NOUN
+that	SCONJ
+he	PRON
+became	AUX
+affiliated	VERB
+with	ADP
+the	DET
+rikken	PROPN
+seiyukai	PROPN
+political	PROPN
+party	PROPN
+,	PUNCT
+although	SCONJ
+he	PRON
+was	AUX
+also	ADV
+very	ADV
+close	ADJ
+to	PART
+fumimaro	VERB
+konoe	NOUN
+due	ADP
+to	ADP
+his	PRON
+family	NOUN
+ties	NOUN
+.	PUNCT
+
+#	id	376
+seo	NOUN
+later	ADV
+became	VERB
+close	ADJ
+with	ADP
+park	NOUN
+yeong-hyo	PROPN
+,	PUNCT
+park	PROPN
+chan-ju	PROPN
+s	X
+grandfather	NOUN
+(	PUNCT
+the	DET
+wife	NOUN
+of	ADP
+yi	PROPN
+u	PROPN
+)	PUNCT
+.	PUNCT
+
+#	id	377
+they	PRON
+display	VERB
+aggression	NOUN
+towards	ADP
+shark	NOUN
+and	CCONJ
+smaller	ADJ
+dolphin	NOUN
+species	NOUN
+.	PUNCT
+
+#	id	378
+that	DET
+year	NOUN
+,	PUNCT
+recording	VERB
+label	NOUN
+sony	PROPN
+music	NOUN
+decided	VERB
+to	PART
+drop	VERB
+the	DET
+band	NOUN
+.	PUNCT
+
+#	id	379
+this	PRON
+is	AUX
+a	DET
+list	NOUN
+of	ADP
+the	DET
+first	ADJ
+minority	NOUN
+male	NOUN
+lawyer	NOUN
+(	PUNCT
+s	PROPN
+)	PUNCT
+and	CCONJ
+judge	PROPN
+(	PUNCT
+s	X
+)	PUNCT
+in	ADP
+missouri	PROPN
+.	PUNCT
+
+#	id	380
+according	VERB
+to	ADP
+variety	NOUN
+,	PUNCT
+their	PRON
+screening	NOUN
+of	ADP
+the	DET
+film	NOUN
+had	VERB
+certain	ADJ
+scenes	NOUN
+tinted	VERB
+an	DET
+eerie	ADJ
+green	NOUN
+.	PUNCT
+
+#	id	381
+the	DET
+village	NOUN
+of	ADP
+balmaha	NOUN
+on	ADP
+the	DET
+eastern	ADJ
+shore	NOUN
+of	ADP
+loch	PROPN
+lomond	PROPN
+is	AUX
+the	DET
+next	ADJ
+settlement	NOUN
+reached	VERB
+.	PUNCT
+
+#	id	382
+iftikhar	PROPN
+muhammad	PROPN
+chaudhry	PROPN
+is	AUX
+the	DET
+only	ADJ
+justice	NOUN
+to	PART
+have	AUX
+served	VERB
+non	ADJ
+consecutive	ADJ
+terms	NOUN
+,	PUNCT
+for	ADP
+a	DET
+total	NOUN
+of	ADP
+three	NUM
+terms	NOUN
+with	ADP
+total	NOUN
+of	ADP
+11	NUM
+days	NOUN
+.	PUNCT
+
+#	id	383
+five	NUM
+oak	PROPN
+green	PROPN
+kent	PROPN
+tx	PROPN
+county	PROPN
+
+#	id	384
+positively	ADV
+1th	ADJ
+street	NOUN
+[	PUNCT
+live	ADV
+]	PUNCT
+(	PUNCT
+bob	PROPN
+dylan	PROPN
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	385
+the	DET
+turbine	NOUN
+was	AUX
+designed	VERB
+to	PART
+produce	VERB
+,	PUNCT
+using	VERB
+steam	NOUN
+provided	VERB
+by	ADP
+1	NUM
+combustion	NOUN
+engineering	NOUN
+boiler	NOUN
+,	PUNCT
+to	PART
+reach	VERB
+the	DET
+designed	VERB
+speed	NOUN
+of	ADP
+.	PUNCT
+
+#	id	386
+frode	PROPN
+berge	PROPN
+(	PUNCT
+born	VERB
+1	NUM
+)	PUNCT
+,	PUNCT
+term	NOUN
+/	SYM
+s	NOUN
+:	PUNCT
+1	NUM
+-	SYM
+1	NUM
+and	CCONJ
+1	NUM
+-	SYM
+1	NUM
+
+#	id	387
+the	DET
+track	NOUN
+was	AUX
+also	ADV
+part	NOUN
+of	ADP
+the	DET
+soundtrack	NOUN
+of	ADP
+the	DET
+1	NUM
+video	NOUN
+game	NOUN
+need	NOUN
+for	ADP
+speed	NOUN
+underground	ADV
+,	PUNCT
+used	VERB
+prominently	ADV
+in	ADP
+its	PRON
+demo	NOUN
+.	PUNCT
+
+#	id	388
+artist	NOUN
+:	PUNCT
+francois	PROPN
+bouchot	PROPN
+,	PUNCT
+signed	VERB
+1	NUM
+.	PUNCT
+
+#	id	389
+he	PRON
+was	AUX
+also	ADV
+the	DET
+commissioner	NOUN
+of	ADP
+the	DET
+manitoba	PROPN
+junior	ADJ
+hockey	NOUN
+league	NOUN
+from	ADP
+1	NUM
+to	ADP
+1	NUM
+.	PUNCT
+
+#	id	390
+giuseppe	PROPN
+verdi	PROPN
+:	PUNCT
+aida	PROPN
+(	PUNCT
+1	NUM
+,	PUNCT
+1	NUM
+)	PUNCT
+
+#	id	391
+he	PRON
+was	AUX
+released	VERB
+when	SCONJ
+his	PRON
+contract	NOUN
+expired	VERB
+at	ADP
+the	DET
+end	NOUN
+of	ADP
+the	DET
+1	NUM
+-	SYM
+1	NUM
+season	NOUN
+,	PUNCT
+and	CCONJ
+joined	VERB
+milton	PROPN
+keynes	PROPN
+dons	VERB
+fc	PROPN
+.	PUNCT
+
+#	id	392
+the	DET
+first	ADJ
+applications	NOUN
+of	ADP
+metal	NOUN
+hydrides	NOUN
+were	AUX
+made	VERB
+by	ADP
+national	ADJ
+aeronautics	PROPN
+and	CCONJ
+space	PROPN
+administration	PROPN
+to	PART
+demonstrate	VERB
+long	ADJ
+term	NOUN
+hydrogen	NOUN
+storage	NOUN
+for	ADP
+use	NOUN
+in	ADP
+space	NOUN
+propulsion	NOUN
+.	PUNCT
+
+#	id	393
+lover	NOUN
+come	VERB
+back	ADV
+to	ADP
+me	PRON
+(	PUNCT
+sigmund	PROPN
+romberg	PROPN
+,	PUNCT
+oscar	PROPN
+hammerstein	PROPN
+ii	PROPN
+)	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	394
+the	DET
+following	NOUN
+are	AUX
+programs	NOUN
+that	PRON
+ended	VERB
+on	ADP
+peoples	NOUN
+television	NOUN
+network	NOUN
+:	PUNCT
+
+#	id	395
+directors	NOUN
+david	PROPN
+hayter	PROPN
+,	PUNCT
+darren	PROPN
+aronofsky	PROPN
+and	CCONJ
+paul	PROPN
+greengrass	PROPN
+were	AUX
+attached	VERB
+to	ADP
+the	DET
+project	NOUN
+before	SCONJ
+it	PRON
+was	AUX
+cancelled	VERB
+over	ADP
+budget	NOUN
+disputes	NOUN
+.	PUNCT
+
+#	id	396
+there	PRON
+have	AUX
+been	AUX
+found	VERB
+bronze	NOUN
+or	CCONJ
+iron	NOUN
+arrowheads	NOUN
+,	PUNCT
+also	ADV
+iron	NOUN
+sickle	NOUN
+or	CCONJ
+carpet	NOUN
+knives	NOUN
+among	ADP
+other	ADJ
+artifacts	NOUN
+.	PUNCT
+
+#	id	397
+bell	PROPN
+also	ADV
+attended	VERB
+roosevelt	PROPN
+university	PROPN
+in	ADP
+chicago	PROPN
+,	PUNCT
+where	SCONJ
+he	PRON
+took	VERB
+art	NOUN
+classes	NOUN
+and	CCONJ
+studied	VERB
+with	ADP
+don	PROPN
+baum	PROPN
+.	PUNCT
+
+#	id	398
+the	DET
+overthrow	NOUN
+of	ADP
+eric	PROPN
+gairy	PROPN
+that	PRON
+brought	VERB
+the	DET
+new	ADJ
+jewel	NOUN
+movement	NOUN
+to	ADP
+power	NOUN
+in	ADP
+grenada	PROPN
+from	ADP
+1	NUM
+until	ADP
+1	NUM
+,	PUNCT
+when	SCONJ
+they	PRON
+were	AUX
+deposed	VERB
+by	ADP
+a	DET
+united	PROPN
+states	PROPN
+of	ADP
+america	PROPN
+led	VERB
+invasion	NOUN
+.	PUNCT
+
+#	id	399
+gilbert	PROPN
+s	PROPN
+play	NOUN
+first	ADV
+appeared	VERB
+in	ADP
+fun	NOUN
+in	ADP
+1	NUM
+after	ADP
+having	AUX
+been	AUX
+rejected	VERB
+for	ADP
+production	NOUN
+by	ADP
+several	ADJ
+theatre	NOUN
+companies	NOUN
+.	PUNCT
+
+#	id	400
+silverman	PROPN
+s	PART
+real	ADJ
+life	NOUN
+sister	NOUN
+,	PUNCT
+laura	PROPN
+silverman	PROPN
+,	PUNCT
+played	VERB
+her	PRON
+sister	NOUN
+on	ADP
+the	DET
+sarah	PROPN
+silverman	PROPN
+program	PROPN
+.	PUNCT
+
+#	id	401
+an	DET
+unconvincing	ADJ
+victory	NOUN
+over	ADP
+clare	PROPN
+gaa	PROPN
+was	AUX
+followed	VERB
+by	ADP
+a	DET
+humiliating	ADJ
+1	NUM
+-	SYM
+1	NUM
+to	PART
+1	NUM
+-	SYM
+1	NUM
+defeat	NOUN
+by	ADP
+fermanagh	PROPN
+gaa	PROPN
+.	PUNCT
+
+#	id	402
+the	DET
+music	NOUN
+was	AUX
+composed	VERB
+and	CCONJ
+conducted	VERB
+by	ADP
+bruce	PROPN
+smeaton	PROPN
+and	CCONJ
+has	AUX
+been	AUX
+released	VERB
+on	ADP
+the	DET
+1m1	NUM
+records	NOUN
+label	NOUN
+.	PUNCT
+
+#	id	403
+events	NOUN
+in	ADP
+the	DET
+year	NOUN
+1	NUM
+in	ADP
+the	DET
+european	PROPN
+union	PROPN
+.	PUNCT
+
+#	id	404
+david	PROPN
+immergluck	PROPN
+-	PUNCT
+guitars	NOUN
+,	PUNCT
+bass	NOUN
+,	PUNCT
+pedal	VERB
+steel	NOUN
+guitar	NOUN
+,	PUNCT
+banjo	NOUN
+,	PUNCT
+mandolin	NOUN
+,	PUNCT
+backing	VERB
+vocals	NOUN
+(	PUNCT
+1	NUM
+-	PUNCT
+present	ADJ
+,	PUNCT
+session	NOUN
+member	NOUN
+1	NUM
+-	SYM
+1	NUM
+)	PUNCT
+
+#	id	405
+the	DET
+crater	NOUN
+is	AUX
+named	VERB
+in	ADP
+honor	NOUN
+of	ADP
+vilhelm	ADJ
+bjerknes	NOUN
+,	PUNCT
+a	DET
+pioneer	NOUN
+in	ADP
+the	DET
+field	NOUN
+of	ADP
+weather	NOUN
+forecasting	NOUN
+.	PUNCT
+
+#	id	406
+this	DET
+feature	NOUN
+,	PUNCT
+however	ADV
+,	PUNCT
+would	AUX
+not	PART
+become	VERB
+standard	ADJ
+for	ADP
+all	DET
+subway	NOUN
+cars	NOUN
+until	ADP
+the	DET
+r1	NUM
+order	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	407
+initial	ADJ
+models	NOUN
+were	AUX
+equipped	VERB
+with	ADP
+hand	NOUN
+started	VERB
+minarelli	ADJ
+1cc	NOUN
+engines	NOUN
+,	PUNCT
+cable	NOUN
+brakes	NOUN
+and	CCONJ
+single	ADJ
+headlamps	NOUN
+.	PUNCT
+
+#	id	408
+also	ADV
+that	DET
+year	NOUN
+,	PUNCT
+he	PRON
+mixed	VERB
+jeremih	PROPN
+down	ADP
+on	ADP
+me	PRON
+(	PUNCT
+featuring	VERB
+1	NUM
+cent	NOUN
+)	PUNCT
+.	PUNCT
+
+#	id	409
+at	ADP
+the	DET
+age	NOUN
+of	ADP
+1	NUM
+,	PUNCT
+she	PRON
+met	VERB
+and	CCONJ
+was	AUX
+courted	VERB
+by	ADP
+alfred	PROPN
+de	X
+musset	PROPN
+,	PUNCT
+who	PRON
+had	AUX
+earlier	ADV
+been	AUX
+taken	VERB
+with	ADP
+her	PRON
+sister	NOUN
+maria	PROPN
+malibran	PROPN
+.	PUNCT
+
+#	id	410
+:	PUNCT
+fairbourne	NOUN
+railway	NOUN
+station	NOUN
+is	AUX
+also	ADV
+served	VERB
+by	ADP
+the	DET
+nearby	ADJ
+fairbourne	NOUN
+railway	NOUN
+,	PUNCT
+a	DET
+narrow	ADJ
+gauge	NOUN
+heritage	NOUN
+railway	NOUN
+.	PUNCT
+
+#	id	411
+lupino	PROPN
+lane	NOUN
+(	PUNCT
+actor	NOUN
+and	CCONJ
+film	NOUN
+director	NOUN
+,	PUNCT
+actually	ADV
+great	ADJ
+nephew	NOUN
+of	ADP
+sarah	PROPN
+lane	PROPN
+)	PUNCT
+
+#	id	412
+fc	PROPN
+khimik	PROPN
+svetlogorsk	PROPN
+were	AUX
+invited	VERB
+instead	ADV
+and	CCONJ
+accepted	VERB
+invitation	NOUN
+.	PUNCT
+
+#	id	413
+nellie	PROPN
+campobello	PROPN
+(	PUNCT
+1	NUM
+-	SYM
+1	NUM
+,	PUNCT
+mexico	PROPN
+)	PUNCT
+,	PUNCT
+poet	NOUN
+&	CCONJ
+chronicler	NOUN
+
+#	id	414
+horse	NOUN
+meat	NOUN
+-	PUNCT
+a	DET
+major	ADJ
+meat	NOUN
+in	ADP
+only	ADV
+a	DET
+few	ADJ
+countries	NOUN
+,	PUNCT
+it	PRON
+is	AUX
+sometimes	ADV
+smoked	VERB
+
+#	id	415
+he	PRON
+s	VERB
+the	DET
+younger	ADJ
+brother	NOUN
+of	ADP
+yoshiaki	PROPN
+takagi	PROPN
+and	CCONJ
+toshiyuki	PROPN
+takagi	PROPN
+,	PUNCT
+who	PRON
+both	PRON
+grew	VERB
+up	ADP
+in	ADP
+tokyo	PROPN
+verdy	NOUN
+youth	NOUN
+ranks	VERB
+.	PUNCT
+
+#	id	416
+marie	PROPN
+curie	PROPN
+(	PUNCT
+res	PROPN
+)	PUNCT
+-	PUNCT
+1	NUM
+,	PUNCT
+1	NUM
+
+#	id	417
+he	PRON
+went	VERB
+to	ADP
+marquette	PROPN
+university	PROPN
+and	CCONJ
+was	AUX
+a	DET
+print	NOUN
+ink	NOUN
+salesman	NOUN
+.	PUNCT
+
+#	id	418
+the	DET
+house	NOUN
+was	AUX
+listed	VERB
+on	ADP
+the	DET
+national	ADJ
+register	NOUN
+of	ADP
+historic	ADJ
+places	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	419
+he	PRON
+left	VERB
+school	NOUN
+at	ADP
+1	NUM
+when	SCONJ
+he	PRON
+became	VERB
+an	DET
+apprentice	NOUN
+fitter	NOUN
+at	ADP
+swan	PROPN
+hunter	PROPN
+shipyard	NOUN
+.	PUNCT
+
+#	id	420
+the	DET
+city	NOUN
+is	AUX
+served	VERB
+by	ADP
+belo	PROPN
+jardim	PROPN
+airport	PROPN
+.	PUNCT
+
+#	id	421
+josh	PROPN
+henderson	PROPN
+,	PUNCT
+actor	NOUN
+(	PUNCT
+john	PROPN
+ross	PROPN
+from	ADP
+dallas	PROPN
+)	PUNCT
+
+#	id	422
+he	PRON
+moved	VERB
+to	ADP
+bennington	PROPN
+college	NOUN
+in	ADP
+1	NUM
+,	PUNCT
+where	SCONJ
+he	PRON
+also	ADV
+served	VERB
+as	ADP
+director	NOUN
+of	ADP
+exhibitions	NOUN
+.	PUNCT
+
+#	id	423
+bar	NOUN
+:	PUNCT
+odaniel	NOUN
+from	ADP
+:	PUNCT
+1	NUM
+/	SYM
+1	NUM
+/	SYM
+1	NUM
+till	SCONJ
+:	PUNCT
+1	NUM
+/	SYM
+1	NUM
+/	SYM
+1	NUM
+color	NOUN
+:	PUNCT
+ltg	PROPN
+text	PROPN
+:	PUNCT
+john	PROPN
+w	PROPN
+odaniel	PROPN
+
+#	id	424
+he	PRON
+previously	ADV
+served	VERB
+as	ADP
+the	DET
+director	NOUN
+of	ADP
+the	DET
+brigham	PROPN
+young	PROPN
+university	NOUN
+opera	NOUN
+program	NOUN
+.	PUNCT
+
+#	id	425
+he	PRON
+was	AUX
+plato	PROPN
+s	PROPN
+star	PROPN
+student	NOUN
+,	PUNCT
+but	CCONJ
+as	ADP
+a	DET
+metic	ADJ
+,	PUNCT
+or	CCONJ
+resident	ADJ
+foreigner	NOUN
+(	PUNCT
+he	PRON
+was	AUX
+still	ADV
+greek	ADJ
+)	PUNCT
+,	PUNCT
+he	PRON
+could	AUX
+not	PART
+own	VERB
+property	NOUN
+or	CCONJ
+sponsor	VERB
+the	DET
+other	ADJ
+metics	NOUN
+.	PUNCT
+
+#	id	426
+the	DET
+team	NOUN
+let	VERB
+long	ADJ
+time	NOUN
+defender	NOUN
+nick	PROPN
+deleon	PROPN
+go	VERB
+,	PUNCT
+and	CCONJ
+he	PRON
+found	VERB
+his	PRON
+way	NOUN
+to	ADP
+toronto	PROPN
+fc	PROPN
+.	PUNCT
+
+#	id	427
+several	ADJ
+men	NOUN
+were	AUX
+killed	VERB
+,	PUNCT
+including	VERB
+the	DET
+then	ADV
+leaders	NOUN
+of	ADP
+the	DET
+expedition	NOUN
+,	PUNCT
+duarte	PROPN
+barbosa	PROPN
+and	CCONJ
+joao	PROPN
+serrao	PROPN
+.	PUNCT
+
+#	id	428
+contains	VERB
+the	DET
+score	NOUN
+(	PUNCT
+on	ADP
+1	NUM
+pages	NOUN
+)	PUNCT
+for	ADP
+the	DET
+opera	NOUN
+teseo	NOUN
+(	PUNCT
+hwv	NOUN
+1	NUM
+)	PUNCT
+.	PUNCT
+
+#	id	429
+banana	NOUN
+is	AUX
+produced	VERB
+across	ADP
+the	DET
+country	NOUN
+.	PUNCT
+
+#	id	430
+templeton	PROPN
+was	AUX
+the	DET
+longest	ADV
+serving	VERB
+coach	NOUN
+in	ADP
+north	PROPN
+bay	PROPN
+centennials	PROPN
+history	NOUN
+,	PUNCT
+serving	VERB
+as	ADP
+their	PRON
+boss	NOUN
+for	ADP
+twelve	NUM
+of	ADP
+the	DET
+team	NOUN
+s	VERB
+twenty	NUM
+seasons	NOUN
+.	PUNCT
+
+#	id	431
+the	DET
+new	PROPN
+york	PROPN
+times	NOUN
+described	VERB
+the	DET
+film	NOUN
+as	SCONJ
+too	ADV
+poorly	ADV
+made	VERB
+to	PART
+entertain	VERB
+.	PUNCT
+
+#	id	432
+eurovision	NOUN
+song	PROPN
+contest	VERB
+1	NUM
+providing	VERB
+backing	NOUN
+for	ADP
+anita	PROPN
+performing	VERB
+einfach	NOUN
+weg	PROPN
+
+#	id	433
+samoilova	PROPN
+had	VERB
+the	DET
+title	NOUN
+role	NOUN
+in	ADP
+aleksandr	PROPN
+zarkhi	PROPN
+anna	PROPN
+karenina	PROPN
+,	PUNCT
+appearing	VERB
+beside	ADP
+her	PRON
+former	ADJ
+husband	NOUN
+vasily	ADV
+lanovoy	VERB
+in	ADP
+the	DET
+film	NOUN
+.	PUNCT
+
+#	id	434
+william	PROPN
+performed	VERB
+four	NUM
+songs	NOUN
+with	ADP
+all	DET
+four	NUM
+finalists	NOUN
+.	PUNCT
+
+#	id	435
+kelly	PROPN
+has	AUX
+raised	VERB
+money	NOUN
+for	ADP
+dance	NOUN
+production	NOUN
+by	ADP
+hosting	VERB
+telethon	NOUN
+out	ADP
+of	ADP
+his	PRON
+apartment	NOUN
+.	PUNCT
+
+#	id	436
+series	PROPN
+1	NUM
+,	PUNCT
+often	ADV
+used	VERB
+to	PART
+describe	VERB
+the	DET
+bmw	PROPN
+1	NUM
+series	NOUN
+of	ADP
+automobiles	NOUN
+
+#	id	437
+in	ADP
+1	NUM
+the	DET
+archaeologist	NOUN
+and	CCONJ
+expert	NOUN
+on	ADP
+cave	NOUN
+paintings	NOUN
+dominique	PROPN
+baffier	PROPN
+was	AUX
+appointed	VERB
+to	PART
+oversee	VERB
+conservation	NOUN
+and	CCONJ
+management	NOUN
+of	ADP
+the	DET
+cave	NOUN
+.	PUNCT
+
+#	id	438
+kintetsu	PROPN
+kintetsu	X
+nagoya	PROPN
+line	NOUN
+(	PUNCT
+kintetsu	PROPN
+yokkaichi	PROPN
+station	NOUN
+)	PUNCT
+connected	VERB
+by	ADP
+bus	NOUN
+
+#	id	439
+donnelly	PROPN
+was	AUX
+born	VERB
+in	ADP
+barberton	NOUN
+.	PUNCT
+
+#	id	440
+this	PRON
+was	AUX
+the	DET
+same	ADJ
+engine	NOUN
+used	VERB
+for	ADP
+the	DET
+second	ADJ
+generation	NOUN
+cadillac	PROPN
+escalade	PROPN
+.	PUNCT
+
+#	id	441
+its	PRON
+main	ADJ
+base	NOUN
+was	AUX
+cairns	PROPN
+airport	PROPN
+,	PUNCT
+with	ADP
+its	PRON
+operating	VERB
+hub	NOUN
+at	ADP
+horn	NOUN
+island	NOUN
+airport	NOUN
+.	PUNCT
+
+#	id	442
+todd	PROPN
+was	AUX
+a	DET
+professor	NOUN
+of	ADP
+business	PROPN
+administration	NOUN
+at	ADP
+queens	PROPN
+university	PROPN
+from	ADP
+1	NUM
+to	ADP
+1	NUM
+.	PUNCT
+
+#	id	443
+the	DET
+$	SYM
+11m	NUM
+expansion	NOUN
+was	AUX
+completed	VERB
+in	ADP
+1	NUM
+,	PUNCT
+and	CCONJ
+the	DET
+theatre	NOUN
+opened	VERB
+with	ADP
+a	DET
+production	NOUN
+of	ADP
+into	ADP
+the	DET
+woods	NOUN
+by	ADP
+stephen	PROPN
+sondheim	PROPN
+.	PUNCT
+
+#	id	444
+there	PRON
+is	VERB
+no	DET
+mention	NOUN
+if	SCONJ
+this	DET
+new	ADJ
+freeway	NOUN
+would	AUX
+be	AUX
+included	VERB
+in	ADP
+the	DET
+interstate	ADJ
+highway	NOUN
+system	NOUN
+,	PUNCT
+though	SCONJ
+it	PRON
+has	AUX
+nt	PART
+been	AUX
+ruled	VERB
+out	ADP
+yet	ADV
+,	PUNCT
+either	ADV
+.	PUNCT
+
+#	id	445
+open	VERB
+ss	NOUN
+scafatese	ADJ
+calcio	NOUN
+1	NUM
+file	NOUN
+
+#	id	446
+currently	ADV
+,	PUNCT
+he	PRON
+is	AUX
+a	DET
+professor	NOUN
+at	ADP
+the	DET
+university	PROPN
+of	ADP
+pennsylvania	PROPN
+.	PUNCT
+
+#	id	447
+the	DET
+eponymous	ADJ
+theme	NOUN
+song	NOUN
+for	ADP
+the	DET
+film	NOUN
+was	AUX
+by	ADP
+amen	PROPN
+corner	PROPN
+,	PUNCT
+who	PRON
+appeared	VERB
+in	ADP
+the	DET
+film	NOUN
+singing	VERB
+it	PRON
+.	PUNCT
+
+#	id	448
+although	SCONJ
+different	ADJ
+carriages	NOUN
+appeared	VERB
+in	ADP
+different	ADJ
+liveries	NOUN
+,	PUNCT
+the	DET
+dominant	ADJ
+one	NOUN
+is	AUX
+white	ADJ
+and	CCONJ
+maroon	NOUN
+,	PUNCT
+which	PRON
+is	AUX
+reminiscent	ADJ
+of	ADP
+the	DET
+livery	NOUN
+of	ADP
+the	DET
+caledonian	ADJ
+railway	NOUN
+.	PUNCT
+
+#	id	449
+get	VERB
+your	PRON
+gunn	PROPN
+(	PUNCT
+marilyn	PROPN
+manson	PROPN
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	450
+shelley	PROPN
+s	PART
+play	NOUN
+is	AUX
+a	DET
+closet	NOUN
+drama	NOUN
+,	PUNCT
+meaning	VERB
+it	PRON
+was	AUX
+not	PART
+intended	VERB
+to	PART
+be	AUX
+produced	VERB
+on	ADP
+the	DET
+stage	NOUN
+.	PUNCT
+
+#	id	451
+a	DET
+silk	NOUN
+pocket	NOUN
+handkerchief	NOUN
+is	AUX
+laid	VERB
+down	ADP
+on	ADP
+a	DET
+table	NOUN
+.	PUNCT
+
+#	id	452
+he	PRON
+co	AUX
+founded	VERB
+the	DET
+international	PROPN
+dark-sky	PROPN
+association	PROPN
+with	ADP
+tim	PROPN
+hunter	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	453
+afterword	NOUN
+by	ADP
+tom	PROPN
+hayden	PROPN
+and	CCONJ
+drawings	NOUN
+by	ADP
+jules	PROPN
+feiffer	PROPN
+.	PUNCT
+
+#	id	454
+veteran	PROPN
+cbs	PROPN
+news	PROPN
+correspondent	NOUN
+jeff	PROPN
+glor	PROPN
+takes	VERB
+over	ADP
+as	ADP
+anchor	NOUN
+of	ADP
+the	DET
+cbs	PROPN
+evening	PROPN
+news	PROPN
+with	ADP
+norah	PROPN
+odonnell	PROPN
+from	ADP
+interim	ADJ
+anthony	PROPN
+mason	PROPN
+.	PUNCT
+
+#	id	455
+alan	PROPN
+menken	PROPN
+(	PUNCT
+composer	NOUN
+)	PUNCT
+&	CCONJ
+howard	PROPN
+ashman	PROPN
+(	PUNCT
+lyricist	NOUN
+)	PUNCT
+for	ADP
+under	ADP
+the	DET
+sea	NOUN
+performed	VERB
+by	ADP
+various	ADJ
+artists	NOUN
+
+#	id	456
+buchloh	NOUN
+addresses	VERB
+some	DET
+artists	NOUN
+in	ADP
+terms	NOUN
+of	ADP
+their	PRON
+oppositional	ADJ
+approaches	NOUN
+to	ADP
+language	NOUN
+and	CCONJ
+painting	NOUN
+,	PUNCT
+for	ADP
+example	NOUN
+,	PUNCT
+nancy	PROPN
+spero	PROPN
+and	CCONJ
+lawrence	PROPN
+weiner	NOUN
+.	PUNCT
+
+#	id	457
+gelato	PROPN
+typically	ADV
+contains	VERB
+1	NUM
+%	NOUN
+less	ADJ
+air	NOUN
+and	CCONJ
+more	ADJ
+flavouring	NOUN
+than	ADP
+other	ADJ
+kinds	NOUN
+of	ADP
+frozen	ADJ
+desserts	NOUN
+,	PUNCT
+giving	VERB
+it	PRON
+a	DET
+density	NOUN
+and	CCONJ
+richness	NOUN
+that	PRON
+distinguishes	VERB
+it	PRON
+from	ADP
+other	ADJ
+ice	NOUN
+cream	NOUN
+.	PUNCT
+
+#	id	458
+he	PRON
+came	VERB
+to	ADP
+the	DET
+the	DET
+rockefeller	PROPN
+university	NOUN
+in	ADP
+1	NUM
+and	CCONJ
+began	VERB
+his	PRON
+work	NOUN
+on	ADP
+the	DET
+genetics	NOUN
+of	ADP
+rare	ADJ
+metabolic	ADJ
+diseases	NOUN
+.	PUNCT
+
+#	id	459
+the	DET
+park	NOUN
+is	AUX
+surrounded	VERB
+by	ADP
+three	NUM
+other	ADJ
+national	ADJ
+parks	NOUN
+:	PUNCT
+jostedalsbreen	PROPN
+national	ADJ
+park	PROPN
+,	PUNCT
+jotunheimen	PROPN
+national	ADJ
+park	NOUN
+,	PUNCT
+and	CCONJ
+reinheimen	PROPN
+national	ADJ
+park	NOUN
+.	PUNCT
+
+#	id	460
+xxplosive	PROPN
+by	ADP
+dr	PROPN
+dre	PROPN
+from	ADP
+the	DET
+album	NOUN
+1	NUM
+
+#	id	461
+the	DET
+song	NOUN
+was	AUX
+included	VERB
+in	ADP
+the	DET
+second	ADJ
+trailer	NOUN
+for	ADP
+the	DET
+hustle	NOUN
+.	PUNCT
+
+#	id	462
+main	ADJ
+string	NOUN
+sample	NOUN
+taken	VERB
+from	ADP
+dmitri	PROPN
+shostakovich	PROPN
+symphony	PROPN
+no	DET
+1	NUM
+.	PUNCT
+
+#	id	463
+the	DET
+music	NOUN
+score	NOUN
+was	AUX
+written	VERB
+by	ADP
+jerome	PROPN
+moross	PROPN
+.	PUNCT
+
+#	id	464
+hart	PROPN
+lost	VERB
+the	DET
+new	PROPN
+york	PROPN
+and	CCONJ
+pennsylvania	PROPN
+primaries	NOUN
+,	PUNCT
+but	CCONJ
+won	VERB
+those	PRON
+of	ADP
+ohio	PROPN
+and	CCONJ
+indiana	PROPN
+.	PUNCT
+
+#	id	465
+beginning	VERB
+in	ADP
+1	NUM
+,	PUNCT
+its	PRON
+reputation	NOUN
+eventually	ADV
+grew	VERB
+large	ADJ
+enough	ADV
+to	PART
+warrant	VERB
+a	DET
+profile	NOUN
+in	ADP
+mother	NOUN
+jones	PROPN
+.	PUNCT
+
+#	id	466
+print	NOUN
+screen	NOUN
+on	ADP
+bugatti	PROPN
+divo	PROPN
+
+#	id	467
+the	DET
+league	NOUN
+transformed	VERB
+into	ADP
+the	DET
+american	PROPN
+hockey	PROPN
+league	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	468
+indian	PROPN
+national	PROPN
+congress	PROPN
+and	CCONJ
+its	PRON
+leader	NOUN
+kumaraswami	NOUN
+kamaraj	PROPN
+won	VERB
+the	DET
+election	NOUN
+,	PUNCT
+and	CCONJ
+defeated	VERB
+its	PRON
+rival	ADJ
+dravida	NOUN
+munnetra	NOUN
+kazhagam	NOUN
+.	PUNCT
+
+#	id	469
+he	PRON
+got	AUX
+acquainted	VERB
+with	ADP
+the	DET
+muslim	PROPN
+brotherhood	PROPN
+as	ADP
+a	DET
+boy	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	470
+petrarch	NOUN
+discovered	VERB
+the	DET
+text	NOUN
+of	ADP
+cicero	PROPN
+s	PART
+letters	NOUN
+in	ADP
+1	NUM
+,	PUNCT
+which	PRON
+gave	VERB
+him	PRON
+the	DET
+idea	NOUN
+to	PART
+collect	VERB
+his	PRON
+own	ADJ
+sets	NOUN
+of	ADP
+letters	NOUN
+.	PUNCT
+
+#	id	471
+bibingka	NOUN
+is	AUX
+a	DET
+type	NOUN
+of	ADP
+rice	NOUN
+cake	NOUN
+made	VERB
+with	ADP
+galapong	NOUN
+and	CCONJ
+coconut	NOUN
+milk	NOUN
+or	CCONJ
+water	NOUN
+,	PUNCT
+with	SCONJ
+its	PRON
+bottom	NOUN
+lined	VERB
+with	ADP
+banana	NOUN
+leaves	NOUN
+.	PUNCT
+
+#	id	472
+according	VERB
+to	ADP
+the	DET
+united	PROPN
+states	PROPN
+census	PROPN
+bureau	NOUN
+,	PUNCT
+the	DET
+town	NOUN
+has	VERB
+a	DET
+total	ADJ
+area	NOUN
+of	ADP
+,	PUNCT
+all	PRON
+of	ADP
+it	PRON
+land	NOUN
+.	PUNCT
+
+#	id	473
+in	ADP
+1	NUM
+she	PRON
+began	VERB
+a	DET
+partnership	NOUN
+with	ADP
+the	DET
+brazilian	PROPN
+institute	PROPN
+of	ADP
+environment	PROPN
+and	CCONJ
+renewable	ADJ
+natural	ADJ
+resources	NOUN
+(	PUNCT
+ibama	NOUN
+)	PUNCT
+,	PUNCT
+to	PART
+facilitate	VERB
+the	DET
+continuation	NOUN
+of	ADP
+her	PRON
+excavations	NOUN
+.	PUNCT
+thumb	NOUN
+
+#	id	474
+multiplex	PROPN
+modellsport	NOUN
+,	PUNCT
+a	DET
+manufacturer	NOUN
+of	ADP
+radio	NOUN
+control	NOUN
+equipment	NOUN
+and	CCONJ
+radio	NOUN
+controlled	VERB
+airplanes	NOUN
+
+#	id	475
+the	DET
+game	NOUN
+runs	VERB
+on	ADP
+linux	NOUN
+,	PUNCT
+macos	NOUN
+and	CCONJ
+microsoft	PROPN
+windows	NOUN
+.	PUNCT
+
+#	id	476
+ahmadzadeh	PROPN
+studied	VERB
+secondary	ADJ
+education	NOUN
+and	CCONJ
+was	AUX
+considered	VERB
+a	DET
+small	ADJ
+landowner	NOUN
+in	ADP
+his	PRON
+birthplace	NOUN
+mashhad	PROPN
+.	PUNCT
+
+#	id	477
+these	DET
+names	NOUN
+were	AUX
+coined	VERB
+by	ADP
+the	DET
+magician	NOUN
+and	CCONJ
+computer	NOUN
+programmer	NOUN
+alex	PROPN
+elmsley	PROPN
+.	PUNCT
+
+#	id	478
+paul	PROPN
+langevin	PROPN
+,	PUNCT
+who	PRON
+had	AUX
+recently	ADV
+joined	VERB
+the	DET
+french	PROPN
+communist	PROPN
+party	PROPN
+(	PUNCT
+pcf	PROPN
+)	PUNCT
+,	PUNCT
+became	VERB
+its	PRON
+president	NOUN
+.	PUNCT
+
+#	id	479
+this	DET
+track	NOUN
+featured	VERB
+quasimoto	NOUN
+and	CCONJ
+sun	PROPN
+ra	PROPN
+.	PUNCT
+
+#	id	480
+in	ADP
+the	DET
+expansive	ADJ
+valley	NOUN
+below	ADP
+there	PRON
+are	AUX
+cultivated	VERB
+fields	NOUN
+and	CCONJ
+two	NUM
+more	ADJ
+towns	NOUN
+,	PUNCT
+the	DET
+nearest	NOUN
+of	ADP
+which	PRON
+is	AUX
+anversa	NOUN
+degli	NOUN
+abruzzi	PROPN
+,	PUNCT
+with	ADP
+roccacasale	NOUN
+in	ADP
+the	DET
+distance	NOUN
+.	PUNCT
+
+#	id	481
+rusty	ADJ
+young	ADJ
+steel	NOUN
+guitar	NOUN
+,	PUNCT
+guitar	NOUN
+,	PUNCT
+vocals	NOUN
+
+#	id	482
+au	X
+bon	X
+pain	PROPN
+,	PUNCT
+a	DET
+fast	ADJ
+casual	ADJ
+bakery	NOUN
+/	SYM
+cafe	NOUN
+chain	NOUN
+
+#	id	483
+eddy	PROPN
+was	AUX
+a	DET
+frequent	ADJ
+guest	NOUN
+on	ADP
+talk	NOUN
+shows	NOUN
+,	PUNCT
+including	VERB
+the	DET
+merv	PROPN
+griffin	PROPN
+show	PROPN
+and	CCONJ
+the	DET
+tonight	NOUN
+show	NOUN
+starring	VERB
+jimmy	PROPN
+fallon	PROPN
+with	ADP
+jack	PROPN
+paar	PROPN
+.	PUNCT
+
+#	id	484
+rover	PROPN
+gas	NOUN
+turbines	NOUN
+also	ADV
+powered	VERB
+the	DET
+first	ADJ
+advanced	ADJ
+passenger	NOUN
+train	NOUN
+.	PUNCT
+
+#	id	485
+he	PRON
+moved	VERB
+to	ADP
+florida	PROPN
+to	PART
+finish	VERB
+school	NOUN
+and	CCONJ
+obtain	VERB
+his	PRON
+nursing	NOUN
+certification	NOUN
+.	PUNCT
+
+#	id	486
+his	PRON
+reign	NOUN
+was	AUX
+marked	VERB
+by	ADP
+multiple	ADJ
+rebellions	NOUN
+,	PUNCT
+which	PRON
+would	AUX
+be	AUX
+delt	VERB
+with	ADP
+poorly	ADV
+and	CCONJ
+weaken	VERB
+the	DET
+emirate	NOUN
+,	PUNCT
+most	ADV
+disastrously	ADV
+being	AUX
+the	DET
+rebellion	NOUN
+of	ADP
+umar	PROPN
+ibn	PROPN
+hafsun	PROPN
+.	PUNCT
+
+#	id	487
+his	PRON
+students	NOUN
+there	ADV
+included	VERB
+knud	VERB
+baade	PROPN
+and	CCONJ
+joachim	PROPN
+frich	PROPN
+.	PUNCT
+
+#	id	488
+eutanasia	PROPN
+di	PROPN
+un	PROPN
+amore	PROPN
+imdb	PROPN
+director	NOUN
+:	PUNCT
+enrico	PROPN
+maria	PROPN
+salerno	PROPN
+
+#	id	489
+strangers	NOUN
+in	ADP
+the	DET
+night	NOUN
+(	PUNCT
+bert	PROPN
+kaempfert	PROPN
+,	PUNCT
+charles	PROPN
+singleton	PROPN
+,	PUNCT
+eddie	PROPN
+snyder	PROPN
+)	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	490
+examples	NOUN
+of	ADP
+piquant	ADJ
+food	NOUN
+include	VERB
+mustard	NOUN
+and	CCONJ
+curry	NOUN
+.	PUNCT
+
+#	id	491
+pearl	PROPN
+bailey	PROPN
+abc	PROPN
+afterschool	PROPN
+special	PROPN
+(	PUNCT
+cindy	PROPN
+eller	PROPN
+:	PUNCT
+a	DET
+modern	ADJ
+fairy	NOUN
+tale	NOUN
+)	PUNCT
+(	PUNCT
+abc	PROPN
+)	PUNCT
+
+#	id	492
+the	DET
+normal	ADJ
+clutch	NOUN
+is	AUX
+two	NUM
+or	CCONJ
+three	NUM
+brown	NOUN
+spotted	VERB
+pink	ADJ
+bird	NOUN
+egg	NOUN
+are	AUX
+laid	VERB
+.	PUNCT
+
+#	id	493
+the	DET
+baltimore	PROPN
+orioles	PROPN
+and	CCONJ
+cincinnati	PROPN
+reds	NOUN
+,	PUNCT
+both	CCONJ
+for	ADP
+national	ADJ
+baseball	NOUN
+hall	NOUN
+of	ADP
+fame	NOUN
+and	CCONJ
+museum	PROPN
+frank	PROPN
+robinson	PROPN
+.	PUNCT
+
+#	id	494
+she-crab	ADJ
+soup	NOUN
+is	AUX
+from	ADP
+charleston	PROPN
+,	PUNCT
+and	CCONJ
+is	AUX
+a	DET
+creamy	ADJ
+soup	NOUN
+made	VERB
+with	ADP
+blue	ADJ
+crab	NOUN
+meat	NOUN
+and	CCONJ
+crab	NOUN
+roe	PROPN
+.	PUNCT
+
+#	id	495
+bill	PROPN
+&	CCONJ
+ted	PROPN
+face	VERB
+the	DET
+music	NOUN
+,	PUNCT
+released	VERB
+twelve	NUM
+years	NOUN
+after	ADP
+george	PROPN
+carlin	PROPN
+death	PROPN
+.	PUNCT
+
+#	id	496
+from	ADP
+1	NUM
+these	PRON
+were	AUX
+both	PRON
+taken	VERB
+over	ADP
+by	ADP
+west	PROPN
+norway	PROPN
+airlines	PROPN
+,	PUNCT
+which	PRON
+lasted	VERB
+until	SCONJ
+the	DET
+airline	NOUN
+folded	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	497
+riggs	PROPN
+was	AUX
+also	ADV
+famous	ADJ
+for	ADP
+being	AUX
+the	DET
+announcer	NOUN
+for	ADP
+bing	PROPN
+crosby	PROPN
+for	ADP
+more	ADJ
+than	ADP
+a	PRON
+decade	NOUN
+.	PUNCT
+
+#	id	498
+it	PRON
+was	AUX
+released	VERB
+in	ADP
+1	NUM
+for	ADP
+the	DET
+playstation	NOUN
+1	NUM
+and	CCONJ
+xbox	PROPN
+consoles	NOUN
+.	PUNCT
+
+#	id	499
+it	PRON
+was	AUX
+listed	VERB
+on	ADP
+the	DET
+national	ADJ
+register	NOUN
+of	ADP
+historic	ADJ
+places	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	500
+he	PRON
+has	AUX
+played	VERB
+representative	ADJ
+football	NOUN
+for	ADP
+england	PROPN
+national	PROPN
+rugby	PROPN
+league	NOUN
+team	NOUN
+.	PUNCT
+
+#	id	501
+the	DET
+transformer	NOUN
+is	AUX
+always	ADV
+connected	VERB
+to	ADP
+the	DET
+primary	ADJ
+distribution	NOUN
+lines	NOUN
+through	ADP
+protective	ADJ
+fuse	NOUN
+and	CCONJ
+disconnect	NOUN
+switch	NOUN
+.	PUNCT
+
+#	id	502
+corset	PROPN
+,	PUNCT
+a	DET
+bodice	NOUN
+worn	VERB
+to	ADP
+mould	NOUN
+and	CCONJ
+shape	VERB
+the	DET
+torso	NOUN
+.	PUNCT
+
+#	id	503
+luis	PROPN
+figo	PROPN
+has	AUX
+won	VERB
+the	DET
+trophy	NOUN
+on	ADP
+the	DET
+most	ADJ
+occasions	NOUN
+with	ADP
+six	NUM
+,	PUNCT
+all	PRON
+consecutively	ADV
+.	PUNCT
+
+#	id	504
+a	DET
+loaded	ADJ
+1	NUM
+gauge	NOUN
+,	PUNCT
+semi-automatic	ADJ
+shotgun	NOUN
+was	AUX
+recovered	VERB
+at	ADP
+the	DET
+scene	NOUN
+,	PUNCT
+along	ADP
+with	ADP
+ammunition	NOUN
+that	PRON
+was	AUX
+found	VERB
+in	ADP
+powder	NOUN
+s	PART
+pockets	NOUN
+.	PUNCT
+
+#	id	505
+he	PRON
+spent	VERB
+a	DET
+year	NOUN
+as	ADP
+a	DET
+coach	NOUN
+at	ADP
+bradford	PROPN
+city	PROPN
+afc	PROPN
+before	ADP
+becoming	VERB
+youth	NOUN
+team	NOUN
+manager	NOUN
+at	ADP
+york	PROPN
+city	PROPN
+fc	PROPN
+.	PUNCT
+
+#	id	506
+both	DET
+games	NOUN
+were	AUX
+digitally	ADV
+re	SCONJ
+released	VERB
+on	ADP
+gogcom	PROPN
+.	PUNCT
+
+#	id	507
+in	ADP
+1	NUM
+,	PUNCT
+the	DET
+colorado	NOUN
+and	CCONJ
+southern	ADJ
+railway	NOUN
+took	VERB
+over	ADP
+the	DET
+line	NOUN
+and	CCONJ
+operated	VERB
+it	PRON
+for	ADP
+passengers	NOUN
+and	CCONJ
+freight	NOUN
+until	ADP
+1	NUM
+.	PUNCT
+
+#	id	508
+kukurt	PROPN
+is	AUX
+a	DET
+village	NOUN
+in	ADP
+the	DET
+yenipazar	PROPN
+,	PUNCT
+bilecik	PROPN
+province	NOUN
+,	PUNCT
+turkey	PROPN
+.	PUNCT
+
+#	id	509
+the	DET
+district	NOUN
+seat	NOUN
+is	AUX
+the	DET
+town	NOUN
+parchim	NOUN
+.	PUNCT
+
+#	id	510
+in	ADP
+1	NUM
+,	PUNCT
+she	PRON
+was	AUX
+revealed	VERB
+as	ADP
+a	DET
+member	NOUN
+of	ADP
+the	DET
+jyp	PROPN
+entertainment	PROPN
+managed	VERB
+girl	NOUN
+group	NOUN
+wonder	NOUN
+girls	NOUN
+as	ADP
+the	DET
+group	NOUN
+s	PART
+main	ADJ
+rapper	NOUN
+.	PUNCT
+
+#	id	511
+it	PRON
+was	AUX
+used	VERB
+in	ADP
+successful	ADJ
+advertising	NOUN
+campaign	NOUN
+of	ADP
+the	DET
+early	ADJ
+1s	NOUN
+.	PUNCT
+
+#	id	512
+this	PRON
+grew	VERB
+out	ADP
+of	ADP
+the	DET
+work	NOUN
+of	ADP
+j	PROPN
+g	PROPN
+a	DET
+pocock	PROPN
+who	PRON
+in	ADP
+1	NUM
+argued	VERB
+that	SCONJ
+a	DET
+series	NOUN
+of	ADP
+scholars	NOUN
+had	AUX
+expressed	VERB
+a	DET
+consistent	ADJ
+set	NOUN
+of	ADP
+republican	ADJ
+ideals	NOUN
+.	PUNCT
+
+#	id	513
+monsters	NOUN
+was	AUX
+the	DET
+second	ADJ
+single	NOUN
+released	VERB
+from	ADP
+funeral	NOUN
+for	ADP
+a	DET
+friend	NOUN
+second	ADJ
+album	NOUN
+hours	NOUN
+.	PUNCT
+
+#	id	514
+it	PRON
+lies	VERB
+approximately	ADV
+south	ADV
+east	ADV
+of	ADP
+krynki	PROPN
+,	PUNCT
+south	PROPN
+east	ADV
+of	ADP
+sokoka	NOUN
+,	PUNCT
+and	CCONJ
+east	NOUN
+of	ADP
+the	DET
+regional	ADJ
+capital	NOUN
+biaystok	NOUN
+.	PUNCT
+
+#	id	515
+hoying	NOUN
+heard	VERB
+about	ADP
+the	DET
+sing-off	NOUN
+reality	NOUN
+show	NOUN
+competition	NOUN
+for	ADP
+a	DET
+cappella	NOUN
+acts	NOUN
+;	PUNCT
+he	PRON
+gained	VERB
+an	DET
+interest	NOUN
+in	ADP
+the	DET
+genre	NOUN
+once	ADV
+in	ADP
+college	NOUN
+.	PUNCT
+
+#	id	516
+the	DET
+village	NOUN
+of	ADP
+little	ADJ
+waltham	PROPN
+is	AUX
+about	ADV
+one	NUM
+mile	NOUN
+away	ADV
+.	PUNCT
+
+#	id	517
+a	DET
+stucco	PROPN
+house	NOUN
+with	ADP
+a	DET
+concrete	ADJ
+tiled	ADJ
+roof	NOUN
+in	ADP
+two	NUM
+storeys	NOUN
+.	PUNCT
+
+#	id	518
+the	DET
+station	NOUN
+broadcasts	VERB
+special	ADJ
+interest	NOUN
+music	NOUN
+and	CCONJ
+talk	NOUN
+,	PUNCT
+to	ADP
+an	DET
+older	ADJ
+dublin	PROPN
+.	PUNCT
+
+#	id	519
+mike	PROPN
+watt	PROPN
+of	ADP
+minutemen	PROPN
+stepped	VERB
+in	ADV
+to	PART
+play	VERB
+bass	NOUN
+for	ADP
+the	DET
+1	NUM
+show	NOUN
+.	PUNCT
+
+#	id	520
+santana	PROPN
+is	AUX
+featured	VERB
+as	ADP
+a	DET
+playable	ADJ
+character	NOUN
+in	ADP
+the	DET
+music	NOUN
+video	NOUN
+game	NOUN
+guitar	NOUN
+hero	NOUN
+1	NUM
+.	PUNCT
+
+#	id	521
+it	PRON
+is	AUX
+found	VERB
+only	ADV
+in	ADP
+peoples	NOUN
+republic	PROPN
+of	ADP
+china	PROPN
+.	PUNCT
+
+#	id	522
+woo	PROPN
+was	AUX
+born	VERB
+in	ADP
+seoul	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	523
+the	DET
+current	ADJ
+structure	NOUN
+of	ADP
+minor	ADJ
+league	NOUN
+baseball	NOUN
+is	AUX
+the	DET
+result	NOUN
+of	ADP
+an	DET
+overall	ADJ
+contraction	NOUN
+of	ADP
+the	DET
+system	NOUN
+beginning	VERB
+with	ADP
+the	DET
+1	NUM
+season	NOUN
+.	PUNCT
+
+#	id	524
+lucille	PROPN
+(	PUNCT
+little	ADJ
+richard	PROPN
+,	PUNCT
+albert	PROPN
+collins	PROPN
+)	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	525
+the	DET
+signal	NOUN
+reaches	VERB
+to	ADP
+alexandria	PROPN
+and	CCONJ
+sauk	PROPN
+centre	PROPN
+,	PUNCT
+where	SCONJ
+the	DET
+station	NOUN
+targets	VERB
+programming	VERB
+to	PART
+.	PUNCT
+
+#	id	526
+the	DET
+song	NOUN
+also	ADV
+appears	VERB
+in	ADP
+the	DET
+soundtrack	NOUN
+of	ADP
+the	DET
+movie	NOUN
+enough	ADV
+,	PUNCT
+starring	VERB
+jennifer	PROPN
+lopez	PROPN
+.	PUNCT
+
+#	id	527
+it	PRON
+is	AUX
+referred	VERB
+to	ADP
+as	ADP
+a	DET
+flop	NOUN
+by	ADP
+variety	NOUN
+magazine	NOUN
+,	PUNCT
+and	CCONJ
+has	VERB
+a	DET
+1	NUM
+%	NOUN
+rotten	ADJ
+rating	NOUN
+at	ADP
+rotten	ADJ
+tomatoes	NOUN
+.	PUNCT
+
+#	id	528
+one	NUM
+of	ADP
+the	DET
+first	ADJ
+women	NOUN
+to	PART
+head	VERB
+a	DET
+major	ADJ
+record	NOUN
+label	NOUN
+,	PUNCT
+she	PRON
+was	AUX
+the	DET
+president	NOUN
+of	ADP
+epic	ADJ
+records	NOUN
+from	ADP
+1	NUM
+until	ADP
+1	NUM
+.	PUNCT
+
+#	id	529
+the	DET
+record	NOUN
+was	AUX
+later	ADV
+certified	VERB
+gold	NOUN
+by	ADP
+the	DET
+argentine	ADJ
+chamber	NOUN
+of	ADP
+phonograms	PROPN
+and	CCONJ
+videograms	NOUN
+producers	NOUN
+.	PUNCT
+
+#	id	530
+joe	PROPN
+pesci	PROPN
+was	AUX
+cast	VERB
+as	ADP
+angelo	PROPN
+ruggiero	PROPN
+early	ADV
+in	ADP
+development	NOUN
+and	CCONJ
+gained	VERB
+1	NUM
+pounds	NOUN
+in	ADP
+order	NOUN
+to	PART
+properly	ADV
+portray	VERB
+him	PRON
+.	PUNCT
+
+#	id	531
+battered	ADJ
+and	CCONJ
+fried	ADJ
+fish	NOUN
+and	CCONJ
+chicken	NOUN
+,	PUNCT
+french-fried	ADJ
+potatoes	NOUN
+(	PUNCT
+chips	NOUN
+)	PUNCT
+,	PUNCT
+battered	VERB
+fried	VERB
+shrimp	NOUN
+,	PUNCT
+hushpuppy	PROPN
+and	CCONJ
+coleslaw	NOUN
+]	PUNCT
+]	PUNCT
+
+#	id	532
+tesla	PROPN
+inc	PROPN
+designed	VERB
+its	PRON
+tesla	PROPN
+model	PROPN
+s	PROPN
+to	PART
+allow	VERB
+fast	ADJ
+battery	NOUN
+swapping	NOUN
+.	PUNCT
+
+#	id	533
+the	DET
+wii	NOUN
+game	NOUN
+is	AUX
+different	ADJ
+from	ADP
+the	DET
+show	NOUN
+(	PUNCT
+and	CCONJ
+its	PRON
+nintendo	NOUN
+ds	NOUN
+counterpart	NOUN
+)	PUNCT
+in	SCONJ
+that	SCONJ
+there	PRON
+are	VERB
+only	ADV
+1	NUM
+contestants	NOUN
+,	PUNCT
+and	CCONJ
+none	NOUN
+are	AUX
+eliminated	VERB
+during	ADP
+the	DET
+first	ADJ
+three	NUM
+rounds	NOUN
+.	PUNCT
+
+#	id	534
+fc	PROPN
+barcelona	PROPN
+handbol	PROPN
+is	AUX
+the	DET
+best	ADJ
+team	NOUN
+at	ADP
+this	DET
+time	NOUN
+.	PUNCT
+
+#	id	535
+it	PRON
+lies	VERB
+approximately	ADV
+east	ADV
+of	ADP
+bukowsko	ADJ
+,	PUNCT
+south	ADJ
+west	NOUN
+of	ADP
+sanok	NOUN
+,	PUNCT
+and	CCONJ
+south	NOUN
+of	ADP
+the	DET
+regional	ADJ
+capital	NOUN
+rzeszow	NOUN
+.	PUNCT
+
+#	id	536
+he	PRON
+has	AUX
+toured	VERB
+in	ADP
+georgia	PROPN
+,	PUNCT
+russia	PROPN
+,	PUNCT
+turkey	PROPN
+,	PUNCT
+ukraine	PROPN
+,	PUNCT
+bulgaria	PROPN
+,	PUNCT
+germany	PROPN
+,	PUNCT
+czech	PROPN
+republic	PROPN
+and	CCONJ
+other	ADJ
+countries	NOUN
+.	PUNCT
+
+#	id	537
+odom	PROPN
+is	AUX
+a	DET
+superfan	NOUN
+of	ADP
+the	DET
+rock	NOUN
+band	NOUN
+night	NOUN
+ranger	NOUN
+.	PUNCT
+
+#	id	538
+in	ADP
+the	DET
+autumn	NOUN
+,	PUNCT
+the	DET
+group	NOUN
+made	VERB
+camp	NOUN
+in	ADP
+the	DET
+yabrin	ADJ
+oasis	NOUN
+.	PUNCT
+
+#	id	539
+she	PRON
+shifted	VERB
+to	ADP
+bombay	PROPN
+state	NOUN
+in	ADP
+1	NUM
+after	ADP
+the	DET
+demise	NOUN
+of	ADP
+her	PRON
+aunt	NOUN
+.	PUNCT
+
+#	id	540
+tray	NOUN
+deee	ADJ
+-	PUNCT
+performer	NOUN
+(	PUNCT
+tracks	NOUN
+:	PUNCT
+1	NUM
+,	PUNCT
+1	NUM
+,	PUNCT
+1	NUM
+)	PUNCT
+
+#	id	541
+most	ADJ
+of	ADP
+his	PRON
+work	NOUN
+was	AUX
+published	VERB
+by	ADP
+such	ADJ
+important	ADJ
+houses	NOUN
+as	ADP
+mitrofan	ADJ
+belyayev	NOUN
+and	CCONJ
+p	NOUN
+jurgenson	NOUN
+.	PUNCT
+
+#	id	542
+the	DET
+village	NOUN
+is	AUX
+home	NOUN
+to	ADP
+andrja	PROPN
+church	NOUN
+,	PUNCT
+the	DET
+main	ADJ
+church	NOUN
+for	ADP
+the	DET
+island	NOUN
+.	PUNCT
+
+#	id	543
+shuttle	NOUN
+buses	NOUN
+will	AUX
+usually	ADV
+link	VERB
+with	ADP
+other	ADJ
+transport	NOUN
+hub	NOUN
+,	PUNCT
+such	ADJ
+as	ADP
+airport	NOUN
+bus	NOUN
+.	PUNCT
+
+#	id	544
+some	DET
+researchers	NOUN
+conclude	VERB
+that	SCONJ
+the	DET
+genre	NOUN
+of	ADP
+visions	NOUN
+gradually	ADV
+disappears	VERB
+from	ADP
+literature	NOUN
+after	ADP
+the	DET
+peter	PROPN
+the	DET
+great	ADJ
+.	PUNCT
+
+#	id	545
+1	NUM
+unitary	ADJ
+authority	NOUN
+of	ADP
+england	PROPN
+had	VERB
+all	PRON
+of	ADP
+their	PRON
+seats	NOUN
+up	ADP
+for	ADP
+election	NOUN
+.	PUNCT
+
+#	id	546
+gadsden	PROPN
+was	AUX
+born	VERB
+in	ADP
+1	NUM
+in	ADP
+charleston	PROPN
+.	PUNCT
+
+#	id	547
+variety	NOUN
+called	VERB
+it	PRON
+a	DET
+crass	ADJ
+bit	NOUN
+of	ADP
+cinematic	ADJ
+grave	NOUN
+robbing	NOUN
+.	PUNCT
+
+#	id	548
+carl	PROPN
+lewis	PROPN
+,	PUNCT
+1	NUM
+and	CCONJ
+1	NUM
+meter	NOUN
+run	NOUN
+
+#	id	549
+where	SCONJ
+in	ADP
+kore	NOUN
+is	AUX
+tenta	ADJ
+
+#	id	550
+she	PRON
+represents	VERB
+ik	PROPN
+vag	NOUN
+,	PUNCT
+having	AUX
+changed	VERB
+clubs	NOUN
+from	ADP
+kristiansands	NOUN
+if	SCONJ
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	551
+nativity	NOUN
+by	ADP
+josefa	PROPN
+de	PROPN
+obidos	PROPN
+,	PUNCT
+1	NUM
+,	PUNCT
+national	ADJ
+museum	NOUN
+of	ADP
+ancient	ADJ
+art	NOUN
+,	PUNCT
+lisbon	NOUN
+]	PUNCT
+]	PUNCT
+
+#	id	552
+sasha	PROPN
+is	AUX
+a	DET
+former	ADJ
+red	ADJ
+army	NOUN
+soldier	NOUN
+married	VERB
+to	ADP
+a	DET
+teacher	NOUN
+and	CCONJ
+attending	VERB
+a	DET
+university	NOUN
+.	PUNCT
+
+#	id	553
+the	DET
+owner	NOUN
+of	ADP
+the	DET
+work	NOUN
+has	VERB
+the	DET
+property	NOUN
+rights	NOUN
+in	ADP
+the	DET
+collective	ADJ
+work	NOUN
+,	PUNCT
+but	CCONJ
+the	DET
+authors	NOUN
+of	ADP
+the	DET
+individual	ADJ
+works	NOUN
+may	AUX
+retain	VERB
+rights	NOUN
+in	ADP
+their	PRON
+contributions	NOUN
+.	PUNCT
+
+#	id	554
+it	PRON
+included	VERB
+dates	NOUN
+in	ADP
+canada	PROPN
+.	PUNCT
+
+#	id	555
+later	ADV
+on	ADV
+,	PUNCT
+the	DET
+three	NUM
+sisters	NOUN
+moved	VERB
+to	ADP
+nashville	PROPN
+,	PUNCT
+where	SCONJ
+they	PRON
+began	VERB
+honing	VERB
+their	PRON
+singing	NOUN
+and	CCONJ
+songwriting	NOUN
+skills	NOUN
+.	PUNCT
+
+#	id	556
+vitale	PROPN
+crime	PROPN
+family	NOUN
+mickey	PROPN
+blue	ADJ
+eyes	NOUN
+
+#	id	557
+police	NOUN
+had	AUX
+observed	VERB
+them	PRON
+picking	VERB
+up	ADP
+three	NUM
+weapons	NOUN
+,	PUNCT
+believed	VERB
+to	PART
+be	AUX
+mac-1	NUM
+sub	NOUN
+machine	NOUN
+guns	NOUN
+.	PUNCT
+
+#	id	558
+it	PRON
+was	AUX
+an	DET
+improved	ADJ
+version	NOUN
+of	ADP
+the	DET
+nokia	NOUN
+1	NUM
+.	PUNCT
+
+#	id	559
+wind	VERB
+it	PRON
+up	ADP
+(	PUNCT
+produced	VERB
+with	ADP
+mark	NOUN
+stent	NOUN
+and	CCONJ
+ron	PROPN
+fair	ADJ
+)	PUNCT
+
+#	id	560
+this	DET
+story	NOUN
+is	AUX
+referenced	VERB
+in	ADP
+sylvia	PROPN
+plath	PROPN
+sonnet	PROPN
+,	PUNCT
+ennui	NOUN
+.	PUNCT
+
+#	id	561
+it	PRON
+is	AUX
+also	ADV
+featured	VERB
+on	ADP
+the	DET
+saints	NOUN
+row	NOUN
+the	DET
+third	ADJ
+soundtrack	NOUN
+.	PUNCT
+
+#	id	562
+the	DET
+riding	VERB
+habit	NOUN
+worn	VERB
+by	ADP
+women	NOUN
+riding	VERB
+sidesaddle	NOUN
+originally	ADV
+was	AUX
+similar	ADJ
+to	ADP
+clothing	NOUN
+worn	VERB
+in	ADP
+everyday	ADJ
+life	NOUN
+.	PUNCT
+
+#	id	563
+isis	PROPN
+(	PUNCT
+dylan	PROPN
+/	SYM
+jacques	PROPN
+levy	PROPN
+)	PUNCT
+(	PUNCT
+live	VERB
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	564
+murshidabad	NOUN
+was	AUX
+a	DET
+major	ADJ
+center	NOUN
+of	ADP
+silk	NOUN
+production	NOUN
+.	PUNCT
+
+#	id	565
+the	DET
+halliard	NOUN
+was	AUX
+rove	PROPN
+through	ADP
+an	DET
+iron	NOUN
+ring	NOUN
+near	ADP
+the	DET
+masthead	NOUN
+,	PUNCT
+hoisting	VERB
+a	DET
+small	ADJ
+lug	NOUN
+sail	NOUN
+,	PUNCT
+and	CCONJ
+this	PRON
+was	AUX
+controlled	VERB
+by	ADP
+a	DET
+sheet	NOUN
+and	CCONJ
+tack	NOUN
+.	PUNCT
+
+#	id	566
+recently	ADV
+,	PUNCT
+kessinger	PROPN
+publishing	VERB
+rare	ADJ
+reprints	NOUN
+has	AUX
+re	AUX
+issued	VERB
+the	DET
+book	NOUN
+.	PUNCT
+
+#	id	567
+nikolai	PROPN
+bogolyubov	VERB
+near	ADP
+the	DET
+building	NOUN
+of	ADP
+the	DET
+philological	ADJ
+faculty	NOUN
+of	ADP
+the	DET
+n	NOUN
+i	PRON
+lobachevsky	PROPN
+state	PROPN
+university	PROPN
+of	ADP
+nizhny	PROPN
+novgorod	NOUN
+;	PUNCT
+
+#	id	568
+he	PRON
+was	AUX
+educated	VERB
+at	ADP
+eton	PROPN
+college	PROPN
+and	CCONJ
+trinity	NOUN
+college	NOUN
+.	PUNCT
+
+#	id	569
+among	ADP
+prominent	ADJ
+film	NOUN
+composers	NOUN
+of	ADP
+the	DET
+time	NOUN
+he	PRON
+admired	VERB
+max	PROPN
+steiner	PROPN
+.	PUNCT
+
+#	id	570
+cody	NOUN
+also	ADV
+wears	VERB
+a	DET
+black	ADJ
+domino	NOUN
+mask	NOUN
+,	PUNCT
+to	PART
+hide	VERB
+his	PRON
+real	ADJ
+identity	NOUN
+.	PUNCT
+
+#	id	571
+winners	NOUN
+:	PUNCT
+john	PROPN
+hyden	PROPN
+&	CCONJ
+tri	PROPN
+bourne	PROPN
+(	PUNCT
+m	VERB
+)	PUNCT
+/	SYM
+kristyna	PROPN
+kolocova	PROPN
+&	CCONJ
+marketa	PROPN
+slukova	PROPN
+(	PUNCT
+f	X
+)	PUNCT
+
+#	id	572
+brett	PROPN
+also	ADV
+scored	VERB
+the	DET
+music	NOUN
+for	ADP
+the	DET
+horror	NOUN
+feature	NOUN
+outpost	NOUN
+,	PUNCT
+directed	VERB
+by	ADP
+steve	PROPN
+barker	PROPN
+.	PUNCT
+
+#	id	573
+plate	NOUN
+thickness	NOUN
+of	ADP
+may	AUX
+be	AUX
+adequate	ADJ
+for	ADP
+rimfire	ADJ
+cartridge	NOUN
+.	PUNCT
+
+#	id	574
+it	PRON
+was	AUX
+listed	VERB
+on	ADP
+the	DET
+national	ADJ
+register	NOUN
+of	ADP
+historic	ADJ
+places	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	575
+the	DET
+girls	NOUN
+were	AUX
+driving	VERB
+through	ADP
+los	PROPN
+angeles	PROPN
+and	CCONJ
+were	AUX
+taking	VERB
+a	DET
+shower	NOUN
+.	PUNCT
+
+#	id	576
+runners	NOUN
+up	ADP
+:	PUNCT
+jim	PROPN
+broadbent	PROPN
+-	PUNCT
+iris	PROPN
+and	CCONJ
+denzel	PROPN
+washington	PROPN
+-	PUNCT
+training	NOUN
+day	NOUN
+
+#	id	577
+the	DET
+grey	ADJ
+pantsuit	NOUN
+was	AUX
+critical	ADJ
+to	ADP
+that	DET
+look	NOUN
+.	PUNCT
+
+#	id	578
+the	DET
+rise	NOUN
+in	ADP
+its	PRON
+political	ADJ
+fortunes	NOUN
+coincided	VERB
+with	ADP
+the	DET
+national	ADJ
+rise	NOUN
+in	ADP
+support	NOUN
+for	ADP
+the	DET
+green	PROPN
+party	PROPN
+of	ADP
+canada	PROPN
+during	ADP
+the	DET
+same	ADJ
+period	NOUN
+.	PUNCT
+
+#	id	579
+iec	PROPN
+111	NUM
+is	AUX
+a	DET
+technical	ADJ
+report	NOUN
+developed	VERB
+by	ADP
+the	DET
+international	ADJ
+society	NOUN
+of	ADP
+automation	PROPN
+1	NUM
+standards	NOUN
+panel	NOUN
+.	PUNCT
+
+#	id	580
+kim	PROPN
+clijsters	PROPN
+defeating	VERB
+mary	PROPN
+pierce	PROPN
+,	PUNCT
+1	NUM
+-	SYM
+1	NUM
+,	PUNCT
+1	NUM
+-	SYM
+1	NUM
+
+#	id	581
+colleges	NOUN
+of	ADP
+technology	NOUN
+in	ADP
+japan	PROPN
+(	PUNCT
+_	DET
+koto	ADJ
+senmon	NOUN
+gakko	NOUN
+,	PUNCT
+abbr	NOUN
+.	PUNCT
+_	PRON
+kosen	VERB
+)	PUNCT
+
+#	id	582
+babyface	NOUN
+)	PUNCT
+(	PUNCT
+peter	PROPN
+allen	PROPN
+,	PUNCT
+jeff	PROPN
+barry	PROPN
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	583
+rookie	PROPN
+randy	PROPN
+heath	PROPN
+scored	VERB
+1	NUM
+goals	NOUN
+and	CCONJ
+1	NUM
+points	NOUN
+in	ADP
+1	NUM
+games	NOUN
+.	PUNCT
+
+#	id	584
+it	PRON
+was	AUX
+initially	ADV
+a	DET
+silent	ADJ
+film	NOUN
+but	CCONJ
+was	AUX
+reissued	VERB
+with	ADP
+sound	ADJ
+film	NOUN
+added	VERB
+.	PUNCT
+
+#	id	585
+in	ADP
+1	NUM
+,	PUNCT
+the	DET
+firm	NOUN
+became	VERB
+a	DET
+division	NOUN
+of	ADP
+honeywell	PROPN
+.	PUNCT
+
+#	id	586
+my	PRON
+mavic	NOUN
+
+#	id	587
+they	PRON
+include	VERB
+remixes	NOUN
+by	ADP
+photek	PROPN
+,	PUNCT
+dillinja	PROPN
+,	PUNCT
+goldie	PROPN
+,	PUNCT
+plaid	NOUN
+and	CCONJ
+towa	PROPN
+tei	PROPN
+.	PUNCT
+
+#	id	588
+berna	PROPN
+1gtp	NOUN
+1	NUM
+units	NOUN
+acquired	VERB
+from	ADP
+winterthur	PROPN
+(	PUNCT
+1	NUM
+1	NUM
+)	PUNCT
+;	PUNCT
+
+#	id	589
+strozzi	PROPN
+,	PUNCT
+engraved	VERB
+portrait	NOUN
+after	ADP
+a	DET
+1	NUM
+painting	NOUN
+by	ADP
+simon	PROPN
+vouet	PROPN
+
+#	id	590
+divers	NOUN
+report	VERB
+that	SCONJ
+the	DET
+wreck	NOUN
+is	AUX
+surrounded	VERB
+by	ADP
+thousands	NOUN
+of	ADP
+jars	NOUN
+of	ADP
+marmite	PROPN
+.	PUNCT
+
+#	id	591
+wobbly	ADJ
+web	NOUN
+rear	ADJ
+wheel	NOUN
+of	ADP
+a	DET
+lotus	NOUN
+1	NUM
+
+#	id	592
+a	DET
+portion	NOUN
+of	ADP
+the	DET
+ayr	PROPN
+lies	VERB
+within	ADP
+the	DET
+township	NOUN
+.	PUNCT
+
+#	id	593
+gene	NOUN
+siskel	NOUN
+of	ADP
+the	DET
+chicago	PROPN
+tribune	PROPN
+gave	VERB
+the	DET
+film	NOUN
+two	NUM
+stars	NOUN
+out	ADP
+of	ADP
+four	NUM
+and	CCONJ
+called	VERB
+it	PRON
+a	DET
+tired	ADJ
+sex	NOUN
+comedy	NOUN
+with	ADP
+humor	NOUN
+about	ADP
+as	ADV
+modern	ADJ
+as	ADP
+a	DET
+whoopee	NOUN
+cushion	NOUN
+.	PUNCT
+
+#	id	594
+as	ADP
+a	DET
+result	NOUN
+of	ADP
+this	PRON
+,	PUNCT
+as	ADV
+well	ADV
+as	ADP
+worsening	VERB
+weather	NOUN
+conditions	NOUN
+,	PUNCT
+stavka	PROPN
+was	AUX
+forced	VERB
+to	PART
+suspend	VERB
+drops	NOUN
+.	PUNCT
+
+#	id	595
+the	DET
+song	NOUN
+was	AUX
+dedicated	VERB
+to	ADP
+the	DET
+amnesty	PROPN
+international	PROPN
+.	PUNCT
+
+#	id	596
+the	DET
+site	NOUN
+is	AUX
+being	AUX
+developed	VERB
+by	ADP
+taylor	PROPN
+wimpey	PROPN
+.	PUNCT
+
+#	id	597
+state	PROPN
+bank	PROPN
+of	ADP
+hyderabad	PROPN
+is	AUX
+operating	VERB
+bank	NOUN
+inside	ADP
+township	NOUN
+.	PUNCT
+
+#	id	598
+vinfast	NOUN
+:	PUNCT
+automobile	NOUN
+,	PUNCT
+cars	NOUN
+and	CCONJ
+motorbike	NOUN
+manufacturing	NOUN
+,	PUNCT
+planning	VERB
+to	PART
+release	VERB
+first	ADJ
+model	NOUN
+in	ADP
+1	NUM
+
+#	id	599
+it	PRON
+was	AUX
+primarily	ADV
+used	VERB
+as	ADP
+an	DET
+coach	NOUN
+.	PUNCT
+
+#	id	600
+the	DET
+increasing	VERB
+influence	NOUN
+of	ADP
+the	DET
+organization	NOUN
+of	ADP
+the	DET
+petroleum	NOUN
+exporting	VERB
+countries	NOUN
+cartel	PROPN
+(	PUNCT
+formed	VERB
+in	ADP
+1	NUM
+and	CCONJ
+expanded	VERB
+steadily	ADV
+through	ADP
+1	NUM
+)	PUNCT
+,	PUNCT
+
+#	id	601
+1	NUM
+examples	NOUN
+of	ADP
+the	DET
+racing	NOUN
+model	NOUN
+were	AUX
+produced	VERB
+by	ADP
+hand	NOUN
+at	ADP
+the	DET
+de	X
+tomaso	NOUN
+factory	NOUN
+in	ADP
+modena	NOUN
+,	PUNCT
+plus	CCONJ
+two	NUM
+prototypes	NOUN
+(	PUNCT
+one	NUM
+racing	NOUN
+corsa	NOUN
+,	PUNCT
+one	NUM
+street	NOUN
+stradale	PROPN
+model	NOUN
+)	PUNCT
+.	PUNCT
+
+#	id	602
+curero	NOUN
+got	AUX
+involved	VERB
+in	ADP
+sports	NOUN
+through	ADP
+once	ADV
+.	PUNCT
+
+#	id	603
+lazarev	PROPN
+recorded	VERB
+a	DET
+cover	NOUN
+of	ADP
+shattered	ADJ
+dreams	NOUN
+,	PUNCT
+originally	ADV
+sung	VERB
+by	ADP
+johnny	PROPN
+hates	VERB
+jazz	NOUN
+.	PUNCT
+
+#	id	604
+cuthbert	PROPN
+started	VERB
+his	PRON
+career	NOUN
+at	ADP
+st	PROPN
+johnstone	PROPN
+fc	PROPN
+,	PUNCT
+where	SCONJ
+he	PRON
+played	VERB
+from	ADP
+1	NUM
+until	ADP
+leaving	VERB
+a	DET
+decade	NOUN
+later	ADV
+.	PUNCT
+
+#	id	605
+a	DET
+1	NUM
+source	NOUN
+observed	VERB
+that	SCONJ
+trout	NOUN
+fishing	NOUN
+occurred	VERB
+on	ADP
+the	DET
+kill	NOUN
+.	PUNCT
+
+#	id	606
+he	PRON
+is	AUX
+best	ADV
+known	VERB
+for	ADP
+his	PRON
+prodigious	ADJ
+corpus	NOUN
+of	ADP
+more	ADJ
+than	ADP
+seven	NUM
+hundred	NUM
+verse	NOUN
+homily	NOUN
+,	PUNCT
+or	CCONJ
+memre	NOUN
+(	PUNCT
+)	PUNCT
+,	PUNCT
+of	ADP
+which	PRON
+only	ADV
+1	NUM
+have	AUX
+thus	ADV
+far	ADV
+been	AUX
+edited	VERB
+and	CCONJ
+published	VERB
+.	PUNCT
+
+#	id	607
+soon	ADV
+after	ADP
+this	PRON
+,	PUNCT
+they	PRON
+signed	VERB
+to	PART
+fueled	VERB
+by	ADP
+ramen	PROPN
+llc	PROPN
+.	PUNCT
+
+#	id	608
+lutka	PROPN
+sa	PROPN
+naslovne	PROPN
+strane	PROPN
+(	PUNCT
+b	X
+.	PUNCT
+orevic	ADJ
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	609
+he	PRON
+played	VERB
+part	NOUN
+of	ADP
+one	NUM
+season	NOUN
+in	ADP
+major	ADJ
+league	NOUN
+baseball	NOUN
+for	ADP
+the	DET
+1	NUM
+washington	PROPN
+nationals	NOUN
+of	ADP
+the	DET
+union	PROPN
+association	NOUN
+.	PUNCT
+
+#	id	610
+greyhound	PROPN
+first	ADV
+appeared	VERB
+in	ADP
+lloyds	PROPN
+register	PROPN
+(	PUNCT
+lr	PROPN
+)	PUNCT
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	611
+1	X
+:	PUNCT
+various	ADJ
+artists	NOUN
+strummin	VERB
+with	ADP
+the	DET
+devil	NOUN
+-	PUNCT
+the	DET
+southern	ADJ
+side	NOUN
+of	ADP
+van	PROPN
+halen	PROPN
+-	PUNCT
+a	DET
+tribute	NOUN
+(	PUNCT
+(	PUNCT
+[	PUNCT
+cmh	NOUN
+records	NOUN
+|	NOUN
+cmh	VERB
+]	PUNCT
+]	PUNCT
+)	PUNCT
+mandolin	NOUN
+,	PUNCT
+vocal	ADJ
+harmony	NOUN
+
+#	id	612
+csi	PROPN
+fatal	ADJ
+conspiracy	NOUN
+(	PUNCT
+writer	NOUN
+)	PUNCT
+-	PUNCT
+telltale	ADJ
+games	NOUN
+/	SYM
+ubisoft	VERB
+
+#	id	613
+billy	PROPN
+tibbetts	PROPN
+(	PUNCT
+born	VERB
+1	NUM
+)	PUNCT
+,	PUNCT
+ice	NOUN
+hockey	NOUN
+player	NOUN
+
+#	id	614
+scholars	NOUN
+at	ADP
+the	DET
+brookings	PROPN
+institution	NOUN
+,	PUNCT
+led	VERB
+by	ADP
+benjamin	PROPN
+wittes	PROPN
+,	PUNCT
+listed	VERB
+the	DET
+captives	NOUN
+still	ADV
+
+#	id	615
+pitchfork	NOUN
+had	VERB
+mixed	VERB
+or	CCONJ
+negative	ADJ
+analysis	NOUN
+of	ADP
+the	DET
+album	NOUN
+.	PUNCT
+
+#	id	616
+after	ADP
+the	DET
+1	NUM
+season	NOUN
+he	PRON
+retired	VERB
+from	ADP
+professional	ADJ
+football	NOUN
+and	CCONJ
+started	VERB
+as	ADP
+a	DET
+youth	NOUN
+coach	NOUN
+at	ADP
+fc	X
+inter	PROPN
+turku	PROPN
+.	PUNCT
+
+#	id	617
+andreas	PROPN
+mikkelsen	PROPN
+finished	VERB
+fourth	ADV
+,	PUNCT
+a	DET
+further	ADJ
+11	NUM
+seconds	NOUN
+behind	ADV
+,	PUNCT
+after	ADP
+struggling	VERB
+with	ADP
+his	PRON
+hyundai	PROPN
+i1	PROPN
+coupe	NOUN
+wrc	PROPN
+handling	VERB
+throughout	ADP
+.	PUNCT
+
+#	id	618
+it	PRON
+is	AUX
+possible	ADJ
+for	SCONJ
+a	DET
+single	ADJ
+host	NOUN
+computer	NOUN
+to	PART
+have	VERB
+several	ADJ
+hostnames	NOUN
+;	PUNCT
+but	CCONJ
+generally	ADV
+the	DET
+operating	NOUN
+system	NOUN
+of	ADP
+the	DET
+host	NOUN
+prefers	VERB
+to	PART
+have	VERB
+one	NUM
+hostname	NOUN
+that	PRON
+the	DET
+host	NOUN
+uses	VERB
+for	ADP
+itself	PRON
+.	PUNCT
+
+#	id	619
+the	DET
+river	NOUN
+was	AUX
+a	DET
+popular	ADJ
+swimming	NOUN
+and	CCONJ
+tubing	NOUN
+location	NOUN
+for	ADP
+locals	NOUN
+and	CCONJ
+university	PROPN
+of	ADP
+florida	PROPN
+students	NOUN
+up	ADP
+through	ADP
+the	DET
+1s	NOUN
+,	PUNCT
+which	PRON
+led	VERB
+to	ADP
+litter	NOUN
+and	CCONJ
+other	ADJ
+problems	NOUN
+.	PUNCT
+
+#	id	620
+all	DET
+parts	NOUN
+are	AUX
+between	ADP
+a	PRON
+to	PART
+walk	VERB
+across	ADP
+two	NUM
+footbridges	NOUN
+or	CCONJ
+one	NUM
+road	NOUN
+bridge	NOUN
+to	ADP
+droxford	NOUN
+.	PUNCT
+
+#	id	621
+pinball	NOUN
+,	PUNCT
+a	DET
+microvision	NOUN
+video	NOUN
+game	NOUN
+simulator	NOUN
+of	ADP
+pinball	NOUN
+
+#	id	622
+the	DET
+song	NOUN
+peaked	VERB
+at	ADP
+number	NOUN
+1	NUM
+on	ADP
+the	DET
+sverigetopplistan	PROPN
+.	PUNCT
+
+#	id	623
+the	DET
+territory	NOUN
+around	ADP
+the	DET
+ancient	ADJ
+site	NOUN
+was	AUX
+occupied	VERB
+by	ADP
+the	DET
+islamic	ADJ
+state	NOUN
+of	ADP
+iraq	PROPN
+and	CCONJ
+the	DET
+levant	ADJ
+(	PUNCT
+isil	NOUN
+)	PUNCT
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	624
+piacenza	PROPN
+cathedral	PROPN
+was	AUX
+ruined	VERB
+in	ADP
+the	DET
+great	ADJ
+earthquake	NOUN
+of	ADP
+1	NUM
+and	CCONJ
+was	AUX
+completely	ADV
+rebuilt	VERB
+beginning	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	625
+science	NOUN
+in	ADP
+theistic	ADJ
+contexts	NOUN
+.	PUNCT
+university	NOUN
+of	ADP
+chicago	PROPN
+press	PROPN
+,	PUNCT
+1	NUM
+,	PUNCT
+pp	INTJ
+.	PUNCT
+1	NUM
+-	SYM
+1	NUM
+
+#	id	626
+the	DET
+kofi	PROPN
+annan	PROPN
+,	PUNCT
+among	ADP
+many	ADJ
+,	PUNCT
+considered	VERB
+the	DET
+war	NOUN
+illegal	ADJ
+.	PUNCT
+
+#	id	627
+guy	NOUN
+was	AUX
+the	DET
+only	ADJ
+son	NOUN
+of	ADP
+william	PROPN
+i	PROPN
+de	PROPN
+la	PROPN
+roche	PROPN
+and	CCONJ
+helena	PROPN
+angelina	PROPN
+komnene	PROPN
+.	PUNCT
+
+#	id	628
+after	ADP
+his	PRON
+death	NOUN
+in	ADP
+1	NUM
+,	PUNCT
+his	PRON
+son	NOUN
+svetoslav	PROPN
+of	ADP
+croatia	PROPN
+continued	VERB
+his	PRON
+pro	ADJ
+byzantine	ADJ
+policy	NOUN
+.	PUNCT
+
+#	id	629
+the	DET
+final	ADJ
+is	AUX
+then	ADV
+played	VERB
+on	ADP
+neutral	ADJ
+ground	NOUN
+,	PUNCT
+and	CCONJ
+the	DET
+winner	NOUN
+earns	VERB
+the	DET
+second	ADJ
+ticket	NOUN
+to	ADP
+the	DET
+next	ADJ
+top	NOUN
+1	NUM
+.	PUNCT
+
+#	id	630
+the	DET
+town	NOUN
+lies	VERB
+on	ADP
+the	DET
+island	NOUN
+of	ADP
+vardya	NOUN
+,	PUNCT
+which	PRON
+is	AUX
+surrounded	VERB
+by	ADP
+a	DET
+few	ADJ
+smaller	ADJ
+islands	NOUN
+.	PUNCT
+
+#	id	631
+this	DET
+principle	NOUN
+applies	VERB
+to	ADP
+capacitor	NOUN
+in	ADP
+parallel	NOUN
+or	CCONJ
+to	PART
+inductor	VERB
+in	ADP
+series	NOUN
+.	PUNCT
+
+#	id	632
+feet	NOUN
+forwards	ADV
+motorcycle	NOUN
+-	PUNCT
+motorcycle	NOUN
+on	ADP
+which	PRON
+the	DET
+rider	NOUN
+reclines	VERB
+with	ADP
+his	PRON
+feet	NOUN
+positioned	VERB
+ahead	ADV
+of	ADP
+his	PRON
+body	NOUN
+
+#	id	633
+the	DET
+lake	NOUN
+was	AUX
+built	VERB
+to	PART
+supply	VERB
+steam	NOUN
+locomotive	NOUN
+trains	NOUN
+,	PUNCT
+but	CCONJ
+was	AUX
+later	ADV
+used	VERB
+as	ADP
+a	DET
+recreation	NOUN
+lake	NOUN
+.	PUNCT
+
+#	id	634
+he	PRON
+started	VERB
+out	ADP
+his	PRON
+career	NOUN
+at	ADP
+radio	NOUN
+pakistan	PROPN
+as	ADP
+a	DET
+scriptwriter	NOUN
+for	ADP
+radio	NOUN
+plays	VERB
+.	PUNCT
+
+#	id	635
+he	PRON
+spent	VERB
+most	ADJ
+of	ADP
+his	PRON
+childhood	NOUN
+in	ADP
+creede	NOUN
+and	CCONJ
+graduated	VERB
+with	ADP
+honors	NOUN
+from	ADP
+the	DET
+university	PROPN
+of	ADP
+chicago	PROPN
+in	ADP
+1	NUM
+,	PUNCT
+concentrating	VERB
+in	ADP
+philosophy	NOUN
+,	PUNCT
+language	NOUN
+and	CCONJ
+literature	NOUN
+.	PUNCT
+
+#	id	636
+judged	VERB
+by	ADP
+ed	PROPN
+koch	PROPN
+,	PUNCT
+former	ADJ
+mayor	NOUN
+of	ADP
+new	PROPN
+york	PROPN
+city	PROPN
+.	PUNCT
+
+#	id	637
+this	DET
+constituency	NOUN
+comprised	VERB
+part	NOUN
+of	ADP
+the	DET
+city	NOUN
+of	ADP
+dublin	PROPN
+.	PUNCT
+
+#	id	638
+roskopf	PROPN
+used	VERB
+the	DET
+escapement	NOUN
+in	ADP
+his	PRON
+visionary	ADJ
+project	NOUN
+to	PART
+manufacture	VERB
+a	DET
+laborer	NOUN
+s	PART
+watch	NOUN
+,	PUNCT
+a	DET
+pocket	NOUN
+watch	NOUN
+,	PUNCT
+which	PRON
+would	AUX
+sell	VERB
+for	ADP
+less	ADJ
+than	ADP
+a	PRON
+week	NOUN
+s	PRON
+wages	NOUN
+of	ADP
+an	DET
+unskilled	ADJ
+laborer	NOUN
+.	PUNCT
+
+#	id	639
+christopher	PROPN
+tolkien	PROPN
+(	PUNCT
+ed	PROPN
+.	PUNCT
+)	PUNCT
+,	PUNCT
+the	DET
+history	NOUN
+of	ADP
+the	DET
+lord	PROPN
+of	ADP
+the	DET
+rings	NOUN
+,	PUNCT
+1	NUM
+vols	NOUN
+(	PUNCT
+1	NUM
+-	SYM
+1	NUM
+)	PUNCT
+.	PUNCT
+
+#	id	640
+the	DET
+album	NOUN
+includes	VERB
+collaborations	NOUN
+with	ADP
+artists	NOUN
+such	ADJ
+as	ADP
+shakira	PROPN
+,	PUNCT
+chris	PROPN
+brown	PROPN
+,	PUNCT
+zendaya	PROPN
+,	PUNCT
+farruko	PROPN
+,	PUNCT
+gerardo	PROPN
+ortiz	PROPN
+,	PUNCT
+gente	X
+de	X
+zona	PROPN
+and	CCONJ
+arturo	PROPN
+sandoval	PROPN
+.	PUNCT
+
+#	id	641
+powderfinger	PROPN
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+(	PUNCT
+from	ADP
+rust	NOUN
+never	ADV
+sleeps	VERB
+)	PUNCT
+
+#	id	642
+some	DET
+people	NOUN
+wear	VERB
+pasties	NOUN
+when	SCONJ
+wearing	VERB
+a	DET
+strapless	ADJ
+or	CCONJ
+backless	ADJ
+dress	NOUN
+.	PUNCT
+
+#	id	643
+according	VERB
+to	ADP
+the	DET
+united	PROPN
+states	PROPN
+census	PROPN
+bureau	NOUN
+,	PUNCT
+the	DET
+city	NOUN
+has	VERB
+a	DET
+total	ADJ
+area	NOUN
+of	ADP
+,	PUNCT
+all	DET
+land	NOUN
+.	PUNCT
+
+#	id	644
+her	PRON
+political	ADJ
+affiliation	NOUN
+was	AUX
+always	ADV
+with	ADP
+the	DET
+federalist	PROPN
+party	PROPN
+.	PUNCT
+
+#	id	645
+solar	ADJ
+panels	NOUN
+for	ADP
+schools	NOUN
+in	ADP
+cameroon	NOUN
+
+#	id	646
+je	PROPN
+crois	X
+toi	PROPN
+(	PUNCT
+meaning	VERB
+i	PRON
+believe	VERB
+you	PRON
+)	PUNCT
+is	AUX
+the	DET
+fifth	ADJ
+and	CCONJ
+last	ADJ
+single	ADJ
+from	ADP
+celine	PROPN
+dion	PROPN
+album	NOUN
+,	PUNCT
+sil	NOUN
+suffisait	PROPN
+daimer	PROPN
+.	PUNCT
+
+#	id	647
+others	NOUN
+main	ADJ
+kinds	NOUN
+were	AUX
+the	DET
+trio	NOUN
+,	PUNCT
+string	NOUN
+quartet	NOUN
+ensemble	NOUN
+,	PUNCT
+serenade	NOUN
+and	CCONJ
+divertimento	NOUN
+.	PUNCT
+
+#	id	648
+filming	NOUN
+took	VERB
+place	NOUN
+in	ADP
+czechoslovakia	PROPN
+at	ADP
+the	DET
+barrandov	NOUN
+studios	NOUN
+because	SCONJ
+mosfilm	NOUN
+was	AUX
+not	PART
+yet	ADV
+fully	ADV
+restored	VERB
+after	ADP
+the	DET
+war	NOUN
+.	PUNCT
+
+#	id	649
+red	ADJ
+lamps	NOUN
+were	AUX
+used	VERB
+to	PART
+simulate	VERB
+blast	NOUN
+furnace	NOUN
+and	CCONJ
+locomotive	NOUN
+fireboxes	NOUN
+.	PUNCT
+
+#	id	650
+the	DET
+group	NOUN
+have	AUX
+gone	VERB
+from	ADP
+a	DET
+quintet	NOUN
+to	ADP
+a	DET
+quartet	NOUN
+,	PUNCT
+and	CCONJ
+now	ADV
+being	AUX
+a	DET
+trio	NOUN
+.	PUNCT
+
+#	id	651
+the	DET
+band	NOUN
+signed	VERB
+a	DET
+distribution	NOUN
+deal	NOUN
+with	ADP
+universal	ADJ
+music	NOUN
+group	NOUN
+for	ADP
+the	DET
+record	NOUN
+.	PUNCT
+
+#	id	652
+extant	ADJ
+citrus	NOUN
+was	AUX
+mostly	ADV
+seedling	NOUN
+trees	NOUN
+grown	VERB
+from	ADP
+seeds	NOUN
+obtained	VERB
+locally	ADV
+or	CCONJ
+from	ADP
+the	DET
+spanish	ADJ
+missions	NOUN
+in	ADP
+california	PROPN
+.	PUNCT
+
+#	id	653
+gamedaily	PROPN
+also	ADV
+ranked	VERB
+him	PRON
+sixth	ADJ
+on	ADP
+their	PRON
+list	NOUN
+of	ADP
+best	ADJ
+anti	ADJ
+heroes	NOUN
+in	ADP
+video	NOUN
+games	NOUN
+.	PUNCT
+
+#	id	654
+plotters	NOUN
+were	AUX
+mainly	ADV
+womens	ADJ
+auxiliary	ADJ
+air	NOUN
+force	NOUN
+(	PUNCT
+waaf	PROPN
+)	PUNCT
+personnel	NOUN
+-	PUNCT
+young	ADJ
+women	NOUN
+who	PRON
+worked	VERB
+eight	NUM
+hour	NOUN
+watches	NOUN
+in	ADP
+underground	ADJ
+bunkers	NOUN
+.	PUNCT
+
+#	id	655
+eduardo	PROPN
+bolsonaro	PROPN
+(	PUNCT
+federal	ADJ
+deputy	PROPN
+of	ADP
+sao	PROPN
+paulo	PROPN
+,	PUNCT
+son	NOUN
+of	ADP
+jair	PROPN
+bolsonaro	PROPN
+)	PUNCT
+
+#	id	656
+honey	NOUN
+i	PRON
+shrunk	VERB
+the	DET
+kids	NOUN
+the	DET
+tv	NOUN
+show	NOUN
+(	PUNCT
+1	NUM
+-	SYM
+1	NUM
+)	PUNCT
+(	PUNCT
+directed	VERB
+1	NUM
+episodes	NOUN
+)	PUNCT
+
+#	id	657
+it	PRON
+was	AUX
+produced	VERB
+by	ADP
+kornelije	NOUN
+kovac	NOUN
+.	PUNCT
+
+#	id	658
+he	PRON
+received	VERB
+his	PRON
+bachelor	NOUN
+s	PART
+degree	NOUN
+from	ADP
+the	DET
+worcester	PROPN
+polytechnic	PROPN
+institute	PROPN
+.	PUNCT
+
+#	id	659
+when	SCONJ
+composing	VERB
+the	DET
+platform	NOUN
+,	PUNCT
+the	DET
+founders	NOUN
+took	VERB
+the	DET
+platform	NOUN
+of	ADP
+social	ADJ
+democratic	PROPN
+party	PROPN
+of	ADP
+germany	PROPN
+(	PUNCT
+sdp	NOUN
+)	PUNCT
+as	ADP
+the	DET
+reference	NOUN
+.	PUNCT
+
+#	id	660
+another	PRON
+is	AUX
+the	DET
+final	ADJ
+scene	NOUN
+of	ADP
+the	DET
+sopranos	PROPN
+television	NOUN
+show	NOUN
+,	PUNCT
+where	SCONJ
+tony	PROPN
+soprano	NOUN
+sits	VERB
+down	ADP
+to	ADP
+dinner	NOUN
+in	ADP
+a	DET
+restaurant	NOUN
+.	PUNCT
+
+#	id	661
+not	PART
+fade	VERB
+away	ADV
+>	X
+(	PUNCT
+buddy	PROPN
+holly	PROPN
+,	PUNCT
+norman	PROPN
+petty	PROPN
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	662
+rather	ADV
+than	ADP
+hammers	NOUN
+hitting	VERB
+strings	NOUN
+as	ADP
+on	ADP
+a	DET
+standard	ADJ
+piano	NOUN
+,	PUNCT
+the	DET
+toy	NOUN
+piano	NOUN
+sounds	VERB
+by	ADP
+way	NOUN
+of	ADP
+hammers	NOUN
+hitting	VERB
+metal	NOUN
+bars	NOUN
+or	CCONJ
+rods	NOUN
+which	PRON
+are	AUX
+fixed	VERB
+at	ADP
+one	NUM
+end	NOUN
+.	PUNCT
+
+#	id	663
+kanashimi	PROPN
+yo	PROPN
+konnichi	PROPN
+wa	PROPN
+by	ADP
+yuki	PROPN
+saito	PROPN
+(	PUNCT
+episodes	NOUN
+1	NUM
+1	NUM
+,	PUNCT
+1	NUM
+1	NUM
+)	PUNCT
+
+#	id	664
+the	DET
+building	NOUN
+was	AUX
+constructed	VERB
+as	ADP
+one	NUM
+of	ADP
+three	NUM
+branch	NOUN
+banks	NOUN
+for	ADP
+the	DET
+bank	PROPN
+of	ADP
+england	PROPN
+in	ADP
+the	DET
+mid	ADJ
+1th	ADJ
+century	NOUN
+.	PUNCT
+
+#	id	665
+from	ADP
+the	DET
+university	PROPN
+of	ADP
+the	DET
+witwatersrand	PROPN
+,	PUNCT
+he	PRON
+held	VERB
+a	DET
+certificate	NOUN
+in	ADP
+leadership	NOUN
+.	PUNCT
+
+#	id	666
+the	DET
+age	NOUN
+1	NUM
+est	X
+is	AUX
+a	DET
+method	NOUN
+of	ADP
+evaluating	VERB
+a	DET
+work	NOUN
+of	ADP
+fiction	NOUN
+suggested	VERB
+by	ADP
+literary	ADJ
+critic	NOUN
+ford	PROPN
+madox	PROPN
+ford	PROPN
+.	PUNCT
+
+#	id	667
+i	PRON
+sincerely	ADV
+hope	VERB
+that	SCONJ
+albert	PROPN
+prince	PROPN
+consort	PROPN
+.	PUNCT
+.	PUNCT
+.	PUNCT
+will	AUX
+do	VERB
+something	PRON
+to	PART
+improve	VERB
+our	PRON
+taste	NOUN
+.	PUNCT
+
+#	id	668
+a	DET
+stone	NOUN
+house	NOUN
+,	PUNCT
+stucco	NOUN
+at	ADP
+the	DET
+rear	NOUN
+,	PUNCT
+with	ADP
+a	DET
+stone	NOUN
+roof	NOUN
+,	PUNCT
+three	NUM
+storeys	NOUN
+at	ADP
+the	DET
+front	NOUN
+and	CCONJ
+two	NUM
+at	ADP
+the	DET
+rear	NOUN
+.	PUNCT
+
+#	id	669
+the	DET
+paper	NOUN
+mill	NOUN
+sidings	NOUN
+remained	VERB
+in	ADP
+use	NOUN
+for	ADP
+a	DET
+little	ADJ
+while	NOUN
+afterwards	ADV
+and	CCONJ
+the	DET
+line	NOUN
+itself	PRON
+remained	VERB
+open	ADJ
+to	ADP
+denby	PROPN
+for	ADP
+coal	NOUN
+traffic	NOUN
+until	ADP
+the	DET
+late	ADJ
+twentieth	ADJ
+century	NOUN
+.	PUNCT
+
+#	id	670
+he	PRON
+is	AUX
+best	ADV
+known	VERB
+for	ADP
+his	PRON
+work	NOUN
+on	ADP
+the	DET
+ace	NOUN
+attorney	NOUN
+series	NOUN
+,	PUNCT
+serving	VERB
+as	ADP
+director	NOUN
+and	CCONJ
+scenario	NOUN
+writer	NOUN
+for	ADP
+the	DET
+original	ADJ
+trilogy	NOUN
+.	PUNCT
+
+#	id	671
+a	DET
+separate	ADJ
+aft	NOUN
+compartment	NOUN
+was	AUX
+normally	ADV
+used	VERB
+to	PART
+store	VERB
+baggage	NOUN
+,	PUNCT
+accessible	ADJ
+via	ADP
+an	DET
+exterior	ADJ
+door	NOUN
+on	ADP
+the	DET
+starboard	ADJ
+side	NOUN
+of	ADP
+the	DET
+aircraft	NOUN
+.	PUNCT
+
+#	id	672
+it	PRON
+is	AUX
+promoted	VERB
+and	CCONJ
+organised	VERB
+by	ADP
+national	ADJ
+radio	NOUN
+station	NOUN
+triple	ADJ
+j	PROPN
+.	PUNCT
+
+#	id	673
+ernst	PROPN
+heinkel	NOUN
+(	PUNCT
+1	NUM
+-	SYM
+1	NUM
+)	PUNCT
+,	PUNCT
+founder	NOUN
+of	ADP
+heinkel	NOUN
+,	PUNCT
+manufacturers	NOUN
+of	ADP
+airplanes	NOUN
+
+#	id	674
+m	VERB
+ward	NOUN
+-	PUNCT
+electric	ADJ
+guitar	NOUN
+and	CCONJ
+harmony	NOUN
+vocal	NOUN
+
+#	id	675
+lucerne	NOUN
+,	PUNCT
+the	DET
+store	NOUN
+brand	NOUN
+for	ADP
+dairy	NOUN
+and	CCONJ
+other	ADJ
+products	NOUN
+by	ADP
+safeway	PROPN
+or	CCONJ
+its	PRON
+subsidiaries	NOUN
+
+#	id	676
+she	PRON
+made	VERB
+her	PRON
+first	ADJ
+appearance	NOUN
+on	ADP
+television	NOUN
+at	ADP
+the	DET
+age	NOUN
+of	ADP
+three	NUM
+,	PUNCT
+in	ADP
+a	DET
+bbc	PROPN
+play	NOUN
+.	PUNCT
+
+#	id	677
+toguz	PROPN
+bulak	PROPN
+is	AUX
+a	DET
+village	NOUN
+in	ADP
+osh	PROPN
+region	NOUN
+of	ADP
+kyrgyzstan	PROPN
+.	PUNCT
+
+#	id	678
+they	PRON
+co	AUX
+starred	VERB
+in	ADP
+two	NUM
+of	ADP
+them	PRON
+bringing	VERB
+up	ADP
+baby	NOUN
+and	CCONJ
+the	DET
+philadelphia	PROPN
+story	NOUN
+.	PUNCT
+
+#	id	679
+it	PRON
+is	AUX
+found	VERB
+in	ADP
+sri	PROPN
+lanka	PROPN
+.	PUNCT
+
+#	id	680
+camford	NOUN
+is	AUX
+,	PUNCT
+however	ADV
+,	PUNCT
+used	VERB
+as	ADP
+the	DET
+name	NOUN
+of	ADP
+a	DET
+fictional	ADJ
+university	NOUN
+city	NOUN
+in	ADP
+the	DET
+sherlock	PROPN
+holmes	PROPN
+story	PROPN
+the	DET
+adventure	NOUN
+of	ADP
+the	DET
+creeping	VERB
+man	NOUN
+.	PUNCT
+
+#	id	681
+franks	PROPN
+was	AUX
+the	DET
+running	NOUN
+backs	NOUN
+coach	NOUN
+at	ADP
+the	DET
+university	PROPN
+of	ADP
+south	PROPN
+florida	PROPN
+from	ADP
+1	NUM
+to	PART
+1	NUM
+under	ADP
+head	NOUN
+coaches	NOUN
+jim	PROPN
+leavitt	PROPN
+and	CCONJ
+skip	VERB
+holtz	PROPN
+.	PUNCT
+
+#	id	682
+it	PRON
+flows	VERB
+south	ADV
+into	ADP
+the	DET
+para	ADJ
+river	NOUN
+,	PUNCT
+which	PRON
+connects	VERB
+the	DET
+amazon	NOUN
+to	ADP
+the	DET
+tocantins	PROPN
+river	NOUN
+.	PUNCT
+
+#	id	683
+it	PRON
+is	AUX
+built	VERB
+close	ADV
+to	ADP
+the	DET
+left	ADJ
+bank	NOUN
+of	ADP
+the	DET
+pesnica	PROPN
+southwest	NOUN
+of	ADP
+the	DET
+main	ADJ
+settlement	NOUN
+.	PUNCT
+
+#	id	684
+the	DET
+film	NOUN
+was	AUX
+partly	ADV
+based	VERB
+on	ADP
+irving	PROPN
+stone	NOUN
+1	NUM
+biographical	ADJ
+novel	NOUN
+the	DET
+agony	NOUN
+and	CCONJ
+the	DET
+ecstasy	NOUN
+.	PUNCT
+
+#	id	685
+trung	PROPN
+was	AUX
+born	VERB
+in	ADP
+chau	PROPN
+thanh	PROPN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	686
+in	ADP
+1	NUM
+,	PUNCT
+general	PROPN
+motors	NOUN
+had	VERB
+a	DET
+system	NOUN
+installed	VERB
+at	ADP
+their	PRON
+oshawa	NOUN
+plant	NOUN
+and	CCONJ
+,	PUNCT
+as	ADP
+of	ADP
+1	NUM
+,	PUNCT
+reported	VERB
+a	DET
+savings	NOUN
+of	ADP
+approximately	ADV
+$	SYM
+11	NUM
+per	ADP
+year	NOUN
+.	PUNCT
+
+#	id	687
+in	ADP
+earlier	ADJ
+years	NOUN
+he	PRON
+had	AUX
+attended	VERB
+accra	PROPN
+academy	NOUN
+and	CCONJ
+upon	SCONJ
+completion	NOUN
+had	AUX
+worked	VERB
+briefly	ADV
+for	ADP
+ghana	PROPN
+post	NOUN
+.	PUNCT
+
+#	id	688
+he	PRON
+invented	VERB
+the	DET
+first	ADJ
+all	PRON
+in	ADP
+one	NUM
+personal	ADJ
+flotation	NOUN
+device	NOUN
+which	PRON
+included	VERB
+many	ADJ
+features	NOUN
+now	ADV
+accepted	VERB
+as	ADP
+standard	ADJ
+including	VERB
+whistle	NOUN
+,	PUNCT
+harness	NOUN
+etc	X
+.	PUNCT
+
+#	id	689
+unknown	ADJ
+felize	NOUN
+regnard	NOUN
+,	PUNCT
+courtier	NOUN
+and	CCONJ
+royal	ADJ
+mistress	NOUN
+(	PUNCT
+died	VERB
+1	NUM
+)	PUNCT
+
+#	id	690
+guisado	NOUN
+shot	VERB
+an	DET
+uzi	NOUN
+through	ADP
+the	DET
+window	NOUN
+,	PUNCT
+hitting	VERB
+him	PRON
+multiple	ADJ
+times	NOUN
+.	PUNCT
+
+#	id	691
+the	DET
+brand	NOUN
+still	ADV
+exists	VERB
+though	ADV
+,	PUNCT
+and	CCONJ
+belongs	VERB
+to	ADP
+the	DET
+department	NOUN
+for	ADP
+transport	NOUN
+.	PUNCT
+
+#	id	692
+he	PRON
+rode	VERB
+1	NUM
+,	PUNCT
+1	NUM
+of	ADP
+which	PRON
+with	ADP
+rene	PROPN
+pijnen	PROPN
+,	PUNCT
+winning	VERB
+1	NUM
+.	PUNCT
+
+#	id	693
+the	DET
+ball	NOUN
+is	AUX
+pac-man	NOUN
+,	PUNCT
+who	PRON
+rolls	VERB
+up	ADP
+into	ADP
+a	DET
+ball	NOUN
+and	CCONJ
+continues	VERB
+to	PART
+collect	VERB
+pellets	NOUN
+much	ADV
+like	SCONJ
+they	PRON
+did	VERB
+in	ADP
+earlier	ADJ
+notes	NOUN
+.	PUNCT
+
+#	id	694
+it	PRON
+is	AUX
+red	ADJ
+in	ADP
+color	NOUN
+and	CCONJ
+cherry	NOUN
+strawberry	NOUN
+flavor	NOUN
+.	PUNCT
+
+#	id	695
+he	PRON
+played	VERB
+in	ADP
+ligue	PROPN
+1	NUM
+with	ADP
+ac	PROPN
+ajaccio	PROPN
+.	PUNCT
+
+#	id	696
+club	NOUN
+record	NOUN
+holder	NOUN
+and	CCONJ
+pointscorer	NOUN
+hazem	PROPN
+el	PROPN
+masri	PROPN
+had	AUX
+retired	VERB
+at	ADP
+the	DET
+end	NOUN
+of	ADP
+the	DET
+1	NUM
+season	NOUN
+and	CCONJ
+did	AUX
+not	PART
+play	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	697
+it	PRON
+extends	VERB
+laterally	ADV
+from	ADP
+north	ADJ
+eastern	ADJ
+british	PROPN
+columbia	PROPN
+through	ADP
+alberta	PROPN
+and	CCONJ
+into	ADP
+southern	ADJ
+saskatchewan	PROPN
+and	CCONJ
+southern	ADJ
+manitoba	PROPN
+.	PUNCT
+
+#	id	698
+it	PRON
+was	AUX
+based	VERB
+in	ADP
+san	PROPN
+francisco	PROPN
+and	CCONJ
+later	ADV
+,	PUNCT
+it	PRON
+is	AUX
+headquartered	VERB
+in	ADP
+new	PROPN
+york	PROPN
+city	PROPN
+.	PUNCT
+
+#	id	699
+the	DET
+film	NOUN
+score	NOUN
+was	AUX
+composed	VERB
+by	ADP
+ira	PROPN
+newborn	PROPN
+.	PUNCT
+
+#	id	700
+it	PRON
+published	VERB
+literary	ADJ
+works	NOUN
+(	PUNCT
+including	VERB
+avetik	NOUN
+isahakyan	VERB
+first	ADJ
+book	NOUN
+)	PUNCT
+,	PUNCT
+calendars	NOUN
+,	PUNCT
+textbooks	NOUN
+.	PUNCT
+
+#	id	701
+he	PRON
+was	AUX
+also	ADV
+a	DET
+trustee	NOUN
+of	ADP
+the	DET
+ramakrishna	PROPN
+math	PROPN
+and	CCONJ
+a	DET
+member	NOUN
+of	ADP
+the	DET
+governing	VERB
+body	NOUN
+of	ADP
+the	DET
+ramakrishna	PROPN
+mission	NOUN
+.	PUNCT
+
+#	id	702
+the	DET
+series	NOUN
+marked	VERB
+go	VERB
+hyeon-jeong	NOUN
+acting	VERB
+comeback	NOUN
+1	NUM
+years	NOUN
+after	SCONJ
+she	PRON
+retired	VERB
+from	ADP
+the	DET
+entertainment	NOUN
+industry	NOUN
+upon	SCONJ
+marriage	NOUN
+to	ADP
+a	DET
+chaebol	NOUN
+(	PUNCT
+they	PRON
+divorced	VERB
+in	ADP
+1	NUM
+)	PUNCT
+.	PUNCT
+
+#	id	703
+tric	PROPN
+,	PUNCT
+a	DET
+fictional	ADJ
+nightclub	NOUN
+from	ADP
+the	DET
+television	NOUN
+series	NOUN
+one	NUM
+tree	NOUN
+hill	NOUN
+
+#	id	704
+happy	ADJ
+end	NOUN
+-	PUNCT
+lyrics	NOUN
+by	ADP
+bertolt	PROPN
+brecht	PROPN
+,	PUNCT
+music	NOUN
+by	ADP
+kurt	PROPN
+weill	PROPN
+
+#	id	705
+her	PRON
+first	ADV
+credited	VERB
+role	NOUN
+was	AUX
+featured	VERB
+in	ADP
+viva	X
+villa	PROPN
+.	PUNCT
+
+#	id	706
+the	DET
+company	NOUN
+also	ADV
+made	VERB
+moves	NOUN
+in	ADP
+the	DET
+market	NOUN
+,	PUNCT
+such	ADJ
+as	ADP
+the	DET
+buying	NOUN
+of	ADP
+smaller	ADJ
+company	NOUN
+nor-cargo	NOUN
+,	PUNCT
+to	PART
+compensate	VERB
+for	ADP
+the	DET
+general	ADJ
+decline	NOUN
+in	ADP
+the	DET
+sending	NOUN
+of	ADP
+letters	NOUN
+.	PUNCT
+
+#	id	707
+fitzgerald	PROPN
+was	AUX
+a	DET
+member	NOUN
+of	ADP
+the	DET
+directors	NOUN
+guild	NOUN
+of	ADP
+america	PROPN
+.	PUNCT
+
+#	id	708
+he	PRON
+cited	VERB
+blade	NOUN
+runner	NOUN
+as	ADP
+a	DET
+thematic	ADJ
+and	CCONJ
+visual	ADJ
+influence	NOUN
+.	PUNCT
+
+#	id	709
+savage	NOUN
+is	AUX
+a	DET
+1	NUM
+page	NOUN
+,	PUNCT
+magazine	NOUN
+format	NOUN
+comics	NOUN
+novel	NOUN
+released	VERB
+in	ADP
+1	NUM
+as	ADP
+a	DET
+precursor	NOUN
+to	ADP
+the	DET
+modern	ADJ
+graphic	ADJ
+novel	NOUN
+.	PUNCT
+
+#	id	710
+evangeline	PROPN
+(	PUNCT
+david	PROPN
+hidalgo	PROPN
+,	PUNCT
+louie	PROPN
+perez	PROPN
+)	PUNCT
+-	PUNCT
+1	NUM
+:	SYM
+1	NUM
+
+#	id	711
+rf	PROPN
+electronic	ADJ
+amplifier	NOUN
+are	AUX
+used	VERB
+at	ADP
+intervals	NOUN
+to	PART
+overcome	VERB
+cable	NOUN
+attenuation	NOUN
+and	CCONJ
+passive	ADJ
+losses	NOUN
+of	ADP
+the	DET
+electrical	ADJ
+signals	NOUN
+caused	VERB
+by	ADP
+splitting	VERB
+or	CCONJ
+tapping	VERB
+the	DET
+coaxial	ADJ
+cable	NOUN
+.	PUNCT
+
+#	id	712
+respawn	NOUN
+continued	VERB
+to	PART
+support	VERB
+the	DET
+game	NOUN
+after	ADP
+its	PRON
+release	NOUN
+,	PUNCT
+providing	VERB
+several	ADJ
+updates	NOUN
+and	CCONJ
+downloadable	ADJ
+content	NOUN
+.	PUNCT
+
+#	id	713
+both	PRON
+bank	NOUN
+account	NOUN
+and	CCONJ
+card	NOUN
+,	PUNCT
+like	ADP
+vipps	NOUN
+and	CCONJ
+mobilepay	NOUN
+(	PUNCT
+users	NOUN
+with	ADP
+an	DET
+account	NOUN
+at	ADP
+the	DET
+right	ADJ
+bank	NOUN
+can	AUX
+debit	VERB
+their	PRON
+account	NOUN
+,	PUNCT
+while	SCONJ
+other	ADJ
+users	NOUN
+can	AUX
+debit	VERB
+their	PRON
+card	NOUN
+)	PUNCT
+
+#	id	714
+the	DET
+family	NOUN
+subsequently	ADV
+lived	VERB
+in	ADP
+both	DET
+england	PROPN
+and	CCONJ
+france	PROPN
+.	PUNCT
+
+#	id	715
+he	PRON
+hoarded	VERB
+dead	ADJ
+birds	NOUN
+,	PUNCT
+wore	VERB
+shirts	NOUN
+with	ADP
+funeral	ADJ
+announcements	NOUN
+printed	VERB
+on	ADP
+them	PRON
+,	PUNCT
+and	CCONJ
+wore	VERB
+corpse	NOUN
+paint	NOUN
+,	PUNCT
+being	AUX
+the	DET
+first	ADJ
+in	ADP
+black	ADJ
+metal	NOUN
+to	PART
+do	VERB
+so	ADV
+by	ADP
+some	DET
+accounts	NOUN
+.	PUNCT
+
+#	id	716
+:	PUNCT
+*	PUNCT
+firefly	NOUN
+main	ADJ
+stage	NOUN
+:	PUNCT
+japandroids	PROPN
+,	PUNCT
+jim	PROPN
+james	PROPN
+,	PUNCT
+alabama	PROPN
+shakes	VERB
+,	PUNCT
+yeah	INTJ
+yeah	INTJ
+yeahs	INTJ
+,	PUNCT
+tom	PROPN
+petty	PROPN
+and	CCONJ
+the	DET
+heartbreakers	NOUN
+
+#	id	717
+he	PRON
+worked	VERB
+as	ADP
+a	DET
+head	NOUN
+coach	NOUN
+in	ADP
+the	DET
+super	ADJ
+league	NOUN
+for	ADP
+the	DET
+castleford	PROPN
+tigers	NOUN
+between	ADP
+1	NUM
+and	CCONJ
+1	NUM
+.	PUNCT
+
+#	id	718
+chynoweth	PROPN
+was	AUX
+posthumously	ADV
+elected	VERB
+to	ADP
+the	DET
+hockey	NOUN
+hall	NOUN
+of	ADP
+fame	NOUN
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	719
+the	DET
+following	VERB
+month	NOUN
+,	PUNCT
+she	PRON
+was	AUX
+traded	VERB
+to	ADP
+the	DET
+houston	PROPN
+dash	NOUN
+in	ADP
+exchange	NOUN
+for	ADP
+midfielder	NOUN
+ashley	PROPN
+nick	PROPN
+.	PUNCT
+
+#	id	720
+they	PRON
+contain	VERB
+a	DET
+white	ADJ
+latex	NOUN
+.	PUNCT
+
+#	id	721
+it	PRON
+has	AUX
+been	AUX
+used	VERB
+,	PUNCT
+firstly	ADV
+for	ADP
+the	DET
+united	PROPN
+kingdom	PROPN
+and	CCONJ
+,	PUNCT
+since	SCONJ
+1	NUM
+,	PUNCT
+of	ADP
+the	DET
+united	PROPN
+states	PROPN
+of	ADP
+america	PROPN
+.	PUNCT
+
+#	id	722
+according	VERB
+to	ADP
+the	DET
+conservancy	NOUN
+association	NOUN
+,	PUNCT
+some	DET
+notable	ADJ
+trees	NOUN
+are	AUX
+located	VERB
+at	ADP
+:	PUNCT
+
+#	id	723
+it	PRON
+is	AUX
+an	DET
+intermediate	ADJ
+stop	NOUN
+on	ADP
+the	DET
+gauge	NOUN
+furkaoberalp-bahn	NOUN
+of	ADP
+the	DET
+matterhorn	PROPN
+gotthard	PROPN
+bahn	PROPN
+and	CCONJ
+is	AUX
+served	VERB
+by	ADP
+local	ADJ
+trains	NOUN
+only	ADV
+.	PUNCT
+
+#	id	724
+the	DET
+novel	NOUN
+was	AUX
+published	VERB
+in	ADP
+paris	PROPN
+in	ADP
+two	NUM
+volumes	NOUN
+.	PUNCT
+
+#	id	725
+no	INTJ
+is	AUX
+a	DET
+1	NUM
+spy	NOUN
+film	NOUN
+directed	VERB
+by	ADP
+terence	PROPN
+young	PROPN
+.	PUNCT
+
+#	id	726
+it	PRON
+was	AUX
+described	VERB
+by	ADP
+commentators	NOUN
+as	ADP
+a	DET
+morris	PROPN
+oxford	PROPN
+six	NUM
+with	ADP
+a	DET
+coachbuilt	NOUN
+saloon	NOUN
+body	NOUN
+.	PUNCT
+1	NUM
+examples	NOUN
+of	ADP
+the	DET
+1	NUM
+model	NOUN
+were	AUX
+produced	VERB
+followed	VERB
+by	ADP
+11	NUM
+of	ADP
+the	DET
+1	NUM
+1	NUM
+model	NOUN
+.	PUNCT
+
+#	id	727
+all	DET
+double	ADJ
+deckers	NOUN
+have	VERB
+a	DET
+low-floor	ADJ
+bus	NOUN
+and	CCONJ
+a	DET
+wheelchair	NOUN
+ramp	NOUN
+at	ADP
+the	DET
+front	ADJ
+door	NOUN
+.	PUNCT
+
+#	id	728
+in	ADP
+1	NUM
+,	PUNCT
+it	PRON
+was	AUX
+made	VERB
+into	ADP
+a	DET
+cbs	PROPN
+movie	NOUN
+of	ADP
+the	DET
+week	NOUN
+,	PUNCT
+starring	VERB
+ralph	PROPN
+waite	PROPN
+and	CCONJ
+jennifer	PROPN
+jason	PROPN
+leigh	PROPN
+.	PUNCT
+
+#	id	729
+towards	ADP
+the	DET
+end	NOUN
+of	ADP
+his	PRON
+fifth	ADJ
+term	NOUN
+,	PUNCT
+he	PRON
+died	VERB
+and	CCONJ
+was	AUX
+replaced	VERB
+by	ADP
+arvid	PROPN
+johanson	PROPN
+.	PUNCT
+
+#	id	730
+the	DET
+mandelbaum	PROPN
+gate	NOUN
+,	PUNCT
+a	DET
+novel	NOUN
+by	ADP
+muriel	PROPN
+spark	VERB
+
+#	id	731
+a	DET
+reviewer	NOUN
+for	ADP
+variety	NOUN
+wrote	VERB
+that	SCONJ
+the	DET
+film	NOUN
+stacks	VERB
+up	ADP
+as	ADP
+promising	VERB
+entertainment	NOUN
+with	ADP
+some	DET
+reservations	NOUN
+.	PUNCT
+
+#	id	732
+gil	PROPN
+was	AUX
+defeated	VERB
+then	ADV
+by	ADP
+jo-wilfried	ADJ
+tsonga	PROPN
+.	PUNCT
+
+#	id	733
+not	PART
+only	ADV
+is	AUX
+her	PRON
+style	NOUN
+greatly	ADV
+admired	ADJ
+and	CCONJ
+well	ADV
+recognized	VERB
+,	PUNCT
+today	NOUN
+she	PRON
+is	AUX
+recognized	VERB
+as	ADP
+the	DET
+most	ADV
+prolific	ADJ
+souvenir	NOUN
+/	SYM
+postcard	NOUN
+and	CCONJ
+greeting	NOUN
+card	NOUN
+artist	NOUN
+of	ADP
+her	PRON
+era	NOUN
+.	PUNCT
+
+#	id	734
+:	PUNCT
+1	NUM
+.	PUNCT
+browning	VERB
+hi-power	PROPN
+production	NOUN
+started	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	735
+constructed	VERB
+in	ADP
+the	DET
+late	ADJ
+1s	NOUN
+and	CCONJ
+early	ADJ
+1s	NOUN
+,	PUNCT
+it	PRON
+was	AUX
+one	NUM
+of	ADP
+the	DET
+biggest	ADJ
+investments	NOUN
+of	ADP
+the	DET
+second	ADJ
+polish	NOUN
+republic	NOUN
+.	PUNCT
+
+#	id	736
+he	PRON
+gained	VERB
+two	NUM
+minutes	NOUN
+on	ADP
+the	DET
+remaining	VERB
+part	NOUN
+of	ADP
+that	DET
+climb	NOUN
+,	PUNCT
+and	CCONJ
+had	VERB
+assistance	NOUN
+from	ADP
+joost	PROPN
+posthuma	PROPN
+and	CCONJ
+maxime	NOUN
+monfort	NOUN
+,	PUNCT
+members	NOUN
+of	ADP
+his	PRON
+team	NOUN
+who	PRON
+had	AUX
+been	AUX
+in	ADP
+the	DET
+early	ADJ
+break	NOUN
+.	PUNCT
+
+#	id	737
+the	DET
+communist	PROPN
+party	PROPN
+of	ADP
+ireland	PROPN
+was	AUX
+first	ADV
+founded	VERB
+in	ADP
+1	NUM
+,	PUNCT
+and	CCONJ
+re	AUX
+founded	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	738
+they	PRON
+concern	VERB
+a	DET
+dialogue	NOUN
+on	ADP
+love	NOUN
+that	PRON
+is	AUX
+supposed	VERB
+to	PART
+have	AUX
+happened	VERB
+at	ADP
+asolo	PROPN
+near	ADP
+the	DET
+court	NOUN
+of	ADP
+aikaterini	ADJ
+cornaro	NOUN
+.	PUNCT
+
+#	id	739
+indonesia	PROPN
+peacekeepers	NOUN
+tried	VERB
+to	PART
+no	DET
+avail	NOUN
+to	PART
+calm	VERB
+the	DET
+situation	NOUN
+before	SCONJ
+the	DET
+clashes	NOUN
+erupted	VERB
+.	PUNCT
+
+#	id	740
+the	DET
+bottle	NOUN
+s	PROPN
+feet	NOUN
+are	AUX
+shod	ADJ
+in	ADP
+spats	NOUN
+covered	VERB
+footwear	NOUN
+and	CCONJ
+its	PRON
+label	NOUN
+states	NOUN
+,	PUNCT
+for	ADP
+keeping	VERB
+your	PRON
+clothes	NOUN
+white	ADJ
+and	CCONJ
+clean	ADJ
+.	PUNCT
+
+#	id	741
+typically	ADV
+,	PUNCT
+there	PRON
+is	VERB
+a	DET
+political	ADJ
+arm	NOUN
+(	PUNCT
+such	ADJ
+as	ADP
+sinn	PROPN
+fein	PROPN
+or	CCONJ
+the	DET
+national	ADJ
+front	NOUN
+for	ADP
+the	DET
+liberation	NOUN
+of	ADP
+south	PROPN
+vietnam	PROPN
+)	PUNCT
+that	PRON
+directs	VERB
+the	DET
+military	NOUN
+in	ADP
+planning	VERB
+carefully	ADV
+coordinated	VERB
+violence	NOUN
+.	PUNCT
+
+#	id	742
+the	DET
+following	VERB
+day	NOUN
+a	DET
+group	NOUN
+of	ADP
+11	NUM
+marched	VERB
+to	ADP
+skipton	PROPN
+and	CCONJ
+the	DET
+military	NOUN
+was	AUX
+again	ADV
+sent	VERB
+to	PART
+intervene	VERB
+,	PUNCT
+with	ADP
+one	NUM
+soldier	NOUN
+severely	ADV
+injured	VERB
+by	ADP
+the	DET
+stone	NOUN
+throwing	NOUN
+crowd	NOUN
+.	PUNCT
+
+#	id	743
+it	PRON
+had	VERB
+boarding	NOUN
+gates	NOUN
+for	ADP
+allegheny	PROPN
+airlines	NOUN
+on	ADP
+the	DET
+second	ADJ
+floor	NOUN
+and	CCONJ
+baggage	NOUN
+carousels	NOUN
+on	ADP
+the	DET
+first	ADJ
+floor	NOUN
+.	PUNCT
+
+#	id	744
+famously	ADV
+,	PUNCT
+they	PRON
+are	AUX
+an	DET
+essential	ADJ
+component	NOUN
+of	ADP
+a	DET
+full	ADJ
+breakfast	NOUN
+.	PUNCT
+
+#	id	745
+roman	ADJ
+engineers	NOUN
+later	ADV
+ran	VERB
+the	DET
+course	NOUN
+of	ADP
+dere	ADJ
+street	NOUN
+across	ADP
+the	DET
+same	ADJ
+neck	NOUN
+of	ADP
+land	NOUN
+.	PUNCT
+
+#	id	746
+traditional	ADJ
+kue	NOUN
+snacks	NOUN
+-	PUNCT
+a	DET
+collection	NOUN
+of	ADP
+steamed	ADJ
+or	CCONJ
+fried	VERB
+snacks	NOUN
+with	ADP
+rice	NOUN
+flour	NOUN
+and	CCONJ
+coconut	NOUN
+sugar	NOUN
+based	VERB
+ingredients	NOUN
+,	PUNCT
+exist	VERB
+in	ADP
+many	ADJ
+forms	NOUN
+.	PUNCT
+
+#	id	747
+she	PRON
+is	AUX
+a	DET
+member	NOUN
+of	ADP
+the	DET
+republican	PROPN
+party	PROPN
+.	PUNCT
+
+#	id	748
+the	DET
+kingdom	NOUN
+of	ADP
+bavaria	PROPN
+is	AUX
+established	VERB
+by	ADP
+napoleon	PROPN
+.	PUNCT
+
+#	id	749
+energy	PROPN
+and	CCONJ
+resources	PROPN
+institute	PROPN
+provided	VERB
+all	DET
+technical	ADJ
+inputs	NOUN
+and	CCONJ
+took	VERB
+up	ADP
+the	DET
+complete	ADJ
+execution	NOUN
+of	ADP
+research	NOUN
+,	PUNCT
+development	NOUN
+,	PUNCT
+and	CCONJ
+demonstration	NOUN
+.	PUNCT
+
+#	id	750
+it	PRON
+is	AUX
+operated	VERB
+under	ADP
+contract	NOUN
+by	ADP
+transdev	NOUN
+group	NOUN
+.	PUNCT
+
+#	id	751
+that	DET
+year	NOUN
+love	NOUN
+camp	NOUN
+1	NUM
+was	AUX
+also	ADV
+among	ADP
+the	DET
+first	ADJ
+pure	ADJ
+exploitation	NOUN
+film	NOUN
+that	PRON
+influenced	VERB
+the	DET
+women	NOUN
+in	ADP
+prison	NOUN
+and	CCONJ
+nazi	NOUN
+exploitation	NOUN
+genres	NOUN
+.	PUNCT
+
+#	id	752
+murphy	PROPN
+played	VERB
+his	PRON
+club	NOUN
+hurling	NOUN
+and	CCONJ
+football	NOUN
+with	ADP
+nemo	PROPN
+rangers	PROPN
+gaa	PROPN
+and	CCONJ
+enjoyed	VERB
+much	ADJ
+success	NOUN
+during	ADP
+a	DET
+golden	ADJ
+age	NOUN
+for	ADP
+the	DET
+club	NOUN
+.	PUNCT
+
+#	id	753
+michaels	PROPN
+,	PUNCT
+who	PRON
+spent	VERB
+seven	NUM
+seasons	NOUN
+working	VERB
+backup	NOUN
+games	NOUN
+,	PUNCT
+was	AUX
+apparently	ADV
+very	ADV
+miffed	VERB
+over	ADP
+espn	PROPN
+on	ADP
+abc	PROPN
+delay	PROPN
+in	ADP
+announcing	VERB
+him	PRON
+as	ADP
+their	PRON
+top	ADJ
+baseball	NOUN
+announcer	NOUN
+.	PUNCT
+
+#	id	754
+the	DET
+song	NOUN
+was	AUX
+featured	VERB
+on	ADP
+the	DET
+video	NOUN
+game	NOUN
+,	PUNCT
+dj	NOUN
+hero	NOUN
+1	NUM
+.	PUNCT
+
+#	id	755
+texas	PROPN
+built	VERB
+a	DET
+monument	NOUN
+to	ADP
+him	PRON
+there	ADV
+in	ADP
+1	NUM
+,	PUNCT
+and	CCONJ
+his	PRON
+remains	NOUN
+were	AUX
+later	ADV
+moved	VERB
+to	ADP
+washington-on-the-brazos	NOUN
+.	PUNCT
+
+#	id	756
+is	AUX
+a	DET
+purported	ADJ
+book	NOUN
+of	ADP
+secrets	NOUN
+describing	VERB
+the	DET
+teachings	NOUN
+of	ADP
+the	DET
+tea	NOUN
+saint	NOUN
+,	PUNCT
+sen	PROPN
+no	DET
+rikyu	NOUN
+.	PUNCT
+
+#	id	757
+eiji	PROPN
+tsuburaya	PROPN
+directed	VERB
+the	DET
+special	ADJ
+effects	NOUN
+for	ADP
+the	DET
+first	ADJ
+six	NUM
+films	NOUN
+of	ADP
+the	DET
+series	NOUN
+.	PUNCT
+
+#	id	758
+the	DET
+song	NOUN
+was	AUX
+originally	ADV
+performed	VERB
+by	ADP
+the	DET
+chizbatron	NOUN
+with	ADP
+gideon	PROPN
+singer	NOUN
+as	ADP
+a	DET
+soloist	NOUN
+.	PUNCT
+
+#	id	759
+the	DET
+tram	NOUN
+leaves	VERB
+every	DET
+five	NUM
+minutes	NOUN
+and	CCONJ
+it	PRON
+takes	VERB
+approximately	ADV
+1	NUM
+minutes	NOUN
+to	PART
+travel	VERB
+to	ADP
+the	DET
+city	NOUN
+.	PUNCT
+
+#	id	760
+b	X
+f	PROPN
+skinner	PROPN
+s	PART
+radical	ADJ
+behaviorism	NOUN
+also	ADV
+has	AUX
+not	PART
+established	VERB
+a	DET
+systematic	ADJ
+relationship	NOUN
+to	ADP
+traditional	ADJ
+psychology	NOUN
+knowledge	NOUN
+.	PUNCT
+
+#	id	761
+he	PRON
+is	AUX
+portrayed	VERB
+in	ADP
+two	NUM
+of	ADP
+william	PROPN
+shakespeare	PROPN
+plays	VERB
+:	PUNCT
+henry	PROPN
+vi	PROPN
+part	PROPN
+1	NUM
+and	CCONJ
+richard	PROPN
+iii	PROPN
+.	PUNCT
+
+#	id	762
+the	DET
+song	NOUN
+was	AUX
+the	DET
+theme	NOUN
+from	ADP
+the	DET
+film	NOUN
+foreign	ADJ
+intrigue	NOUN
+.	PUNCT
+
+#	id	763
+he	PRON
+attended	VERB
+a	DET
+missionary	ADJ
+school	NOUN
+in	ADP
+stavanger	PROPN
+from	ADP
+which	PRON
+he	PRON
+graduated	VERB
+in	ADP
+1	NUM
+.	PUNCT
+
+#	id	764
+he	PRON
+was	AUX
+also	ADV
+an	DET
+active	ADJ
+member	NOUN
+of	ADP
+the	DET
+hovevei	PROPN
+zion	PROPN
+organization	PROPN
+.	PUNCT
+

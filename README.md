@@ -1,39 +1,14 @@
-# NLP 2022: Homework #1
+# Homework #1 Named Entity Recognition
 
-This is the first homework of the NLP 2022 course at Sapienza University of Rome.
+This is the first homework of the NLP 2022 course at Sapienza University of Rome, taught by [**Roberto Navigli**](http://www.diag.uniroma1.it/~navigli/).
 
-#### Instructor
+Check the [Report](https://github.com/florin-git/Named-Entity-Recognition/blob/main/report.pdf) and the Slide Presentation for more information.
 
-* **Roberto Navigli**
-  * Webpage: http://www.diag.uniroma1.it/~navigli/
-
-
-## Requirements
-
-* Ubuntu distribution
-  * Either 21.10 or the current LTS (20.04) are perfectly fine
-  * If you do not have it installed, please use a virtual machine (or install it as your secondary OS). Plenty of tutorials online for this part
-* [conda](https://docs.conda.io/projects/conda/en/latest/index.html), a package and environment management system particularly used for Python in the ML community
+The best model reaches an **F1 score of 74.0%** on the secret test set of the course.
 
 ## Notes
 
 Unless otherwise stated, all commands here are expected to be run from the root directory of this project
-
-## Setup Environment
-
-As mentioned in the slides, differently from previous years, this year we will be using Docker to remove any issue pertaining your code runnability. If test.sh runs
-on your machine (and you do not edit any uneditable file), it will run on ours as well; we cannot stress enough this point.
-
-Please note that, if it turns out it does not run on our side, and yet you claim it run on yours, the **only explanation** would be that you edited restricted files,
-messing up with the environment reproducibility: regardless of whether or not your code actually runs on your machine, if it does not run on ours,
-you will be failed automatically. **Only edit the allowed files**.
-
-To run *test.sh*, we need to perform two additional steps:
-
-* Install Docker
-* Setup a client
-
-For those interested, *test.sh* essentially setups a server exposing your model through a REST Api and then queries this server, evaluating your model.
 
 ### Install Docker
 
@@ -69,5 +44,6 @@ bash test.sh data/dev.tsv
 
 Actually, you can replace *data/dev.tsv* to point to a different file, as far as the target file has the same format.
 
-If you hadn't changed *hw1/stud/model.py* yet when you run test.sh, the scores you just saw describe how a random baseline
-behaves. To have *test.sh* evaluate your model, follow the instructions in the slide.
+## Reproduce using checkpoints
+You can download the checkpoints of the models I described in the paper from this [Google Drive link](https://drive.google.com/file/d/10cw9j-4NNjX8a76ZmMcyEzje02F4Ct3y/view?usp=sharing).
+
